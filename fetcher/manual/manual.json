@@ -1,0 +1,11 @@
+{
+  "_说明": "此文件用于手动补充内容，会在每天抓取时合并进对应板块并置顶显示。格式见 README.md 的『手动补充内容』一节。每项字段：title(标题，必填)、summary(摘要)、url(原文链接)、source(来源名)、publishedAt(发布时间)。",
+  "aiNews": [],
+  "industryInvest": [],
+  "top500": [],
+  "newProducts": [],
+  "influencerVideos": [],
+  "crossCollab": [],
+  "hotTopics": [],
+  "startup": []
+}

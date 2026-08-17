@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <meta name="theme-color" content="#3b9eff" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+  <title>智讯工作台</title>
+  <link rel="manifest" href="./manifest.webmanifest" />
+  <link rel="icon" href="./icons/icon-192.png" />
+  <link rel="apple-touch-icon" href="./icons/icon-192.png" />
+  <link rel="stylesheet" href="./style.css" />
+</head>
+<body>
+  <!-- 顶部栏 -->
+  <header id="topbar">
+    <button id="menuBtn" class="icon-btn" aria-label="打开导航" title="导航">
+      <svg viewBox="0 0 24 24" width="22" height="22"><path fill="currentColor" d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </button>
+    <div class="top-title">
+      <span class="top-name">智讯工作台</span>
+      <span id="topTime" class="top-time">—</span>
+    </div>
+    <button id="refreshBtn" class="icon-btn" aria-label="刷新" title="立即刷新">
+      <svg id="refreshIcon" viewBox="0 0 24 24" width="20" height="20"><path fill="currentColor" d="M17.65 6.35A8 8 0 1 0 19.73 14h-2.08a6 6 0 1 1-1.42-6.23L13 11h7V4z"/></svg>
+    </button>
+  </header>
+
+  <!-- 抽屉遮罩 -->
+  <div id="overlay" class="overlay hidden"></div>
+
+  <!-- 左侧导航抽屉 -->
+  <aside id="drawer" class="drawer" aria-label="导航菜单">
+    <div class="drawer-head">
+      <div class="drawer-logo">智</div>
+      <div>
+        <div class="drawer-name">智讯工作台</div>
+        <div class="drawer-sub">AI · 投资 · 营销 · 创业</div>
+      </div>
+    </div>
+    <nav class="drawer-nav">
+      <a href="#/" class="nav-item" data-view="home">🏠　今日总览</a>
+      <div class="nav-group">资讯板块</div>
+      <a href="#/aiNews" class="nav-item" data-view="aiNews">🤖　AI 大模型热点</a>
+      <a href="#/industryInvest" class="nav-item" data-view="industryInvest">💰　行业投资动态</a>
+      <a href="#/top500" class="nav-item" data-view="top500">🏢　500强融资投资</a>
+      <a href="#/hotTopics" class="nav-item" data-view="hotTopics">🔥　营销热点</a>
+      <a href="#/startup" class="nav-item" data-view="startup">🚀　创业机会</a>
+      <div class="nav-group">营销动作</div>
+      <a href="#/newProducts" class="nav-item" data-view="newProducts">📦　新品上市</a>
+      <a href="#/influencerVideos" class="nav-item" data-view="influencerVideos">🎬　达人合作爆款</a>
+      <a href="#/crossCollab" class="nav-item" data-view="crossCollab">🤝　跨界合作</a>
+    </nav>
+    <div class="drawer-foot">
+      <a href="#/about" class="nav-item" data-view="about">ℹ️　关于与数据源</a>
+      <div class="drawer-ver">v1.0 · 每日 08:00 / 20:00 更新</div>
+    </div>
+  </aside>
+
+  <!-- 主体内容 -->
+  <main id="main" class="main">
+    <div id="pullHint" class="pull-hint">↓ 下拉刷新</div>
+    <div id="view"></div>
+  </main>
+
+  <!-- 离线提示条 -->
+  <div id="offlineBar" class="offline-bar hidden">当前为离线缓存数据</div>
+
+  <script src="./app.js"></script>
+</body>
+</html>
