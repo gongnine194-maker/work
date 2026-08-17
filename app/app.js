@@ -2,7 +2,7 @@
 (() => {
   'use strict';
 
-  const DATA_URL = './data/latest.json';
+  const DATA_URL = '../data/latest.json';
   const CACHE_KEY = 'workbench-data-v1';
 
   const SECTIONS = {
