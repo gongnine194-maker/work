@@ -253,6 +253,22 @@
     navigator.serviceWorker.register('./sw.js').catch(() => {});
   }
 
+  /* ---------- 回到前台 / 重新打开时自动刷新 ---------- */
+  let lastAutoRefresh = 0;
+  function autoRefresh() {
+    const now = Date.now();
+    if (now - lastAutoRefresh < 20000) return; // 防抖：20 秒内不重复刷新
+    lastAutoRefresh = now;
+    loadData(true); // 静默刷新到最新数据（在线拿最新，离线用缓存）
+  }
+  document.addEventListener('visibilitychange', () => {
+    if (document.visibilityState === 'visible') autoRefresh();
+  });
+  window.addEventListener('focus', autoRefresh);
+  window.addEventListener('pageshow', (e) => {
+    if (e.persisted) autoRefresh(); // 从浏览器缓存恢复时也刷新
+  });
+
   /* ---------- 启动 ---------- */
   loadData();
 })();
