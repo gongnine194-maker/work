@@ -1,5 +1,5 @@
 /* 智讯工作台 Service Worker：缓存应用外壳 + 数据，支持离线查看 */
-const CACHE = 'workbench-v1';
+const CACHE = 'workbench-v2';
 const SHELL = [
   './',
   './index.html',
@@ -31,15 +31,19 @@ self.addEventListener('fetch', (e) => {
   const url = new URL(req.url);
 
   // 数据文件：网络优先，失败回退缓存（离线也能看最新一次的数据）
+  // 注意：只缓存成功的响应，绝不要把 404/5xx 缓存下来
   if (url.pathname.endsWith('/data/latest.json')) {
     e.respondWith(
       fetch(req)
         .then((res) => {
-          const copy = res.clone();
-          caches.open(CACHE).then((c) => c.put(req, copy));
-          return res;
+          if (res.ok) {
+            const copy = res.clone();
+            caches.open(CACHE).then((c) => c.put(req, copy));
+            return res;
+          }
+          throw new Error('HTTP ' + res.status);
         })
-        .catch(() => caches.match(req).then((r) => r || caches.match('./index.html'))),
+        .catch(() => caches.match(req).then((r) => r || Response.error())),
     );
     return;
   }
