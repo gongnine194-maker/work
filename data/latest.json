@@ -1,75 +1,17 @@
 {
   "app": "智讯工作台",
   "version": 1,
-  "updatedAt": "2026-10-12T01:25:22.995+08:00",
+  "updatedAt": "2026-10-12T12:37:24.083+08:00",
   "sections": {
     "aiNews": [
       {
-        "id": "ithome-0-1791739504746",
-        "title": "李杰回应一加 16 不支持全局 185Hz：产品追求体验优先，屏幕暂时做不到",
-        "summary": "IT之家 10 月 11 日消息，一加中国区总裁李杰今日在微博评论区回应关于一加 16 屏幕刷新率相关问题， 据其介绍，一加 16 追求体验优先，不是参数优先。要同时兼顾流畅，功耗，发热，屏幕显示效果，现在的屏幕技术 暂时做不到全局 185Hz 。全局高刷要做到常用常开，目前最佳…",
-        "url": "https://www.ithome.com/1/011/715.htm",
+        "id": "ithome-0-1791779835103",
+        "title": "海尔浴霸 M1 系列人感除臭版发布：承袭海尔冰箱净味技术，首发 699 元",
+        "summary": "IT之家 10 月 12 日消息，海尔宣布推出新款海尔浴霸 M1 系列人感除臭版，首发到手价 699 元。 据商品页面介绍，该系列产品搭载黑金净味技术，承袭海尔冰箱净味科技，内置一键除臭程序模组和诺奖同源晶态模块，可主动捕捉吸附并全时分解异味分子。 海尔表示，经广东省微生物分析检…",
+        "url": "https://www.ithome.com/1/011/853.htm",
         "source": "IT之家",
         "sourceId": "ithome",
-        "publishedAt": "Sun, 11 Oct 2026 15:28:59 GMT",
-        "prefer": [
-          "aiNews",
-          "hotTopics"
-        ],
-        "tags": []
-      },
-      {
-        "id": "ithome-1-1791739504746",
-        "title": "曝苹果新一代 Apple TV 4K 内置麦克风、Siri Remote 遥控器将配扬声器便于查找",
-        "summary": "IT之家 10 月 11 日消息，苹果将在本周二举行“欢迎回家”活动，主角预计是 HomeView 智能家庭中枢，除此之外还有新款 HomePod mini 和 Apple TV 4K。 据彭博社记者马克 · 古尔曼今日透露， 新款 Apple TV 4K 将在 10 月 30 …",
-        "url": "https://www.ithome.com/1/011/714.htm",
-        "source": "IT之家",
-        "sourceId": "ithome",
-        "publishedAt": "Sun, 11 Oct 2026 15:20:30 GMT",
-        "prefer": [
-          "aiNews",
-          "hotTopics"
-        ],
-        "tags": []
-      },
-      {
-        "id": "ithome-2-1791739504746",
-        "title": "消息称 OLED 屏新款 iPad mini 售价将大幅上涨，或接近 799 美元",
-        "summary": "IT之家 10 月 11 日消息，彭博社记者马克 · 古尔曼今天表示，苹果计划本月晚些时候推出新款 iPad mini。新机的起步存储空间可能会有所提升， 但有意换机的用户得提前做好涨价的准备 。 古尔曼透露，新款 iPad mini 售价相比现款机型将大幅上涨，预计将接近 79…",
-        "url": "https://www.ithome.com/1/011/713.htm",
-        "source": "IT之家",
-        "sourceId": "ithome",
-        "publishedAt": "Sun, 11 Oct 2026 15:12:21 GMT",
-        "prefer": [
-          "aiNews",
-          "hotTopics"
-        ],
-        "tags": []
-      },
-      {
-        "id": "ithome-3-1791739504746",
-        "title": "古尔曼：苹果计划在多个直营店举办 iPhone Duo 大型体验活动，最多摆出 150 台以上样机",
-        "summary": "IT之家 10 月 11 日消息，彭博社记者马克 · 古尔曼今天在新一期《Power On》通讯透露，苹果正在为其首款折叠屏手机 iPhone Duo 谋划声势浩大的展示活动， 让每一位潜在顾客都能充分体验这款新品 。 古尔曼表示，苹果将在美国各地的 Apple Store 直营…",
-        "url": "https://www.ithome.com/1/011/712.htm",
-        "source": "IT之家",
-        "sourceId": "ithome",
-        "publishedAt": "Sun, 11 Oct 2026 15:01:19 GMT",
-        "prefer": [
-          "aiNews",
-          "hotTopics"
-        ],
-        "tags": [
-          "marketing"
-        ]
-      },
-      {
-        "id": "ithome-4-1791739504746",
-        "title": "消息称荣耀 WIN Pad 平板搭载 8.4 英寸 240Hz OLED 屏，本月发布",
-        "summary": "IT之家 10 月 11 日消息，据博主 @体验more 爆料，荣耀 WIN Pad 平板搭载第五代骁龙 8 至尊版处理器，配备 8.4 英寸 240Hz OLED 平板、主动散热风扇，和 iQOO Pad Pro 都是本月发布。 据博主 @数码闲聊站 于 9 月 21 日爆料，…",
-        "url": "https://www.ithome.com/1/011/711.htm",
-        "source": "IT之家",
-        "sourceId": "ithome",
-        "publishedAt": "Sun, 11 Oct 2026 14:55:18 GMT",
+        "publishedAt": "Mon, 12 Oct 2026 04:34:42 GMT",
         "prefer": [
           "aiNews",
           "hotTopics"
@@ -80,27 +22,97 @@
         ]
       },
       {
-        "id": "ithome-5-1791739504746",
-        "title": "小岛秀夫确认客串某大型真人电影、某知名动画，坦言不喜欢扮演自己",
-        "summary": "IT之家 10 月 11 日消息，小岛秀夫近日在 KOJI10 广播节目透露，他已确定客串某部真人电影和某动画。这位游戏制作人曾出演日剧《别班》，还参与过《疯狂动物城 2》日语配音。 ▲ 小岛秀夫图源：小岛工作室 小岛秀夫在节目中表示：“有导演和其他人邀请我出演。其中一部是大型真…",
-        "url": "https://www.ithome.com/1/011/710.htm",
+        "id": "ithome-1-1791779835103",
+        "title": "阶跃 Step 5 Preview 模型上线腾讯 WorkBuddy，10 月 12 至 25 日独家限免",
+        "summary": "IT之家 10 月 12 日消息，阶跃 StepFun 今日宣布，阶跃 Step 5 Preview 模型上线腾讯 WorkBuddy。2026 年 10 月 12 日至 10 月 25 日， 在 WorkBuddy 开启独家限免 。 据IT之家此前报道，9 月 20 日， 阶跃…",
+        "url": "https://www.ithome.com/1/011/852.htm",
         "source": "IT之家",
         "sourceId": "ithome",
-        "publishedAt": "Sun, 11 Oct 2026 14:50:56 GMT",
+        "publishedAt": "Mon, 12 Oct 2026 04:34:29 GMT",
         "prefer": [
           "aiNews",
           "hotTopics"
         ],
-        "tags": []
+        "tags": [
+          "top500"
+        ]
       },
       {
-        "id": "ithome-6-1791739504746",
-        "title": "古尔曼：苹果首款智能家庭中枢定名 HomeView，搭载 A18 芯片、四种配色可选",
-        "summary": "IT之家 10 月 11 日消息，彭博社记者马克 · 古尔曼今日在新一期《Power On》通讯中透露，苹果首款智能家庭中枢名为“HomeView”，预计将在 10 月 13 日的“欢迎回家”活动正式发布，11 月出货。 据介绍，这款产品的外观设计类似 iMac G4“台灯电脑”…",
-        "url": "https://www.ithome.com/1/011/709.htm",
+        "id": "ithome-2-1791779835103",
+        "title": "宇树科技王兴兴：过去十几年我犯的最大错误就是对 AI 还不够相信",
+        "summary": "IT之家 10 月 12 日消息，第二十六届中国国际工业博览会于 2026 年 10 月 12 日至 16 日在国家会展中心（上海）举办。 据第一财经报道，在开幕式上的深度对话环节中，宇树科技创始人王兴兴分享称，前段时间 GPT-6 的发布对具身智能行业的认知影响很大，公司团队也…",
+        "url": "https://www.ithome.com/1/011/850.htm",
         "source": "IT之家",
         "sourceId": "ithome",
-        "publishedAt": "Sun, 11 Oct 2026 14:36:10 GMT",
+        "publishedAt": "Mon, 12 Oct 2026 04:15:58 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "aiNews",
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-3-1791779835103",
+        "title": "无问芯穹完成 23 亿元 C 轮融资，单轮及累计融资额均创中国 AI 原生基础设施赛道最高纪录",
+        "summary": "IT之家 10 月 12 日消息，据证券时报消息，人工智能基础设施（AI Infra）企业 无问芯穹已完成 23 亿元的 C 轮融资 ，其成立以来的累计融资额达 43 亿元，单轮及累计融资额均创下中国 AI 原生基础设施赛道最高纪录。 公开信息显示，无问芯穹成立于 2023 年，…",
+        "url": "https://www.ithome.com/1/011/849.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Mon, 12 Oct 2026 04:08:12 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "aiNews",
+          "industryInvest",
+          "startup"
+        ]
+      },
+      {
+        "id": "ithome-4-1791779835103",
+        "title": "万代南梦宫宣布《火影忍者》手游将面向全球发行，腾讯国服 2016 年上线",
+        "summary": "IT之家 10 月 12 日消息，当地时间 10 月 11 日，万代南梦宫与腾讯在纽约动漫展上联合宣布，由腾讯魔方工作室研发的《火影忍者》手游将推出全球版本，正式面向国际市场发行。 《火影忍者》手游由万代南梦宫正版授权、腾讯魔方工作室研发，最初于 2016 年 5 月 19 日在…",
+        "url": "https://www.ithome.com/1/011/848.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Mon, 12 Oct 2026 04:03:03 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "top500"
+        ]
+      },
+      {
+        "id": "ithome-5-1791779835103",
+        "title": "华为首发星迹定位技术，支持车道亚米级 / 室内车位级导航、专业跑步精准轨迹等",
+        "summary": "IT之家 10 月 12 日现场消息，在今天的华为终端创新技术沟通会上，华为终端 BG CTO、华为终端 BG 硬件工程与产品开发管理部部长李小龙分享了华为星迹定位技术的核心亮点。 随着隧道、跑步、地库、滑雪、室内、高架 / 运动场等场景的拓展，李小龙表示，传统定位技术已无法满足…",
+        "url": "https://www.ithome.com/1/011/847.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Mon, 12 Oct 2026 04:01:17 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "top500",
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-6-1791779835103",
+        "title": "松下与谷歌合作，共同打造家庭安防解决方案",
+        "summary": "IT之家 10 月 12 日消息，Panasonic（松下）当地时间本月 6 日宣布与 Google（谷歌）达成合作协议：双方将结合松下在可视对讲和监控领域的专业技术、谷歌在 GenAI 与云方面的优势 共同开发新一代家庭安防解决方案 。 松下在新闻稿中坦诚，日本入室盗窃犯罪近年…",
+        "url": "https://www.ithome.com/1/011/840.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Mon, 12 Oct 2026 03:56:09 GMT",
         "prefer": [
           "aiNews",
           "hotTopics"
@@ -110,142 +122,110 @@
         ]
       },
       {
-        "id": "ithome-7-1791739504746",
-        "title": "粤芯半导体 10 月 13 日在创业板上市，发行价为 12.01 元 / 股",
-        "summary": "IT之家 10 月 11 日消息，粤芯半导体技术股份有限公司今日宣布，公司将于 2026 年 10 月 13 日（下周二）在深圳证券交易所创业板上市。 本次发行价格为 12.01 元 / 股 ，发行后总股本为 28.78 亿股（超额配售选择权行使前）。 IT之家了解到，粤芯半导体…",
-        "url": "https://www.ithome.com/1/011/708.htm",
+        "id": "ithome-7-1791779835103",
+        "title": "Stellantis 集团发布 6 款概念车，覆盖阿尔法 · 罗密欧、雪铁龙等品牌",
+        "summary": "IT之家 10 月 12 日消息，当地时间 10 月 11 日，2026 巴黎车展开幕前夕，Stellantis 集团对其将于 10 月 12 日至 18 日在巴黎车展上进行首次亮相的 9 款概念车中的 6 款，进行了专属预展。 据介绍，这 6 款概念车在 Stellantis …",
+        "url": "https://www.ithome.com/1/011/839.htm",
         "source": "IT之家",
         "sourceId": "ithome",
-        "publishedAt": "Sun, 11 Oct 2026 14:27:14 GMT",
+        "publishedAt": "Mon, 12 Oct 2026 03:47:15 GMT",
         "prefer": [
           "aiNews",
           "hotTopics"
         ],
         "tags": [
-          "industryInvest",
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-8-1791779835103",
+        "title": "本田宣布下一代混动系统命名 Honda Hybrid，首发车型 2027 年全球推出",
+        "summary": "IT之家 10 月 12 日消息，本田 10 月 9 日宣布其下一代混合动力系统命名为 Honda Hybrid 。 为了快速响应全球对混合动力汽车日益增长的需求，本田已将开发和生产资源重新分配到混合动力业务，以配合公司于 2026 年 5 月宣布的汽车业务重建路线图。作为这一方…",
+        "url": "https://www.ithome.com/1/011/838.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Mon, 12 Oct 2026 03:46:00 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
           "marketing",
           "startup"
         ]
       },
       {
-        "id": "ithome-8-1791739504746",
-        "title": "西渝高铁全线建设进入关键攻坚阶段，建成后西安至重庆从 6 小时缩短至 2.5 小时",
-        "summary": "IT之家 10 月 11 日消息，据央视新闻今日报道，记者从京昆高速铁路西昆公司获悉，10 月 11 日，随着最后一次爆破作业顺利完成，西安至重庆高速铁路（以下简称“西渝高铁”）高升二号隧道贯通，为全线按期建成通车奠定坚实基础。 高升二号隧道位于重庆市开州区，由中铁二院设计、中铁…",
-        "url": "https://www.ithome.com/1/011/707.htm",
+        "id": "ithome-9-1791779835103",
+        "title": "川崎重工成功测试氢燃料航空发动机，氮氧化物排放水平世界顶尖",
+        "summary": "IT之家 10 月 12 日消息，川崎重工 (Kawasaki) 日本当地时间本月 8 日宣布，其成功完成一款氢燃料航空发动机的测试， 在日本首次实现了世界领先的氮氧化物 (NOx) 低排放水平 。 这款小型发动机搭载川崎重工开发的低 NOx 氢燃烧器，将本为燃气轮机开发的专利微…",
+        "url": "https://www.ithome.com/1/011/835.htm",
         "source": "IT之家",
         "sourceId": "ithome",
-        "publishedAt": "Sun, 11 Oct 2026 14:20:09 GMT",
-        "prefer": [
-          "aiNews",
-          "hotTopics"
-        ],
-        "tags": []
-      },
-      {
-        "id": "ithome-9-1791739504746",
-        "title": "2026 WSBK 葡萄牙站第二回合：张雪机车德比斯第三名，提前锁定本赛季年度亚军",
-        "summary": "IT之家 10 月 11 日消息，2026 世界超级摩托车锦标赛（WSBK）第十一站 WorldSSP 组别 第二回合在葡萄牙的埃斯托里尔举行。 中国摩托车制造商“张雪机车”旗下车手瓦伦丁 · 德比斯拿下季军，队友费德里科 · 卡里卡苏洛赢得第十二名。 本轮比赛中， 川崎世界超级…",
-        "url": "https://www.ithome.com/1/011/706.htm",
-        "source": "IT之家",
-        "sourceId": "ithome",
-        "publishedAt": "Sun, 11 Oct 2026 14:12:07 GMT",
-        "prefer": [
-          "aiNews",
-          "hotTopics"
-        ],
-        "tags": []
-      },
-      {
-        "id": "ithome-10-1791739504746",
-        "title": "街电推出 55W 挂包充电宝：2C 设计、10000mAh 电芯，273 元赠“一年共享移动电源免费使用权益”",
-        "summary": "IT之家 10 月 11 日消息，街电现已在京东上架一款 55W 挂包充电宝，该机采用 2C 设计，内置 10000mAh 电芯，定价为 298 元， 首发价 273 元 ，同时号称还赠送给消费者“一年共享充电宝免费使用权益”。 京东 街电 55W 挂包充电宝 券后 273 元 …",
-        "url": "https://www.ithome.com/1/011/705.htm",
-        "source": "IT之家",
-        "sourceId": "ithome",
-        "publishedAt": "Sun, 11 Oct 2026 14:03:40 GMT",
+        "publishedAt": "Mon, 12 Oct 2026 03:36:41 GMT",
         "prefer": [
           "aiNews",
           "hotTopics"
         ],
         "tags": [
-          "top500",
-          "marketing"
+          "industryInvest"
         ]
       },
       {
-        "id": "ithome-11-1791739504746",
-        "title": "上市 1 月京东直降：小米 NAS 智能存储 2699 → 2384 元 4 年质保",
-        "summary": "小米首款 NAS 产品“Xiaomi 智能存储”今年 8 月 27 日开售，官方定价如下： 4T 定价 2699 元，今日国补后 2384 元： 京东 小米 智能存储 4TB 国补后 2384.1 元 领 250 元券 8T 定价 3499 元，今日超级补贴价 3194 元： 京…",
-        "url": "https://www.ithome.com/1/011/704.htm",
+        "id": "ithome-10-1791779835103",
+        "title": "本田中国 9 月汽车销量 25564 辆，同比下降 53.1%",
+        "summary": "IT之家 10 月 12 日消息，据新浪汽车今日报道，本田中国 9 月汽车销量为 25,564 辆，同比下降 53.1%。 据车云报道，本田技研工业（中国）投资有限公司总经理、本田技研科技（中国）有限公司总经理五十岚雅行明确表态，中国市场的意义早已不止于销售，更是推进电动化与智能…",
+        "url": "https://www.ithome.com/1/011/833.htm",
         "source": "IT之家",
         "sourceId": "ithome",
-        "publishedAt": "Sun, 11 Oct 2026 13:58:07 GMT",
+        "publishedAt": "Mon, 12 Oct 2026 03:35:26 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": []
+      },
+      {
+        "id": "ithome-11-1791779835103",
+        "title": "吉利远程星享 M7E 车型上市：限时 11.39 万元，续航 465km 首搭金砖致远电池",
+        "summary": "IT之家 10 月 12 日消息，吉利远程旗下纯电商务车星享 M7E 昨日正式上市，官方指导价 12.59 万元，2026 年 12 月 31 日 24 点前下定的用户可享限时专享价 11.39 万元。 星享 M7E 是吉利远程旗下首款搭载金砖致远电池的量产车型，吉利远程同步推出…",
+        "url": "https://www.ithome.com/1/011/832.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Mon, 12 Oct 2026 03:34:34 GMT",
         "prefer": [
           "aiNews",
           "hotTopics"
         ],
         "tags": [
           "industryInvest",
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-12-1791779835103",
+        "title": "目前原生最高档：一加 16 手机官宣支持《王者荣耀》165FPS + 极致画质模式",
+        "summary": "IT之家 10 月 12 日消息，一加中国区总裁李杰今日宣布， 一加 16 手机已支持《王者荣耀》原生 165FPS + 极致画质模式 。这也是目前《王者荣耀》原生支持的最高帧率和最高画质。 在 10 月 9 日的第四代东方屏技术沟通会上，一加与京东方联合研发的第四代东方屏正式发…",
+        "url": "https://www.ithome.com/1/011/831.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Mon, 12 Oct 2026 03:32:58 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
           "top500",
           "marketing"
         ]
       },
       {
-        "id": "ithome-12-1791739504746",
-        "title": "消息称美团共享充电宝开始投放新国标 3C 认证版本：配 7500mAh 电芯、自带双线支持 22.5W 输出",
-        "summary": "IT之家 10 月 11 日消息，据充电头网报道，美团旗下共享充电宝新国标版本近期已开始进入线下投放阶段，相应产品延续标志性黄色外观，侧面设有四颗电量指示灯，机身印有“22.5W 超级快充”字样，并标注 CCC 认证标识及 GB 47372-2026《移动电源安全技术规范》执行标…",
-        "url": "https://www.ithome.com/1/011/703.htm",
+        "id": "ithome-13-1791779835103",
+        "title": "霸王茶姬回应小程序崩了：代言人郑钦文夺冠，全场饮品“买一送一”活动太火爆",
+        "summary": "IT之家 10 月 12 日消息，“霸王茶姬小程序崩了”话题今日登顶微博热搜。为庆祝代言人郑钦文夺冠，霸王茶姬推出全场饮品“买一送一”活动，其官方小程序因流量过大出现崩溃，不少用户反映无法正常下单。 北京西城区一家霸王茶姬门店店员对中新经纬表示：“ 小程序正在修复中，活动太火爆了…",
+        "url": "https://www.ithome.com/1/011/830.htm",
         "source": "IT之家",
         "sourceId": "ithome",
-        "publishedAt": "Sun, 11 Oct 2026 13:53:06 GMT",
-        "prefer": [
-          "aiNews",
-          "hotTopics"
-        ],
-        "tags": [
-          "top500"
-        ]
-      },
-      {
-        "id": "ithome-13-1791739504746",
-        "title": "闪极推出 Vision Mag 带屏磁吸充电宝：15W 无线充 + 20W 有线充，5000mAh 电芯售 199 元",
-        "summary": "IT之家 10 月 11 日消息，闪极现已在京东上架一款 Vision Mag 磁吸充电宝，该产品支持 15W 无线充电和 20W 有线充电，内置 5000mAh 电芯， 定价为 199 元 。 京东 闪极 Vision Mag 磁吸充电宝 199 元 直达链接 该机整体重量 1…",
-        "url": "https://www.ithome.com/1/011/702.htm",
-        "source": "IT之家",
-        "sourceId": "ithome",
-        "publishedAt": "Sun, 11 Oct 2026 13:48:45 GMT",
-        "prefer": [
-          "aiNews",
-          "hotTopics"
-        ],
-        "tags": [
-          "top500"
-        ]
-      },
-      {
-        "id": "ithome-14-1791739504746",
-        "title": "阿维塔 T09 概念版全球首秀：定位全新旗舰 SUV，配备四激光雷达",
-        "summary": "IT之家 10 月 11 日消息，阿维塔 T09 概念版今晚迎来全球首秀。新车作为阿维塔与华为乾崑联合设计的首款高端旗舰车型，新车设计灵感源于 VISION XPECTRA，配备四激光雷达。 外观方面，该车带入全新的阿维塔设计语言，晶钻阵列大灯搭配雕塑格栅。“绛红”与“棉白”营造…",
-        "url": "https://www.ithome.com/1/011/701.htm",
-        "source": "IT之家",
-        "sourceId": "ithome",
-        "publishedAt": "Sun, 11 Oct 2026 13:35:36 GMT",
-        "prefer": [
-          "aiNews",
-          "hotTopics"
-        ],
-        "tags": [
-          "top500"
-        ]
-      },
-      {
-        "id": "ithome-15-1791739504746",
-        "title": "微软为 Linux 7.4 贡献 Hyper-V 半虚拟化 IOMMU 驱动，已进入-next 分支",
-        "summary": "IT之家 10 月 11 日消息，据科技媒体 Phoronix 今天报道，微软为即将发布的 Linux 7.4 贡献全新内核驱动。目前该驱动已进入 IOMMU 子系统的 -next 分支，可在 Hyper-V 的 Linux 客户机虚拟机使用。 据介绍，这款半虚拟化 IOMMU …",
-        "url": "https://www.ithome.com/1/011/700.htm",
-        "source": "IT之家",
-        "sourceId": "ithome",
-        "publishedAt": "Sun, 11 Oct 2026 13:32:33 GMT",
+        "publishedAt": "Mon, 12 Oct 2026 03:32:09 GMT",
         "prefer": [
           "aiNews",
           "hotTopics"
@@ -255,41 +235,13 @@
         ]
       },
       {
-        "id": "ithome-16-1791739504746",
-        "title": "Square Enix《王国之心》系列游戏 Steam 价格永降：国区各作调整至 198 元",
-        "summary": "IT之家 10 月 11 日消息，Square Enix 旗下《王国之心》系列游戏现已在 Steam 平台开启永降，IT之家附游戏国区价格如下： 《KINGDOM HEARTS -HD 1.5+2.5 ReMIX》 原价格 298 元，新价格 198 元 《王国之心 HD 1.5…",
-        "url": "https://www.ithome.com/1/011/699.htm",
+        "id": "ithome-14-1791779835103",
+        "title": "新规落地后隐藏门把手车主要去换零件吗，专家称硬件无法改造的批次可能只能停产并评估召回方案",
+        "summary": "IT之家 10 月 12 日消息，工业和信息化部等四部门近日联合发布了《 关于进一步加强汽车产品创新设计和研发测试验证有关管理工作的通知（征求意见稿） 》，明确提出创新门把手设计应充分验证极端环境下的功能稳定性和紧急情况下的可操作性，具备机械冗余设计和手部操作空间， 禁止配备全隐…",
+        "url": "https://www.ithome.com/1/011/827.htm",
         "source": "IT之家",
         "sourceId": "ithome",
-        "publishedAt": "Sun, 11 Oct 2026 13:30:04 GMT",
-        "prefer": [
-          "aiNews",
-          "hotTopics"
-        ],
-        "tags": []
-      },
-      {
-        "id": "ithome-17-1791739504746",
-        "title": "雷蛇巴塞利斯蛇 V4 系列鼠标支持“完美 180° 转身”，有职业选手认为应禁止",
-        "summary": "IT之家 10 月 11 日消息，Razer（雷蛇）近期推出了巴塞利斯蛇 V4 专业版 / 极速版 (Basilisk V4 Pro / HyperSpeed) 鼠标。这两款产品均支持一项名为“完美 180° 转身”的新输入功能。 根据雷蛇的描述，“完美 180° 转身”是一项可…",
-        "url": "https://www.ithome.com/1/011/698.htm",
-        "source": "IT之家",
-        "sourceId": "ithome",
-        "publishedAt": "Sun, 11 Oct 2026 13:25:04 GMT",
-        "prefer": [
-          "aiNews",
-          "hotTopics"
-        ],
-        "tags": []
-      },
-      {
-        "id": "ithome-18-1791739504746",
-        "title": "黑客组织 Cyberleek 扬言公布“完整《GTA6》游戏构建副本”，旨在抬高虚拟货币价格敛财",
-        "summary": "IT之家 10 月 11 日消息，据外媒 GameRant 报道，臭名昭著的黑客组织 Cyberleek 发布公告，称如果自家虚拟货币市值达到 3,000 万美元 （IT之家注：现汇率约合 2.01 亿元人民币） ，就将公布“能够体验完整故事模式、直至演职人员名单”的《GTA 6…",
-        "url": "https://www.ithome.com/1/011/697.htm",
-        "source": "IT之家",
-        "sourceId": "ithome",
-        "publishedAt": "Sun, 11 Oct 2026 13:16:26 GMT",
+        "publishedAt": "Mon, 12 Oct 2026 03:22:52 GMT",
         "prefer": [
           "aiNews",
           "hotTopics"
@@ -299,32 +251,361 @@
         ]
       },
       {
-        "id": "ithome-19-1791739504746",
-        "title": "美国加州政府起诉 3D 打印耗材制造商 Polymaker，指控其助长幽灵枪制造",
-        "summary": "IT之家 10 月 11 日消息，据科技媒体 Tom's Hardware 今天报道，美国加利福尼亚州政府近期对 3D 打印耗材制造商 Polymaker LLC 提起诉讼，指控其面向枪支爱好者销售耗材，将原本无害的 PLA 材料转化为枪支零部件。 根据加州法律，枪支前体部件被定…",
-        "url": "https://www.ithome.com/1/011/696.htm",
+        "id": "ithome-15-1791779835103",
+        "title": "Ubuntu 计划推出适配 RISC-V 指令集的官方 26.10 桌面镜像",
+        "summary": "IT之家 10 月 12 日消息，Linux 发行版 Ubuntu 官方近日宣布，计划在 Ubuntu 26.10 \"Stonking Stingray\" 本月 15 日发布的同时推出适配 RISC-V 指令集的官方桌面镜像。 Ubuntu 此前已在提供面向 x86-64、Arm…",
+        "url": "https://www.ithome.com/1/011/823.htm",
         "source": "IT之家",
         "sourceId": "ithome",
-        "publishedAt": "Sun, 11 Oct 2026 13:12:09 GMT",
+        "publishedAt": "Mon, 12 Oct 2026 03:21:49 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "marketing"
+        ]
+      },
+      {
+        "id": "sspai-0-1791779835592",
+        "title": "怀旧手记｜从迷你电脑到口袋笔记本，索尼如何把电脑越做越小",
+        "summary": "来看看一种消失已久的笔记本。 查看全文",
+        "url": "https://sspai.com/post/114821",
+        "source": "少数派",
+        "sourceId": "sspai",
+        "publishedAt": "Mon, 12 Oct 2026 11:20:18 +0800",
         "prefer": [
           "aiNews",
           "hotTopics"
         ],
         "tags": []
+      },
+      {
+        "id": "ithome-16-1791779835103",
+        "title": "华为 Mate XT 2 三折叠手机为何由初代 Z 型方案切 U 型原因揭秘，李小龙称重量厚度是关键",
+        "summary": "IT之家 10 月 12 日现场消息，在今天的华为终端创新技术沟通会上，华为终端 BG CTO、华为终端 BG 硬件工程与产品开发管理部部长李小龙介绍了如何把三折叠手机从科幻变为现实。 李小龙先是回顾了移动端的主流设备形态，包括直板机、常规折叠机和平板电脑，并分享了自己在 201…",
+        "url": "https://www.ithome.com/1/011/815.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Mon, 12 Oct 2026 03:16:43 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "top500"
+        ]
+      },
+      {
+        "id": "ithome-17-1791779835103",
+        "title": "丘成桐数学与人工智能实验室联盟在清华大学成立，推动 AI 与数学深度融合",
+        "summary": "IT之家 10 月 12 日消息，据北京日报报道，10 月 11 日，丘成桐数学与人工智能实验室联盟在清华大学成立，将向数学科学专用大模型研发、AI 辅助数学形式化证明与猜想发现、可解释人工智能及交叉领域智能计算等领域发起攻关，推动 AI 与数学深度融合。 据IT之家此前报道，O…",
+        "url": "https://www.ithome.com/1/011/814.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Mon, 12 Oct 2026 03:15:31 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "aiNews"
+        ]
+      },
+      {
+        "id": "ithome-18-1791779835103",
+        "title": "大众 CEO 奥利弗 · 布鲁姆呼吁德法车企抱团，携手应对中国汽车品牌挑战",
+        "summary": "IT之家 10 月 12 日消息，据英国金融时报今日报道，大众汽车集团 CEO 奥利弗 · 布鲁姆（Oliver Blume）于当地时间周日（10 月 11 日）在巴黎车展前表示， 法国和德国应加强合作，携手应对中国汽车业挑战 。 布鲁姆表示，法国和德国应加强合作，提升欧洲汽车业…",
+        "url": "https://www.ithome.com/1/011/812.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Mon, 12 Oct 2026 03:10:28 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "marketing"
+        ]
       }
     ],
     "industryInvest": [
       {
-        "id": "ithome-7-1791739504746",
-        "title": "粤芯半导体 10 月 13 日在创业板上市，发行价为 12.01 元 / 股",
-        "summary": "IT之家 10 月 11 日消息，粤芯半导体技术股份有限公司今日宣布，公司将于 2026 年 10 月 13 日（下周二）在深圳证券交易所创业板上市。 本次发行价格为 12.01 元 / 股 ，发行后总股本为 28.78 亿股（超额配售选择权行使前）。 IT之家了解到，粤芯半导体…",
-        "url": "https://www.ithome.com/1/011/708.htm",
+        "id": "ithome-3-1791779835103",
+        "title": "无问芯穹完成 23 亿元 C 轮融资，单轮及累计融资额均创中国 AI 原生基础设施赛道最高纪录",
+        "summary": "IT之家 10 月 12 日消息，据证券时报消息，人工智能基础设施（AI Infra）企业 无问芯穹已完成 23 亿元的 C 轮融资 ，其成立以来的累计融资额达 43 亿元，单轮及累计融资额均创下中国 AI 原生基础设施赛道最高纪录。 公开信息显示，无问芯穹成立于 2023 年，…",
+        "url": "https://www.ithome.com/1/011/849.htm",
         "source": "IT之家",
         "sourceId": "ithome",
-        "publishedAt": "Sun, 11 Oct 2026 14:27:14 GMT",
+        "publishedAt": "Mon, 12 Oct 2026 04:08:12 GMT",
         "prefer": [
           "aiNews",
           "hotTopics"
+        ],
+        "tags": [
+          "aiNews",
+          "industryInvest",
+          "startup"
+        ]
+      },
+      {
+        "id": "ithome-9-1791779835103",
+        "title": "川崎重工成功测试氢燃料航空发动机，氮氧化物排放水平世界顶尖",
+        "summary": "IT之家 10 月 12 日消息，川崎重工 (Kawasaki) 日本当地时间本月 8 日宣布，其成功完成一款氢燃料航空发动机的测试， 在日本首次实现了世界领先的氮氧化物 (NOx) 低排放水平 。 这款小型发动机搭载川崎重工开发的低 NOx 氢燃烧器，将本为燃气轮机开发的专利微…",
+        "url": "https://www.ithome.com/1/011/835.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Mon, 12 Oct 2026 03:36:41 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "industryInvest"
+        ]
+      },
+      {
+        "id": "ithome-11-1791779835103",
+        "title": "吉利远程星享 M7E 车型上市：限时 11.39 万元，续航 465km 首搭金砖致远电池",
+        "summary": "IT之家 10 月 12 日消息，吉利远程旗下纯电商务车星享 M7E 昨日正式上市，官方指导价 12.59 万元，2026 年 12 月 31 日 24 点前下定的用户可享限时专享价 11.39 万元。 星享 M7E 是吉利远程旗下首款搭载金砖致远电池的量产车型，吉利远程同步推出…",
+        "url": "https://www.ithome.com/1/011/832.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Mon, 12 Oct 2026 03:34:34 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "industryInvest",
+          "marketing"
+        ]
+      },
+      {
+        "id": "tmtpost-0-1791779836757",
+        "title": "Chinese Appliance Brands Gain in Europe, But Share Alone Is Fragile",
+        "summary": "Chinese firms dominated exhibitor ranks at IFA Berlin and lifted air-conditioner share in Europe. Much of the jump tracks a severe heat wave…",
+        "url": "https://www.tmtpost.com/8164986.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Mon, 12 Oct 2026 11:06:03 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": [
+          "aiNews"
+        ]
+      },
+      {
+        "id": "tmtpost-1-1791779836757",
+        "title": "Meta Muse引爆的这场“代理人战争”，字节和腾讯都坐不住了",
+        "summary": "Meta上一次让全球科技圈集体屏住呼吸，是什么时候？",
+        "url": "https://www.tmtpost.com/8164600.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Mon, 12 Oct 2026 10:58:14 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": [
+          "top500"
+        ]
+      },
+      {
+        "id": "tmtpost-2-1791779836757",
+        "title": "PCB周期走到哪了，不妨看看这家龙头的近况",
+        "summary": "企业赚了周期上涨的钱，那你赚什么钱呢？",
+        "url": "https://www.tmtpost.com/8164916.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Mon, 12 Oct 2026 10:58:05 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": []
+      },
+      {
+        "id": "tmtpost-3-1791779836757",
+        "title": "从诺奖到中国创新药出海，生命科学迎接“光”的时代",
+        "summary": "光遗传学拿了诺奖，中国光动力出海",
+        "url": "https://www.tmtpost.com/8164884.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Mon, 12 Oct 2026 10:58:04 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": [
+          "startup"
+        ]
+      },
+      {
+        "id": "tmtpost-4-1791779836757",
+        "title": "上半年净利润下滑23.9%，一块墨水屏能否撑起文石科技的上市路？",
+        "summary": "墨水屏撑起了过去，但如何撑起未来？",
+        "url": "https://www.tmtpost.com/8164951.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Mon, 12 Oct 2026 10:57:59 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": [
+          "industryInvest",
+          "marketing"
+        ]
+      },
+      {
+        "id": "tmtpost-5-1791779836757",
+        "title": "把一立方公里的南极冰变成望远镜，他38年后拿下诺奖",
+        "summary": "一束“幽灵粒子”拿了诺奖，南海3500米深处，中国的答案刚刚下水。",
+        "url": "https://www.tmtpost.com/8162688.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Mon, 12 Oct 2026 10:49:07 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": []
+      },
+      {
+        "id": "tmtpost-6-1791779836757",
+        "title": "123亿买下亏损的彪马，安踏图什么？",
+        "summary": "安踏的吸星大法已成，六脉神剑待练。",
+        "url": "https://www.tmtpost.com/8164865.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Mon, 12 Oct 2026 10:26:54 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": []
+      },
+      {
+        "id": "tmtpost-7-1791779836757",
+        "title": "2025年没给郑钦文续约的赞助商，要拍大腿了",
+        "summary": "继续创造历史。",
+        "url": "https://www.tmtpost.com/8164666.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Mon, 12 Oct 2026 10:26:25 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": []
+      },
+      {
+        "id": "tmtpost-8-1791779836757",
+        "title": "满减退场、国补退坡，今年双11用什么增长",
+        "summary": "第18个双11，潮水退去后的精密“算计”",
+        "url": "https://www.tmtpost.com/8164872.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Mon, 12 Oct 2026 10:14:11 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": [
+          "startup"
+        ]
+      },
+      {
+        "id": "tmtpost-9-1791779836757",
+        "title": "电脑卖不动，但联想们更赚钱了",
+        "summary": "利润和供应链话语权都在重新分配。",
+        "url": "https://www.tmtpost.com/8164778.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Mon, 12 Oct 2026 09:38:54 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": [
+          "top500"
+        ]
+      },
+      {
+        "id": "tmtpost-10-1791779836757",
+        "title": "基金市场概况与资产配置观点（09.28—10.07）",
+        "summary": "国内市场方面，国庆假期国内消费景气边际修复，商务部监测重点商圈客流、营业额同比小幅上行。央行公布9月黄金储备继续增持，连续23个月扩容。财政端表态研究增量稳增长政策，政策托底预期维持。但地产、居民信贷暂无新增数据，内需修复力度仍待节后9月社融、信贷数据验证。",
+        "url": "https://www.tmtpost.com/8164853.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Mon, 12 Oct 2026 09:33:09 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": [
+          "startup"
+        ]
+      },
+      {
+        "id": "tmtpost-11-1791779836757",
+        "title": "安徽上市公司价值重估：先进制造抬升上限，产业升级背后分化仍在",
+        "summary": "作为长三角先进制造业版图中快速崛起的一极，安徽上市公司的产业结构具有鲜明的“先进制造+新能源汽车+新能源+半导体+传统工业”特征。这里既有阳光电源、科大讯飞、美亚光电、安徽合力等合肥代表企业，也有伯特利、三七互娱等芜湖上市公司；既有富乐德、龙迅股份等电子与半导体企业，也有海螺水泥…",
+        "url": "https://www.tmtpost.com/8164844.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Mon, 12 Oct 2026 09:32:50 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": [
+          "industryInvest",
+          "marketing"
+        ]
+      },
+      {
+        "id": "tmtpost-12-1791779836757",
+        "title": "全球债市图景及其演进路径｜宏观研判",
+        "summary": "这是一轮 “地缘冲击 → 通胀预期重定价 → 杠杆交易崩塌 → 财政＋政治风险定价” 的复合型债市压力，不是单一利率周期的简单重演。",
+        "url": "https://www.tmtpost.com/8164837.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Mon, 12 Oct 2026 09:32:39 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": []
+      },
+      {
+        "id": "tmtpost-13-1791779836757",
+        "title": "一家公司到底归哪个行业？分类师手里那把\"实质\"的刀",
+        "summary": "判断一家公司归哪个行业，唯一的核心依据，是企业核心经营业务的实质。",
+        "url": "https://www.tmtpost.com/8164825.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Mon, 12 Oct 2026 09:30:00 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": []
+      },
+      {
+        "id": "tmtpost-14-1791779836757",
+        "title": "价值判断：涨停板的投资机会和风险提示（10月9日）｜上市公司观察",
+        "summary": "三只溢价标的估值均显著高于济安定价，上行主要由情绪与预期推动，仍宜规避高位博弈，避免以题材预期替代基本面验证。",
+        "url": "https://www.tmtpost.com/8164822.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Mon, 12 Oct 2026 09:29:45 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
         ],
         "tags": [
           "industryInvest",
@@ -333,304 +614,50 @@
         ]
       },
       {
-        "id": "ithome-11-1791739504746",
-        "title": "上市 1 月京东直降：小米 NAS 智能存储 2699 → 2384 元 4 年质保",
-        "summary": "小米首款 NAS 产品“Xiaomi 智能存储”今年 8 月 27 日开售，官方定价如下： 4T 定价 2699 元，今日国补后 2384 元： 京东 小米 智能存储 4TB 国补后 2384.1 元 领 250 元券 8T 定价 3499 元，今日超级补贴价 3194 元： 京…",
-        "url": "https://www.ithome.com/1/011/704.htm",
-        "source": "IT之家",
-        "sourceId": "ithome",
-        "publishedAt": "Sun, 11 Oct 2026 13:58:07 GMT",
+        "id": "tmtpost-15-1791779836757",
+        "title": "Edge AI Daily 早报（10月12日）",
+        "summary": "亚马逊与微软相继放弃数据中心谈判NDA，回应逾300个市镇限制令与1300亿美元项目搁置，社区信任成为AI扩张的新约束。微软在10亿用户规模的Windows维持开始菜单与AI搜索双轨并行。Meta为2027年1299美元VR眼镜铺设虚拟影院内容入口。英伟达就开放权重模型商Refl…",
+        "url": "https://www.tmtpost.com/8164715.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Mon, 12 Oct 2026 08:42:38 +0800",
         "prefer": [
-          "aiNews",
-          "hotTopics"
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": [
+          "aiNews"
+        ]
+      },
+      {
+        "id": "tmtpost-16-1791779836757",
+        "title": "【钛晨报】剑指“重上市、轻验证”，四部门联合发文划清汽车安全底线；经销商联谊会“批量”解散？茅台回应；蚂蚁“灵光”小范围内测，新版对标“Meta Muse”",
+        "summary": "粤芯半导体将于10月13日在创业板上市；尊界：制动踏板升级方案预计10月底确认，11月起陆续启动升级；工业富联：美国337调查涉及公司相关产品处于内部验证评估阶段；苹果iPhone Duo加单30%，iPhone 18 Pro系列总订单量未变；消息称阿斯麦将对韩国零部件涨价10%…",
+        "url": "https://www.tmtpost.com/8164570.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Mon, 12 Oct 2026 07:20:00 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
         ],
         "tags": [
           "industryInvest",
           "top500",
-          "marketing"
-        ]
-      },
-      {
-        "id": "tmtpost-0-1791739506577",
-        "title": "本末科技，还没吃上具身智能这碗饭",
-        "summary": "具身智能业务营收占比5%。",
-        "url": "https://www.tmtpost.com/8164407.html",
-        "source": "钛媒体",
-        "sourceId": "tmtpost",
-        "publishedAt": "Sun, 11 Oct 2026 21:08:08 +0800",
-        "prefer": [
-          "industryInvest",
-          "aiNews"
-        ],
-        "tags": []
-      },
-      {
-        "id": "tmtpost-1-1791739506577",
-        "title": "Manus恢复“单身”身价再涨，但战场已“大变天”",
-        "summary": "5亿美元“输血”到账，Manus估值实现三级跳。",
-        "url": "https://www.tmtpost.com/8163955.html",
-        "source": "钛媒体",
-        "sourceId": "tmtpost",
-        "publishedAt": "Sun, 11 Oct 2026 21:07:50 +0800",
-        "prefer": [
-          "industryInvest",
-          "aiNews"
-        ],
-        "tags": [
-          "industryInvest"
-        ]
-      },
-      {
-        "id": "tmtpost-2-1791739506577",
-        "title": "百万级豪车，刹车踏板不是谁都能踩到的",
-        "summary": "向上突破，可以靠创新。站稳脚跟，要靠那些不需要消费者操心的事。",
-        "url": "https://www.tmtpost.com/8163920.html",
-        "source": "钛媒体",
-        "sourceId": "tmtpost",
-        "publishedAt": "Sun, 11 Oct 2026 21:07:35 +0800",
-        "prefer": [
-          "industryInvest",
-          "aiNews"
-        ],
-        "tags": []
-      },
-      {
-        "id": "tmtpost-3-1791739506577",
-        "title": "城商行，走进分化时代",
-        "summary": "对一家区域银行而言，认识城市的产业，理解企业的经营，陪伴居民的财富需求，仍是最有可能持续积累的能力。",
-        "url": "https://www.tmtpost.com/8163903.html",
-        "source": "钛媒体",
-        "sourceId": "tmtpost",
-        "publishedAt": "Sun, 11 Oct 2026 21:05:57 +0800",
-        "prefer": [
-          "industryInvest",
-          "aiNews"
-        ],
-        "tags": []
-      },
-      {
-        "id": "tmtpost-4-1791739506577",
-        "title": "千元入门手机几乎“灭绝”，存储危机到底还要多久？",
-        "summary": "之前那个属于千元机的黄金年代，或许将会成为历史，千元机的逻辑可能会被彻底改写。",
-        "url": "https://www.tmtpost.com/8164424.html",
-        "source": "钛媒体",
-        "sourceId": "tmtpost",
-        "publishedAt": "Sun, 11 Oct 2026 21:00:38 +0800",
-        "prefer": [
-          "industryInvest",
-          "aiNews"
-        ],
-        "tags": []
-      },
-      {
-        "id": "tmtpost-5-1791739506577",
-        "title": "边跌边配售，“吞金兽”壁仞科技准备再搞40亿",
-        "summary": "股价较年内高点腰斩。",
-        "url": "https://www.tmtpost.com/8163998.html",
-        "source": "钛媒体",
-        "sourceId": "tmtpost",
-        "publishedAt": "Sun, 11 Oct 2026 21:00:24 +0800",
-        "prefer": [
-          "industryInvest",
-          "aiNews"
-        ],
-        "tags": []
-      },
-      {
-        "id": "ithome-23-1791739504746",
-        "title": "奇瑞捷途全新旅行者 7 预告搭载骁龙 8255 座舱芯片，10 月 14 日上市",
-        "summary": "IT之家 10 月 11 日消息，奇瑞捷途全新旅行者 7 将于 10 月 14 日上市，官方预告智能科技再升级。 新车搭载 TOUROS 3.3 AI 智能座舱、骁龙 8255 高阶座舱芯片，搭配 24GB 运存 +256GB 超大存储，内置讯飞星火智能 AI 大模型，配备 15…",
-        "url": "https://www.ithome.com/1/011/691.htm",
-        "source": "IT之家",
-        "sourceId": "ithome",
-        "publishedAt": "Sun, 11 Oct 2026 12:28:49 GMT",
-        "prefer": [
-          "aiNews",
-          "hotTopics"
-        ],
-        "tags": [
-          "aiNews",
-          "industryInvest",
-          "marketing"
-        ]
-      },
-      {
-        "id": "cyzone-0-1791739507696",
-        "title": "通用世界模型北京市重点实验室在京揭牌",
-        "summary": "10月11日上午，2026世界模型高峰论坛暨通用世界模型北京市重点实验室揭牌仪式在北京中关村皇冠假日酒店举行，通用世界模型北京市重点实验室正式揭牌。据介绍，该实验室于今年5月获批，是国内首个世界模型方向的省部级重点实验室，由北京极佳视界科技有限公司作为依托单位。 全国政协委员、中…",
-        "url": "https://www.cyzone.cn/article/848738.html",
-        "source": "创业邦",
-        "sourceId": "cyzone",
-        "publishedAt": "Sun, 11 Oct 2026 10:48:58 GMT",
-        "prefer": [
-          "startup",
-          "industryInvest"
-        ],
-        "tags": []
-      },
-      {
-        "id": "tmtpost-6-1791739506577",
-        "title": "AI创造的新工作，可能根本轮不到你",
-        "summary": "未来真正稀缺的，可能不只是工作机会，还有让一个普通人从什么都不会，逐渐成为专业人才的机会。",
-        "url": "https://www.tmtpost.com/8164296.html",
-        "source": "钛媒体",
-        "sourceId": "tmtpost",
-        "publishedAt": "Sun, 11 Oct 2026 13:08:00 +0800",
-        "prefer": [
-          "industryInvest",
-          "aiNews"
-        ],
-        "tags": [
-          "startup"
-        ]
-      },
-      {
-        "id": "tmtpost-7-1791739506577",
-        "title": "李嘉诚1100亿港元套现电网，268亿逆势囤油砂，到底在赌什么",
-        "summary": "李嘉诚1100亿港元套现英国电网，268亿加码加拿大油砂，能源资产大腾挪背后逻辑何在？",
-        "url": "https://www.tmtpost.com/8164290.html",
-        "source": "钛媒体",
-        "sourceId": "tmtpost",
-        "publishedAt": "Sun, 11 Oct 2026 13:01:00 +0800",
-        "prefer": [
-          "industryInvest",
-          "aiNews"
-        ],
-        "tags": []
-      },
-      {
-        "id": "tmtpost-8-1791739506577",
-        "title": "李诞代言汉堡王“丑”翻车，笑点为什么没能变成食欲？",
-        "summary": "快餐代言的第一判断标准永远是食欲，不是段子。",
-        "url": "https://www.tmtpost.com/8164281.html",
-        "source": "钛媒体",
-        "sourceId": "tmtpost",
-        "publishedAt": "Sun, 11 Oct 2026 12:54:00 +0800",
-        "prefer": [
-          "industryInvest",
-          "aiNews"
-        ],
-        "tags": [
-          "marketing"
-        ]
-      },
-      {
-        "id": "tmtpost-9-1791739506577",
-        "title": "请来Claude老祖，谷歌能借Agent翻身吗？",
-        "summary": "agent底座之争，OpenAI又被针对了。",
-        "url": "https://www.tmtpost.com/8164268.html",
-        "source": "钛媒体",
-        "sourceId": "tmtpost",
-        "publishedAt": "Sun, 11 Oct 2026 12:50:00 +0800",
-        "prefer": [
-          "industryInvest",
-          "aiNews"
-        ],
-        "tags": [
-          "aiNews"
-        ]
-      },
-      {
-        "id": "tmtpost-10-1791739506577",
-        "title": "抱歉，AI眼镜目前仍是个“鸡肋”",
-        "summary": "AI眼镜出货量高速增长，却仍未找到不可替代的核心价值。从硬件、交互到隐私，真正决定其未来的，不是能做多少事，而是什么事情必须由眼镜来做。",
-        "url": "https://www.tmtpost.com/8164235.html",
-        "source": "钛媒体",
-        "sourceId": "tmtpost",
-        "publishedAt": "Sun, 11 Oct 2026 12:44:00 +0800",
-        "prefer": [
-          "industryInvest",
-          "aiNews"
-        ],
-        "tags": [
-          "startup"
-        ]
-      },
-      {
-        "id": "tmtpost-11-1791739506577",
-        "title": "Manus被AI大厂重新定价",
-        "summary": "Meta退单后，Manus的身价还涨了？",
-        "url": "https://www.tmtpost.com/8164195.html",
-        "source": "钛媒体",
-        "sourceId": "tmtpost",
-        "publishedAt": "Sun, 11 Oct 2026 12:38:00 +0800",
-        "prefer": [
-          "industryInvest",
-          "aiNews"
-        ],
-        "tags": []
-      },
-      {
-        "id": "tmtpost-12-1791739506577",
-        "title": "美图公司大起大落",
-        "summary": "美图公司股价起伏频繁，经历多次起伏，但凭借业绩增长和AI技术转型，仍保持发展，成为科技领域的典型案例。",
-        "url": "https://www.tmtpost.com/8164230.html",
-        "source": "钛媒体",
-        "sourceId": "tmtpost",
-        "publishedAt": "Sun, 11 Oct 2026 12:33:00 +0800",
-        "prefer": [
-          "industryInvest",
-          "aiNews"
-        ],
-        "tags": [
-          "startup"
-        ]
-      },
-      {
-        "id": "tmtpost-13-1791739506577",
-        "title": "3D 芯片堆得上去，未必堆得划算：量产卡在良率与成本",
-        "summary": "芯片越堆越高，性能未必越好，利润也未必越多。决定 3D 集成能否规模商业化的，不只是键合精度，而是每颗合格芯片最终要花多少钱。",
-        "url": "https://www.tmtpost.com/8163821.html",
-        "source": "钛媒体",
-        "sourceId": "tmtpost",
-        "publishedAt": "Sun, 11 Oct 2026 12:27:20 +0800",
-        "prefer": [
-          "industryInvest",
-          "aiNews"
-        ],
-        "tags": []
-      },
-      {
-        "id": "tmtpost-14-1791739506577",
-        "title": "西西弗书店是怎么赚钱的？",
-        "summary": "卖书真的很难赚钱。",
-        "url": "https://www.tmtpost.com/8164243.html",
-        "source": "钛媒体",
-        "sourceId": "tmtpost",
-        "publishedAt": "Sun, 11 Oct 2026 12:26:01 +0800",
-        "prefer": [
-          "industryInvest",
-          "aiNews"
-        ],
-        "tags": []
-      },
-      {
-        "id": "tmtpost-15-1791739506577",
-        "title": "利润暴涨968%，天赐材料却急着赴港募资，中国电解液龙头们在海外是否还能称王称霸",
-        "summary": "天赐材料通过港交所聆讯，募资出海扩产待验证。",
-        "url": "https://www.tmtpost.com/8164289.html",
-        "source": "钛媒体",
-        "sourceId": "tmtpost",
-        "publishedAt": "Sun, 11 Oct 2026 12:22:57 +0800",
-        "prefer": [
-          "industryInvest",
-          "aiNews"
-        ],
-        "tags": [
-          "industryInvest",
+          "marketing",
           "startup"
         ]
       }
     ],
     "top500": [
       {
-        "id": "ithome-4-1791739504746",
-        "title": "消息称荣耀 WIN Pad 平板搭载 8.4 英寸 240Hz OLED 屏，本月发布",
-        "summary": "IT之家 10 月 11 日消息，据博主 @体验more 爆料，荣耀 WIN Pad 平板搭载第五代骁龙 8 至尊版处理器，配备 8.4 英寸 240Hz OLED 平板、主动散热风扇，和 iQOO Pad Pro 都是本月发布。 据博主 @数码闲聊站 于 9 月 21 日爆料，…",
-        "url": "https://www.ithome.com/1/011/711.htm",
+        "id": "ithome-0-1791779835103",
+        "title": "海尔浴霸 M1 系列人感除臭版发布：承袭海尔冰箱净味技术，首发 699 元",
+        "summary": "IT之家 10 月 12 日消息，海尔宣布推出新款海尔浴霸 M1 系列人感除臭版，首发到手价 699 元。 据商品页面介绍，该系列产品搭载黑金净味技术，承袭海尔冰箱净味科技，内置一键除臭程序模组和诺奖同源晶态模块，可主动捕捉吸附并全时分解异味分子。 海尔表示，经广东省微生物分析检…",
+        "url": "https://www.ithome.com/1/011/853.htm",
         "source": "IT之家",
         "sourceId": "ithome",
-        "publishedAt": "Sun, 11 Oct 2026 14:55:18 GMT",
+        "publishedAt": "Mon, 12 Oct 2026 04:34:42 GMT",
         "prefer": [
           "aiNews",
           "hotTopics"
@@ -641,13 +668,45 @@
         ]
       },
       {
-        "id": "ithome-10-1791739504746",
-        "title": "街电推出 55W 挂包充电宝：2C 设计、10000mAh 电芯，273 元赠“一年共享移动电源免费使用权益”",
-        "summary": "IT之家 10 月 11 日消息，街电现已在京东上架一款 55W 挂包充电宝，该机采用 2C 设计，内置 10000mAh 电芯，定价为 298 元， 首发价 273 元 ，同时号称还赠送给消费者“一年共享充电宝免费使用权益”。 京东 街电 55W 挂包充电宝 券后 273 元 …",
-        "url": "https://www.ithome.com/1/011/705.htm",
+        "id": "ithome-1-1791779835103",
+        "title": "阶跃 Step 5 Preview 模型上线腾讯 WorkBuddy，10 月 12 至 25 日独家限免",
+        "summary": "IT之家 10 月 12 日消息，阶跃 StepFun 今日宣布，阶跃 Step 5 Preview 模型上线腾讯 WorkBuddy。2026 年 10 月 12 日至 10 月 25 日， 在 WorkBuddy 开启独家限免 。 据IT之家此前报道，9 月 20 日， 阶跃…",
+        "url": "https://www.ithome.com/1/011/852.htm",
         "source": "IT之家",
         "sourceId": "ithome",
-        "publishedAt": "Sun, 11 Oct 2026 14:03:40 GMT",
+        "publishedAt": "Mon, 12 Oct 2026 04:34:29 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "top500"
+        ]
+      },
+      {
+        "id": "ithome-4-1791779835103",
+        "title": "万代南梦宫宣布《火影忍者》手游将面向全球发行，腾讯国服 2016 年上线",
+        "summary": "IT之家 10 月 12 日消息，当地时间 10 月 11 日，万代南梦宫与腾讯在纽约动漫展上联合宣布，由腾讯魔方工作室研发的《火影忍者》手游将推出全球版本，正式面向国际市场发行。 《火影忍者》手游由万代南梦宫正版授权、腾讯魔方工作室研发，最初于 2016 年 5 月 19 日在…",
+        "url": "https://www.ithome.com/1/011/848.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Mon, 12 Oct 2026 04:03:03 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "top500"
+        ]
+      },
+      {
+        "id": "ithome-5-1791779835103",
+        "title": "华为首发星迹定位技术，支持车道亚米级 / 室内车位级导航、专业跑步精准轨迹等",
+        "summary": "IT之家 10 月 12 日现场消息，在今天的华为终端创新技术沟通会上，华为终端 BG CTO、华为终端 BG 硬件工程与产品开发管理部部长李小龙分享了华为星迹定位技术的核心亮点。 随着隧道、跑步、地库、滑雪、室内、高架 / 运动场等场景的拓展，李小龙表示，传统定位技术已无法满足…",
+        "url": "https://www.ithome.com/1/011/847.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Mon, 12 Oct 2026 04:01:17 GMT",
         "prefer": [
           "aiNews",
           "hotTopics"
@@ -658,73 +717,157 @@
         ]
       },
       {
-        "id": "ithome-11-1791739504746",
-        "title": "上市 1 月京东直降：小米 NAS 智能存储 2699 → 2384 元 4 年质保",
-        "summary": "小米首款 NAS 产品“Xiaomi 智能存储”今年 8 月 27 日开售，官方定价如下： 4T 定价 2699 元，今日国补后 2384 元： 京东 小米 智能存储 4TB 国补后 2384.1 元 领 250 元券 8T 定价 3499 元，今日超级补贴价 3194 元： 京…",
-        "url": "https://www.ithome.com/1/011/704.htm",
+        "id": "ithome-12-1791779835103",
+        "title": "目前原生最高档：一加 16 手机官宣支持《王者荣耀》165FPS + 极致画质模式",
+        "summary": "IT之家 10 月 12 日消息，一加中国区总裁李杰今日宣布， 一加 16 手机已支持《王者荣耀》原生 165FPS + 极致画质模式 。这也是目前《王者荣耀》原生支持的最高帧率和最高画质。 在 10 月 9 日的第四代东方屏技术沟通会上，一加与京东方联合研发的第四代东方屏正式发…",
+        "url": "https://www.ithome.com/1/011/831.htm",
         "source": "IT之家",
         "sourceId": "ithome",
-        "publishedAt": "Sun, 11 Oct 2026 13:58:07 GMT",
+        "publishedAt": "Mon, 12 Oct 2026 03:32:58 GMT",
         "prefer": [
           "aiNews",
           "hotTopics"
+        ],
+        "tags": [
+          "top500",
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-16-1791779835103",
+        "title": "华为 Mate XT 2 三折叠手机为何由初代 Z 型方案切 U 型原因揭秘，李小龙称重量厚度是关键",
+        "summary": "IT之家 10 月 12 日现场消息，在今天的华为终端创新技术沟通会上，华为终端 BG CTO、华为终端 BG 硬件工程与产品开发管理部部长李小龙介绍了如何把三折叠手机从科幻变为现实。 李小龙先是回顾了移动端的主流设备形态，包括直板机、常规折叠机和平板电脑，并分享了自己在 201…",
+        "url": "https://www.ithome.com/1/011/815.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Mon, 12 Oct 2026 03:16:43 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "top500"
+        ]
+      },
+      {
+        "id": "ithome-19-1791779835103",
+        "title": "华为折叠屏手机累计发货量突破 2000 万台，上半年市场份额超 70%",
+        "summary": "IT之家 10 月 12 日现场消息，华为终端创新技术沟通会今日在上海练秋湖举行。 IT之家在现场获悉， 华为折叠屏手机累计发货量已突破 2000 万台 。数据显示，华为在 2026 年上半年折叠屏手机市场份额超 70%。 华为常务董事、产品投资评审委员会主任、终端 BG 董事长…",
+        "url": "https://www.ithome.com/1/011/811.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Mon, 12 Oct 2026 03:03:21 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "top500"
+        ]
+      },
+      {
+        "id": "tmtpost-1-1791779836757",
+        "title": "Meta Muse引爆的这场“代理人战争”，字节和腾讯都坐不住了",
+        "summary": "Meta上一次让全球科技圈集体屏住呼吸，是什么时候？",
+        "url": "https://www.tmtpost.com/8164600.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Mon, 12 Oct 2026 10:58:14 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": [
+          "top500"
+        ]
+      },
+      {
+        "id": "ithome-20-1791779835103",
+        "title": "雷蛇战锤狂鲨 V3 幻彩版发售：支持 ANC 主动降噪 + 7.1 环绕声，599 元",
+        "summary": "IT之家 10 月 12 日消息，雷蛇官方今日宣布推出战锤狂鲨 V3 幻彩版。这款有线耳机现已开售，京东显示为 599 元。 京东 雷蛇（Razer）战锤狂鲨 V3 幻彩版 有线入耳式耳机 ANC 主动降噪 7.1 环绕声 USB-C 适配 RGB 幻彩 吃鸡神器 三角洲 599…",
+        "url": "https://www.ithome.com/1/011/809.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Mon, 12 Oct 2026 02:57:06 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "top500"
+        ]
+      },
+      {
+        "id": "ithome-23-1791779835103",
+        "title": "华为李小龙：睿影 Z10 模块相机 HyperClick 超级卡口采用独立卡口转接设计，可适配未来更多机型",
+        "summary": "IT之家 10 月 12 日现场消息，在今天的华为终端创新技术沟通会上，华为终端 BG CTO、华为终端 BG 硬件工程与产品开发管理部部长李小龙公开了 Z10 模块相机 更多技术细节 。 李小龙还专门就睿影 Z10 模块相机的 HyperClick 超级卡口进行了说明。 据介绍…",
+        "url": "https://www.ithome.com/1/011/803.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Mon, 12 Oct 2026 02:48:25 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "top500"
+        ]
+      },
+      {
+        "id": "tmtpost-9-1791779836757",
+        "title": "电脑卖不动，但联想们更赚钱了",
+        "summary": "利润和供应链话语权都在重新分配。",
+        "url": "https://www.tmtpost.com/8164778.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Mon, 12 Oct 2026 09:38:54 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": [
+          "top500"
+        ]
+      },
+      {
+        "id": "ifanr-0-1791779835231",
+        "title": "早报｜我们跟库克聊了聊iPhone Duo/继QClaw后，腾讯再关停一个Agent/SpaceXAI改名SpaceXSI",
+        "summary": "· 曝苹果与 ADT 合作，为家居中枢提供安装服务 · 蔚来广东换电站达到 500 座，六城同步新增第五代站 · 苹果 COO 探访郑州工厂，披露 iPhone Duo 屏幕与芯片制造工艺 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上…",
+        "url": "https://www.ifanr.com/1683302?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "source": "爱范儿",
+        "sourceId": "ifanr",
+        "publishedAt": "Mon, 12 Oct 2026 00:12:37 +0000",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "aiNews",
+          "top500",
+          "marketing"
+        ]
+      },
+      {
+        "id": "tmtpost-16-1791779836757",
+        "title": "【钛晨报】剑指“重上市、轻验证”，四部门联合发文划清汽车安全底线；经销商联谊会“批量”解散？茅台回应；蚂蚁“灵光”小范围内测，新版对标“Meta Muse”",
+        "summary": "粤芯半导体将于10月13日在创业板上市；尊界：制动踏板升级方案预计10月底确认，11月起陆续启动升级；工业富联：美国337调查涉及公司相关产品处于内部验证评估阶段；苹果iPhone Duo加单30%，iPhone 18 Pro系列总订单量未变；消息称阿斯麦将对韩国零部件涨价10%…",
+        "url": "https://www.tmtpost.com/8164570.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Mon, 12 Oct 2026 07:20:00 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
         ],
         "tags": [
           "industryInvest",
           "top500",
-          "marketing"
+          "marketing",
+          "startup"
         ]
       },
       {
-        "id": "ithome-12-1791739504746",
-        "title": "消息称美团共享充电宝开始投放新国标 3C 认证版本：配 7500mAh 电芯、自带双线支持 22.5W 输出",
-        "summary": "IT之家 10 月 11 日消息，据充电头网报道，美团旗下共享充电宝新国标版本近期已开始进入线下投放阶段，相应产品延续标志性黄色外观，侧面设有四颗电量指示灯，机身印有“22.5W 超级快充”字样，并标注 CCC 认证标识及 GB 47372-2026《移动电源安全技术规范》执行标…",
-        "url": "https://www.ithome.com/1/011/703.htm",
-        "source": "IT之家",
-        "sourceId": "ithome",
-        "publishedAt": "Sun, 11 Oct 2026 13:53:06 GMT",
-        "prefer": [
-          "aiNews",
-          "hotTopics"
-        ],
-        "tags": [
-          "top500"
-        ]
-      },
-      {
-        "id": "ithome-13-1791739504746",
-        "title": "闪极推出 Vision Mag 带屏磁吸充电宝：15W 无线充 + 20W 有线充，5000mAh 电芯售 199 元",
-        "summary": "IT之家 10 月 11 日消息，闪极现已在京东上架一款 Vision Mag 磁吸充电宝，该产品支持 15W 无线充电和 20W 有线充电，内置 5000mAh 电芯， 定价为 199 元 。 京东 闪极 Vision Mag 磁吸充电宝 199 元 直达链接 该机整体重量 1…",
-        "url": "https://www.ithome.com/1/011/702.htm",
-        "source": "IT之家",
-        "sourceId": "ithome",
-        "publishedAt": "Sun, 11 Oct 2026 13:48:45 GMT",
-        "prefer": [
-          "aiNews",
-          "hotTopics"
-        ],
-        "tags": [
-          "top500"
-        ]
-      },
-      {
-        "id": "ithome-14-1791739504746",
-        "title": "阿维塔 T09 概念版全球首秀：定位全新旗舰 SUV，配备四激光雷达",
-        "summary": "IT之家 10 月 11 日消息，阿维塔 T09 概念版今晚迎来全球首秀。新车作为阿维塔与华为乾崑联合设计的首款高端旗舰车型，新车设计灵感源于 VISION XPECTRA，配备四激光雷达。 外观方面，该车带入全新的阿维塔设计语言，晶钻阵列大灯搭配雕塑格栅。“绛红”与“棉白”营造…",
-        "url": "https://www.ithome.com/1/011/701.htm",
-        "source": "IT之家",
-        "sourceId": "ithome",
-        "publishedAt": "Sun, 11 Oct 2026 13:35:36 GMT",
-        "prefer": [
-          "aiNews",
-          "hotTopics"
-        ],
-        "tags": [
-          "top500"
-        ]
-      },
-      {
-        "id": "geekpark-1-1791739505654",
+        "id": "geekpark-2-1791779835888",
         "title": "马斯克豪言 SpaceX 估值将超1000万亿美元，遭拉表打脸；传腾讯字节加速个人智能体研发；四部门拟禁止汽车采用全隐藏式门把手",
         "summary": "马斯克豪言 SpaceX 估值超 1000 万亿美元，惨遭拉表打脸 近日，马斯克在社交平台大胆预测，SpaceX 未来估值有望突破 1000 万亿美元，体量将远超当前全球经济总量。目前 SpaceX 估值仅约 2.2 万亿美元，而 2025 年全球 GDP 总量约 118 万亿美…",
         "url": "http://www.geekpark.net/news/372216",
@@ -741,163 +884,31 @@
         ]
       },
       {
-        "id": "ifanr-4-1791739505057",
-        "title": "华为 Mate 90 Pro Max 深度体验：Mate 系列新高峰",
-        "summary": "Mate 系列影像新高峰 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-        "url": "https://www.ifanr.com/1683673?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "source": "爱范儿",
-        "sourceId": "ifanr",
-        "publishedAt": "Sat, 10 Oct 2026 10:30:03 +0000",
-        "prefer": [
-          "aiNews",
-          "hotTopics"
-        ],
-        "tags": [
-          "top500"
-        ]
-      },
-      {
-        "id": "qbitai-5-1791739504995",
-        "title": "超清双2亿，掌中电影机，荣耀Magic9 系列正式发布，售价4499元起",
-        "summary": "2026年9月28日，荣耀（HONOR）在北京举办荣耀Magic盛典暨荣耀Magic9 系列新品发布会",
-        "url": "https://www.qbitai.com/2026/10/502496.html",
-        "source": "量子位",
-        "sourceId": "qbitai",
-        "publishedAt": "Sat, 10 Oct 2026 09:07:43 +0000",
+        "id": "leiphone-0-1791779844072",
+        "title": "字节发现 DeepSeek 隐藏 Bug，加点空格，模型翻车",
+        "summary": "DeepSeek 的省钱杀手锏，为何成了致命盲区？ &nbsp; &nbsp; 作者丨 高允毅 &nbsp; &nbsp; 编辑丨岑 &nbsp; 峰 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &…",
+        "url": "https://www.leiphone.com/category/yanxishe/zm33Zeu88CNbEPMx.html",
+        "source": "雷锋网",
+        "sourceId": "leiphone",
+        "publishedAt": "Sat, 10 Oct 2026 19:40:00 +0800",
         "prefer": [
           "aiNews"
         ],
         "tags": [
           "aiNews",
-          "top500",
-          "marketing"
-        ]
-      },
-      {
-        "id": "digitaling-3-1791739506665",
-        "title": "项目频道 - 美团旅行王牌山河季：和哈妮克孜，入疆随「熟」",
-        "summary": "八月中秋风林凉～&nbsp; 8月的时候， 我们托客户美团旅行的福，「回」新疆享受了一场难得的“工作中的旅行”， 体验了非常“新疆”的风土人情，也感受美团和当地酒店的地道服务。 为什么会有这趟旅行？ 因为美团旅行本身也有个王牌IP，区隔于传统OTA的旅行产品，更依托美团在本地生活…",
-        "url": " https://www.digitaling.com/projects/379168.html",
-        "source": "数英网",
-        "sourceId": "digitaling",
-        "publishedAt": " Sat, 10 Oct 2026 16:59:00 +0800",
-        "prefer": [
-          "marketing"
-        ],
-        "tags": [
-          "top500"
-        ]
-      },
-      {
-        "id": "digitaling-7-1791739506665",
-        "title": "项目频道 - 伊利脑洞广告：中国人会飞，怪兽来旅游",
-        "summary": "张国伟在天上飞，怪兽赶着来中国旅游，连神龙都被召唤出来解决一盒牛奶的愿望…… 如果不是伊利把这些放进同一组短片里，很难想象它们之间能有什么关系。三支片子从旅行综艺一路拍到特摄、奇幻，画风越走越远，但背后其实始终围绕着一个很明确的主题： 重新看一遍正在变化的中国。 双节期间，大家的…",
-        "url": " https://www.digitaling.com/projects/379560.html",
-        "source": "数英网",
-        "sourceId": "digitaling",
-        "publishedAt": " Sat, 10 Oct 2026 10:48:00 +0800",
-        "prefer": [
-          "marketing"
-        ],
-        "tags": [
-          "top500",
-          "marketing"
-        ]
-      },
-      {
-        "id": "ifanr-10-1791739505057",
-        "title": "早报｜供应链回应iPhone 18 Pro砍单传闻/小米、华为手机同日调价/山姆拟限制亲友卡换绑",
-        "summary": "· 豆包据称在建设水电燃气缴费等生活服务能力 · IDC：第三季度全球 PC 出货量下降 20.1%，旺季未现 · 曾被字节辞退的田柯宇获近 3000 万美元融资，研发世界模型 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-        "url": "https://www.ifanr.com/1683465?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "source": "爱范儿",
-        "sourceId": "ifanr",
-        "publishedAt": "Sat, 10 Oct 2026 00:14:25 +0000",
-        "prefer": [
-          "aiNews",
-          "hotTopics"
-        ],
-        "tags": [
-          "aiNews",
-          "industryInvest",
-          "top500"
-        ]
-      },
-      {
-        "id": "ifanr-13-1791739505057",
-        "title": "新款理想 i6 六项升级公布，旗舰配置下放，要做「全球爆款」！",
-        "summary": "李想口中的全球爆款。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-        "url": "https://www.ifanr.com/1683385?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "source": "爱范儿",
-        "sourceId": "ifanr",
-        "publishedAt": "Fri, 09 Oct 2026 10:06:43 +0000",
-        "prefer": [
-          "aiNews",
-          "hotTopics"
-        ],
-        "tags": [
-          "top500",
-          "marketing"
-        ]
-      },
-      {
-        "id": "sspai-3-1791739505473",
-        "title": "vivo X500 Pro Max 影像漫谈：当视频创作像拍照一样轻巧",
-        "summary": "让生活里的寻常片刻，在被轻松记录的同时依然经得起回味。 查看全文",
-        "url": "https://sspai.com/post/115456",
-        "source": "少数派",
-        "sourceId": "sspai",
-        "publishedAt": "Fri, 09 Oct 2026 14:43:28 +0800",
-        "prefer": [
-          "aiNews",
-          "hotTopics"
-        ],
-        "tags": [
-          "top500"
-        ]
-      },
-      {
-        "id": "geekpark-6-1791739505654",
-        "title": "攻克超声穿颅读脑，拿下 4 亿元新融资，他们要做脑科学的「英伟达」",
-        "summary": "&nbsp; 一家深圳公司，让实时「看清」人类大脑变成了可能。 极客公园获悉，鲲为科技近期完成 4 亿元新一轮融资，新增股东包括 XVC、红杉中国，老股东夏尔巴、腾讯进一步加仓。 在鲲为位于深圳的研发中心，创始人刘家家向我们展示了实测对比。 一边是价值数百万的海外顶级旗舰彩超设备…",
-        "url": "http://www.geekpark.net/news/372148",
-        "source": "极客公园",
-        "sourceId": "geekpark",
-        "publishedAt": "Fri, 09 Oct 2026 12:28:07 +0800",
-        "prefer": [
-          "aiNews"
-        ],
-        "tags": [
-          "aiNews",
-          "industryInvest",
           "top500"
         ]
       }
     ],
     "newProducts": [
       {
-        "id": "ithome-3-1791739504746",
-        "title": "古尔曼：苹果计划在多个直营店举办 iPhone Duo 大型体验活动，最多摆出 150 台以上样机",
-        "summary": "IT之家 10 月 11 日消息，彭博社记者马克 · 古尔曼今天在新一期《Power On》通讯透露，苹果正在为其首款折叠屏手机 iPhone Duo 谋划声势浩大的展示活动， 让每一位潜在顾客都能充分体验这款新品 。 古尔曼表示，苹果将在美国各地的 Apple Store 直营…",
-        "url": "https://www.ithome.com/1/011/712.htm",
+        "id": "ithome-0-1791779835103",
+        "title": "海尔浴霸 M1 系列人感除臭版发布：承袭海尔冰箱净味技术，首发 699 元",
+        "summary": "IT之家 10 月 12 日消息，海尔宣布推出新款海尔浴霸 M1 系列人感除臭版，首发到手价 699 元。 据商品页面介绍，该系列产品搭载黑金净味技术，承袭海尔冰箱净味科技，内置一键除臭程序模组和诺奖同源晶态模块，可主动捕捉吸附并全时分解异味分子。 海尔表示，经广东省微生物分析检…",
+        "url": "https://www.ithome.com/1/011/853.htm",
         "source": "IT之家",
         "sourceId": "ithome",
-        "publishedAt": "Sun, 11 Oct 2026 15:01:19 GMT",
-        "prefer": [
-          "aiNews",
-          "hotTopics"
-        ],
-        "tags": [
-          "marketing"
-        ]
-      },
-      {
-        "id": "ithome-4-1791739504746",
-        "title": "消息称荣耀 WIN Pad 平板搭载 8.4 英寸 240Hz OLED 屏，本月发布",
-        "summary": "IT之家 10 月 11 日消息，据博主 @体验more 爆料，荣耀 WIN Pad 平板搭载第五代骁龙 8 至尊版处理器，配备 8.4 英寸 240Hz OLED 平板、主动散热风扇，和 iQOO Pad Pro 都是本月发布。 据博主 @数码闲聊站 于 9 月 21 日爆料，…",
-        "url": "https://www.ithome.com/1/011/711.htm",
-        "source": "IT之家",
-        "sourceId": "ithome",
-        "publishedAt": "Sun, 11 Oct 2026 14:55:18 GMT",
+        "publishedAt": "Mon, 12 Oct 2026 04:34:42 GMT",
         "prefer": [
           "aiNews",
           "hotTopics"
@@ -908,47 +919,30 @@
         ]
       },
       {
-        "id": "ithome-6-1791739504746",
-        "title": "古尔曼：苹果首款智能家庭中枢定名 HomeView，搭载 A18 芯片、四种配色可选",
-        "summary": "IT之家 10 月 11 日消息，彭博社记者马克 · 古尔曼今日在新一期《Power On》通讯中透露，苹果首款智能家庭中枢名为“HomeView”，预计将在 10 月 13 日的“欢迎回家”活动正式发布，11 月出货。 据介绍，这款产品的外观设计类似 iMac G4“台灯电脑”…",
-        "url": "https://www.ithome.com/1/011/709.htm",
+        "id": "ithome-2-1791779835103",
+        "title": "宇树科技王兴兴：过去十几年我犯的最大错误就是对 AI 还不够相信",
+        "summary": "IT之家 10 月 12 日消息，第二十六届中国国际工业博览会于 2026 年 10 月 12 日至 16 日在国家会展中心（上海）举办。 据第一财经报道，在开幕式上的深度对话环节中，宇树科技创始人王兴兴分享称，前段时间 GPT-6 的发布对具身智能行业的认知影响很大，公司团队也…",
+        "url": "https://www.ithome.com/1/011/850.htm",
         "source": "IT之家",
         "sourceId": "ithome",
-        "publishedAt": "Sun, 11 Oct 2026 14:36:10 GMT",
+        "publishedAt": "Mon, 12 Oct 2026 04:15:58 GMT",
         "prefer": [
           "aiNews",
           "hotTopics"
         ],
         "tags": [
+          "aiNews",
           "marketing"
         ]
       },
       {
-        "id": "ithome-7-1791739504746",
-        "title": "粤芯半导体 10 月 13 日在创业板上市，发行价为 12.01 元 / 股",
-        "summary": "IT之家 10 月 11 日消息，粤芯半导体技术股份有限公司今日宣布，公司将于 2026 年 10 月 13 日（下周二）在深圳证券交易所创业板上市。 本次发行价格为 12.01 元 / 股 ，发行后总股本为 28.78 亿股（超额配售选择权行使前）。 IT之家了解到，粤芯半导体…",
-        "url": "https://www.ithome.com/1/011/708.htm",
+        "id": "ithome-5-1791779835103",
+        "title": "华为首发星迹定位技术，支持车道亚米级 / 室内车位级导航、专业跑步精准轨迹等",
+        "summary": "IT之家 10 月 12 日现场消息，在今天的华为终端创新技术沟通会上，华为终端 BG CTO、华为终端 BG 硬件工程与产品开发管理部部长李小龙分享了华为星迹定位技术的核心亮点。 随着隧道、跑步、地库、滑雪、室内、高架 / 运动场等场景的拓展，李小龙表示，传统定位技术已无法满足…",
+        "url": "https://www.ithome.com/1/011/847.htm",
         "source": "IT之家",
         "sourceId": "ithome",
-        "publishedAt": "Sun, 11 Oct 2026 14:27:14 GMT",
-        "prefer": [
-          "aiNews",
-          "hotTopics"
-        ],
-        "tags": [
-          "industryInvest",
-          "marketing",
-          "startup"
-        ]
-      },
-      {
-        "id": "ithome-10-1791739504746",
-        "title": "街电推出 55W 挂包充电宝：2C 设计、10000mAh 电芯，273 元赠“一年共享移动电源免费使用权益”",
-        "summary": "IT之家 10 月 11 日消息，街电现已在京东上架一款 55W 挂包充电宝，该机采用 2C 设计，内置 10000mAh 电芯，定价为 298 元， 首发价 273 元 ，同时号称还赠送给消费者“一年共享充电宝免费使用权益”。 京东 街电 55W 挂包充电宝 券后 273 元 …",
-        "url": "https://www.ithome.com/1/011/705.htm",
-        "source": "IT之家",
-        "sourceId": "ithome",
-        "publishedAt": "Sun, 11 Oct 2026 14:03:40 GMT",
+        "publishedAt": "Mon, 12 Oct 2026 04:01:17 GMT",
         "prefer": [
           "aiNews",
           "hotTopics"
@@ -959,31 +953,13 @@
         ]
       },
       {
-        "id": "ithome-11-1791739504746",
-        "title": "上市 1 月京东直降：小米 NAS 智能存储 2699 → 2384 元 4 年质保",
-        "summary": "小米首款 NAS 产品“Xiaomi 智能存储”今年 8 月 27 日开售，官方定价如下： 4T 定价 2699 元，今日国补后 2384 元： 京东 小米 智能存储 4TB 国补后 2384.1 元 领 250 元券 8T 定价 3499 元，今日超级补贴价 3194 元： 京…",
-        "url": "https://www.ithome.com/1/011/704.htm",
+        "id": "ithome-7-1791779835103",
+        "title": "Stellantis 集团发布 6 款概念车，覆盖阿尔法 · 罗密欧、雪铁龙等品牌",
+        "summary": "IT之家 10 月 12 日消息，当地时间 10 月 11 日，2026 巴黎车展开幕前夕，Stellantis 集团对其将于 10 月 12 日至 18 日在巴黎车展上进行首次亮相的 9 款概念车中的 6 款，进行了专属预展。 据介绍，这 6 款概念车在 Stellantis …",
+        "url": "https://www.ithome.com/1/011/839.htm",
         "source": "IT之家",
         "sourceId": "ithome",
-        "publishedAt": "Sun, 11 Oct 2026 13:58:07 GMT",
-        "prefer": [
-          "aiNews",
-          "hotTopics"
-        ],
-        "tags": [
-          "industryInvest",
-          "top500",
-          "marketing"
-        ]
-      },
-      {
-        "id": "ithome-15-1791739504746",
-        "title": "微软为 Linux 7.4 贡献 Hyper-V 半虚拟化 IOMMU 驱动，已进入-next 分支",
-        "summary": "IT之家 10 月 11 日消息，据科技媒体 Phoronix 今天报道，微软为即将发布的 Linux 7.4 贡献全新内核驱动。目前该驱动已进入 IOMMU 子系统的 -next 分支，可在 Hyper-V 的 Linux 客户机虚拟机使用。 据介绍，这款半虚拟化 IOMMU …",
-        "url": "https://www.ithome.com/1/011/700.htm",
-        "source": "IT之家",
-        "sourceId": "ithome",
-        "publishedAt": "Sun, 11 Oct 2026 13:32:33 GMT",
+        "publishedAt": "Mon, 12 Oct 2026 03:47:15 GMT",
         "prefer": [
           "aiNews",
           "hotTopics"
@@ -993,45 +969,13 @@
         ]
       },
       {
-        "id": "ithome-18-1791739504746",
-        "title": "黑客组织 Cyberleek 扬言公布“完整《GTA6》游戏构建副本”，旨在抬高虚拟货币价格敛财",
-        "summary": "IT之家 10 月 11 日消息，据外媒 GameRant 报道，臭名昭著的黑客组织 Cyberleek 发布公告，称如果自家虚拟货币市值达到 3,000 万美元 （IT之家注：现汇率约合 2.01 亿元人民币） ，就将公布“能够体验完整故事模式、直至演职人员名单”的《GTA 6…",
-        "url": "https://www.ithome.com/1/011/697.htm",
+        "id": "ithome-8-1791779835103",
+        "title": "本田宣布下一代混动系统命名 Honda Hybrid，首发车型 2027 年全球推出",
+        "summary": "IT之家 10 月 12 日消息，本田 10 月 9 日宣布其下一代混合动力系统命名为 Honda Hybrid 。 为了快速响应全球对混合动力汽车日益增长的需求，本田已将开发和生产资源重新分配到混合动力业务，以配合公司于 2026 年 5 月宣布的汽车业务重建路线图。作为这一方…",
+        "url": "https://www.ithome.com/1/011/838.htm",
         "source": "IT之家",
         "sourceId": "ithome",
-        "publishedAt": "Sun, 11 Oct 2026 13:16:26 GMT",
-        "prefer": [
-          "aiNews",
-          "hotTopics"
-        ],
-        "tags": [
-          "marketing"
-        ]
-      },
-      {
-        "id": "ithome-20-1791739504746",
-        "title": "《火影忍者 × 忍空》动漫官宣，全新原创故事制作中",
-        "summary": "IT之家 10 月 11 日消息，《火影忍者 × 忍空》动漫官宣，两部传奇作品梦幻联动，该作为岸本齐史、桐山光侍监修的全新原创故事。 IT之家注意到，动画讲述第七班的鸣人、佐助和小樱被另有要事的卡卡西托付了一项任务，作为代理队长的鸣人干劲满满，结果三人却在执行任务的途中误入了异世…",
-        "url": "https://www.ithome.com/1/011/695.htm",
-        "source": "IT之家",
-        "sourceId": "ithome",
-        "publishedAt": "Sun, 11 Oct 2026 13:07:40 GMT",
-        "prefer": [
-          "aiNews",
-          "hotTopics"
-        ],
-        "tags": [
-          "marketing"
-        ]
-      },
-      {
-        "id": "ithome-22-1791739504746",
-        "title": "工信部发布 2026 年前 8 个月通信业经济运行情况：电信业务收入累计完成 1.16 万亿元、5G 用户达 13.11 亿户",
-        "summary": "IT之家 10 月 11 日消息，工信部昨日发布 2026 年前 8 个月通信业经济运行情况，前 8 个月，电信业务总量稳步增长，5G、千兆光网等网络建设和应用不断推进，连接用户规模稳步扩大，移动互联网接入流量保持较快增势。 一、总体运行情况 前 8 个月，电信业务收入累计完成 …",
-        "url": "https://www.ithome.com/1/011/693.htm",
-        "source": "IT之家",
-        "sourceId": "ithome",
-        "publishedAt": "Sun, 11 Oct 2026 12:58:20 GMT",
+        "publishedAt": "Mon, 12 Oct 2026 03:46:00 GMT",
         "prefer": [
           "aiNews",
           "hotTopics"
@@ -1042,33 +986,115 @@
         ]
       },
       {
-        "id": "ithome-23-1791739504746",
-        "title": "奇瑞捷途全新旅行者 7 预告搭载骁龙 8255 座舱芯片，10 月 14 日上市",
-        "summary": "IT之家 10 月 11 日消息，奇瑞捷途全新旅行者 7 将于 10 月 14 日上市，官方预告智能科技再升级。 新车搭载 TOUROS 3.3 AI 智能座舱、骁龙 8255 高阶座舱芯片，搭配 24GB 运存 +256GB 超大存储，内置讯飞星火智能 AI 大模型，配备 15…",
-        "url": "https://www.ithome.com/1/011/691.htm",
+        "id": "ithome-11-1791779835103",
+        "title": "吉利远程星享 M7E 车型上市：限时 11.39 万元，续航 465km 首搭金砖致远电池",
+        "summary": "IT之家 10 月 12 日消息，吉利远程旗下纯电商务车星享 M7E 昨日正式上市，官方指导价 12.59 万元，2026 年 12 月 31 日 24 点前下定的用户可享限时专享价 11.39 万元。 星享 M7E 是吉利远程旗下首款搭载金砖致远电池的量产车型，吉利远程同步推出…",
+        "url": "https://www.ithome.com/1/011/832.htm",
         "source": "IT之家",
         "sourceId": "ithome",
-        "publishedAt": "Sun, 11 Oct 2026 12:28:49 GMT",
+        "publishedAt": "Mon, 12 Oct 2026 03:34:34 GMT",
         "prefer": [
           "aiNews",
           "hotTopics"
         ],
         "tags": [
-          "aiNews",
           "industryInvest",
           "marketing"
         ]
       },
       {
-        "id": "geekpark-0-1791739505654",
-        "title": "12 分钟订单破万，吉利银河战舰 700，要订下新能源越野的新标准",
-        "summary": "&nbsp; 图片来源：吉利银河 「这台车我们造了 5 年，这也是吉利第一次造越野车。」吉利汽车研究院院长李传海说到。 就在几分钟前，10 月 10 日，吉利银河战舰 700，一台新能源野车正式发布，16.98 万（限时焕新价）起的价格，让这台最高配备三电机四驱，千匹马力，能爬 …",
-        "url": "http://www.geekpark.net/news/372213",
-        "source": "极客公园",
-        "sourceId": "geekpark",
-        "publishedAt": "Sun, 11 Oct 2026 13:52:01 +0800",
+        "id": "ithome-12-1791779835103",
+        "title": "目前原生最高档：一加 16 手机官宣支持《王者荣耀》165FPS + 极致画质模式",
+        "summary": "IT之家 10 月 12 日消息，一加中国区总裁李杰今日宣布， 一加 16 手机已支持《王者荣耀》原生 165FPS + 极致画质模式 。这也是目前《王者荣耀》原生支持的最高帧率和最高画质。 在 10 月 9 日的第四代东方屏技术沟通会上，一加与京东方联合研发的第四代东方屏正式发…",
+        "url": "https://www.ithome.com/1/011/831.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Mon, 12 Oct 2026 03:32:58 GMT",
         "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "top500",
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-14-1791779835103",
+        "title": "新规落地后隐藏门把手车主要去换零件吗，专家称硬件无法改造的批次可能只能停产并评估召回方案",
+        "summary": "IT之家 10 月 12 日消息，工业和信息化部等四部门近日联合发布了《 关于进一步加强汽车产品创新设计和研发测试验证有关管理工作的通知（征求意见稿） 》，明确提出创新门把手设计应充分验证极端环境下的功能稳定性和紧急情况下的可操作性，具备机械冗余设计和手部操作空间， 禁止配备全隐…",
+        "url": "https://www.ithome.com/1/011/827.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Mon, 12 Oct 2026 03:22:52 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-15-1791779835103",
+        "title": "Ubuntu 计划推出适配 RISC-V 指令集的官方 26.10 桌面镜像",
+        "summary": "IT之家 10 月 12 日消息，Linux 发行版 Ubuntu 官方近日宣布，计划在 Ubuntu 26.10 \"Stonking Stingray\" 本月 15 日发布的同时推出适配 RISC-V 指令集的官方桌面镜像。 Ubuntu 此前已在提供面向 x86-64、Arm…",
+        "url": "https://www.ithome.com/1/011/823.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Mon, 12 Oct 2026 03:21:49 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "marketing"
+        ]
+      },
+      {
+        "id": "tmtpost-4-1791779836757",
+        "title": "上半年净利润下滑23.9%，一块墨水屏能否撑起文石科技的上市路？",
+        "summary": "墨水屏撑起了过去，但如何撑起未来？",
+        "url": "https://www.tmtpost.com/8164951.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Mon, 12 Oct 2026 10:57:59 +0800",
+        "prefer": [
+          "industryInvest",
           "aiNews"
+        ],
+        "tags": [
+          "industryInvest",
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-22-1791779835103",
+        "title": "史上最强监控摄像头：英国厂商 2Crsi Edge 新品内置酷睿 Ultra 5 225H，堪比迷你主机",
+        "summary": "IT之家 10 月 12 日消息，英国厂商 2Crsi Edge 推出了一款理论上可以玩电子游戏的监控摄像头，搭载英特尔酷睿 Ultra 5 225H 处理器。 这款摄像头的型号为 Vision Guard VG-15MV-66，搭载的酷睿 Ultra 5 225H 是一颗 14…",
+        "url": "https://www.ithome.com/1/011/806.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Mon, 12 Oct 2026 02:51:13 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-24-1791779835103",
+        "title": "国产动画电影《八仙！》三轮密钥延期至 11 月 17 日，票房破 20 亿",
+        "summary": "IT之家 10 月 12 日消息，国产动画电影《八仙！》今日官宣三轮密钥延期至 2026 年 11 月 17 日 23:59， 目前该片累计票房突破 20 亿 。 《八仙！》于 2026 年 7 月 18 日上映， 目前 位列中国影史国产动画电影票房第三 （仅次于两部《哪吒之魔童…",
+        "url": "https://www.ithome.com/1/011/801.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Mon, 12 Oct 2026 02:41:59 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
         ],
         "tags": [
           "marketing"
@@ -1077,7 +1103,7 @@
     ],
     "influencerVideos": [
       {
-        "id": "ifanr-13-1791739505057",
+        "id": "ifanr-14-1791779835231",
         "title": "新款理想 i6 六项升级公布，旗舰配置下放，要做「全球爆款」！",
         "summary": "李想口中的全球爆款。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
         "url": "https://www.ifanr.com/1683385?utm_source=rss&utm_medium=rss&utm_campaign=",
@@ -1094,7 +1120,7 @@
         ]
       },
       {
-        "id": "cyzone-13-1791739507696",
+        "id": "cyzone-13-1791779837925",
         "title": "郑刚实名举报罗永浩及交个朋友相关主体涉嫌偷税",
         "summary": "9月27日，紫辉创投创始合伙人郑刚公开实名举报罗永浩及“交个朋友”相关已注销有限合伙企业涉嫌重大偷税漏税，并提及“尽微、李钧、罗永秀、黄贺”等关键词，但未公布被举报企业的完整名单。罗永浩回应称相关内容属于诬告，已经截屏取证。 据天眼查App显示，曾被公开报道为“交个朋友”直播业务…",
         "url": "https://www.cyzone.cn/article/847764.html",
@@ -1112,7 +1138,57 @@
     ],
     "crossCollab": [
       {
-        "id": "digitaling-15-1791739506665",
+        "id": "ithome-6-1791779835103",
+        "title": "松下与谷歌合作，共同打造家庭安防解决方案",
+        "summary": "IT之家 10 月 12 日消息，Panasonic（松下）当地时间本月 6 日宣布与 Google（谷歌）达成合作协议：双方将结合松下在可视对讲和监控领域的专业技术、谷歌在 GenAI 与云方面的优势 共同开发新一代家庭安防解决方案 。 松下在新闻稿中坦诚，日本入室盗窃犯罪近年…",
+        "url": "https://www.ithome.com/1/011/840.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Mon, 12 Oct 2026 03:56:09 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-18-1791779835103",
+        "title": "大众 CEO 奥利弗 · 布鲁姆呼吁德法车企抱团，携手应对中国汽车品牌挑战",
+        "summary": "IT之家 10 月 12 日消息，据英国金融时报今日报道，大众汽车集团 CEO 奥利弗 · 布鲁姆（Oliver Blume）于当地时间周日（10 月 11 日）在巴黎车展前表示， 法国和德国应加强合作，携手应对中国汽车业挑战 。 布鲁姆表示，法国和德国应加强合作，提升欧洲汽车业…",
+        "url": "https://www.ithome.com/1/011/812.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Mon, 12 Oct 2026 03:10:28 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "marketing"
+        ]
+      },
+      {
+        "id": "ifanr-0-1791779835231",
+        "title": "早报｜我们跟库克聊了聊iPhone Duo/继QClaw后，腾讯再关停一个Agent/SpaceXAI改名SpaceXSI",
+        "summary": "· 曝苹果与 ADT 合作，为家居中枢提供安装服务 · 蔚来广东换电站达到 500 座，六城同步新增第五代站 · 苹果 COO 探访郑州工厂，披露 iPhone Duo 屏幕与芯片制造工艺 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上…",
+        "url": "https://www.ifanr.com/1683302?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "source": "爱范儿",
+        "sourceId": "ifanr",
+        "publishedAt": "Mon, 12 Oct 2026 00:12:37 +0000",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "aiNews",
+          "top500",
+          "marketing"
+        ]
+      },
+      {
+        "id": "digitaling-18-1791779835987",
         "title": "项目频道 - 昂跑：狭路相逢，赞达亚胜了吗",
         "summary": "视频 狭路相逢，赞达亚胜…了吗？ 赞达亚与运动品牌昂跑携手推出了第二季联名系列，由造型师 Law Roach 亲自操刀设计，并 以动作电影为主题拍摄了一支宣传大片，将运动演绎得轻盈而自如。 这支广告大片汲取了功夫片中紧张激烈的近身搏击以及其他经典电影元素， 故事发生在一座极具都市…",
         "url": " https://www.digitaling.com/projects/379602.html",
@@ -1129,71 +1205,13 @@
     ],
     "hotTopics": [
       {
-        "id": "ithome-0-1791739504746",
-        "title": "李杰回应一加 16 不支持全局 185Hz：产品追求体验优先，屏幕暂时做不到",
-        "summary": "IT之家 10 月 11 日消息，一加中国区总裁李杰今日在微博评论区回应关于一加 16 屏幕刷新率相关问题， 据其介绍，一加 16 追求体验优先，不是参数优先。要同时兼顾流畅，功耗，发热，屏幕显示效果，现在的屏幕技术 暂时做不到全局 185Hz 。全局高刷要做到常用常开，目前最佳…",
-        "url": "https://www.ithome.com/1/011/715.htm",
+        "id": "ithome-0-1791779835103",
+        "title": "海尔浴霸 M1 系列人感除臭版发布：承袭海尔冰箱净味技术，首发 699 元",
+        "summary": "IT之家 10 月 12 日消息，海尔宣布推出新款海尔浴霸 M1 系列人感除臭版，首发到手价 699 元。 据商品页面介绍，该系列产品搭载黑金净味技术，承袭海尔冰箱净味科技，内置一键除臭程序模组和诺奖同源晶态模块，可主动捕捉吸附并全时分解异味分子。 海尔表示，经广东省微生物分析检…",
+        "url": "https://www.ithome.com/1/011/853.htm",
         "source": "IT之家",
         "sourceId": "ithome",
-        "publishedAt": "Sun, 11 Oct 2026 15:28:59 GMT",
-        "prefer": [
-          "aiNews",
-          "hotTopics"
-        ],
-        "tags": []
-      },
-      {
-        "id": "ithome-1-1791739504746",
-        "title": "曝苹果新一代 Apple TV 4K 内置麦克风、Siri Remote 遥控器将配扬声器便于查找",
-        "summary": "IT之家 10 月 11 日消息，苹果将在本周二举行“欢迎回家”活动，主角预计是 HomeView 智能家庭中枢，除此之外还有新款 HomePod mini 和 Apple TV 4K。 据彭博社记者马克 · 古尔曼今日透露， 新款 Apple TV 4K 将在 10 月 30 …",
-        "url": "https://www.ithome.com/1/011/714.htm",
-        "source": "IT之家",
-        "sourceId": "ithome",
-        "publishedAt": "Sun, 11 Oct 2026 15:20:30 GMT",
-        "prefer": [
-          "aiNews",
-          "hotTopics"
-        ],
-        "tags": []
-      },
-      {
-        "id": "ithome-2-1791739504746",
-        "title": "消息称 OLED 屏新款 iPad mini 售价将大幅上涨，或接近 799 美元",
-        "summary": "IT之家 10 月 11 日消息，彭博社记者马克 · 古尔曼今天表示，苹果计划本月晚些时候推出新款 iPad mini。新机的起步存储空间可能会有所提升， 但有意换机的用户得提前做好涨价的准备 。 古尔曼透露，新款 iPad mini 售价相比现款机型将大幅上涨，预计将接近 79…",
-        "url": "https://www.ithome.com/1/011/713.htm",
-        "source": "IT之家",
-        "sourceId": "ithome",
-        "publishedAt": "Sun, 11 Oct 2026 15:12:21 GMT",
-        "prefer": [
-          "aiNews",
-          "hotTopics"
-        ],
-        "tags": []
-      },
-      {
-        "id": "ithome-3-1791739504746",
-        "title": "古尔曼：苹果计划在多个直营店举办 iPhone Duo 大型体验活动，最多摆出 150 台以上样机",
-        "summary": "IT之家 10 月 11 日消息，彭博社记者马克 · 古尔曼今天在新一期《Power On》通讯透露，苹果正在为其首款折叠屏手机 iPhone Duo 谋划声势浩大的展示活动， 让每一位潜在顾客都能充分体验这款新品 。 古尔曼表示，苹果将在美国各地的 Apple Store 直营…",
-        "url": "https://www.ithome.com/1/011/712.htm",
-        "source": "IT之家",
-        "sourceId": "ithome",
-        "publishedAt": "Sun, 11 Oct 2026 15:01:19 GMT",
-        "prefer": [
-          "aiNews",
-          "hotTopics"
-        ],
-        "tags": [
-          "marketing"
-        ]
-      },
-      {
-        "id": "ithome-4-1791739504746",
-        "title": "消息称荣耀 WIN Pad 平板搭载 8.4 英寸 240Hz OLED 屏，本月发布",
-        "summary": "IT之家 10 月 11 日消息，据博主 @体验more 爆料，荣耀 WIN Pad 平板搭载第五代骁龙 8 至尊版处理器，配备 8.4 英寸 240Hz OLED 平板、主动散热风扇，和 iQOO Pad Pro 都是本月发布。 据博主 @数码闲聊站 于 9 月 21 日爆料，…",
-        "url": "https://www.ithome.com/1/011/711.htm",
-        "source": "IT之家",
-        "sourceId": "ithome",
-        "publishedAt": "Sun, 11 Oct 2026 14:55:18 GMT",
+        "publishedAt": "Mon, 12 Oct 2026 04:34:42 GMT",
         "prefer": [
           "aiNews",
           "hotTopics"
@@ -1204,27 +1222,97 @@
         ]
       },
       {
-        "id": "ithome-5-1791739504746",
-        "title": "小岛秀夫确认客串某大型真人电影、某知名动画，坦言不喜欢扮演自己",
-        "summary": "IT之家 10 月 11 日消息，小岛秀夫近日在 KOJI10 广播节目透露，他已确定客串某部真人电影和某动画。这位游戏制作人曾出演日剧《别班》，还参与过《疯狂动物城 2》日语配音。 ▲ 小岛秀夫图源：小岛工作室 小岛秀夫在节目中表示：“有导演和其他人邀请我出演。其中一部是大型真…",
-        "url": "https://www.ithome.com/1/011/710.htm",
+        "id": "ithome-1-1791779835103",
+        "title": "阶跃 Step 5 Preview 模型上线腾讯 WorkBuddy，10 月 12 至 25 日独家限免",
+        "summary": "IT之家 10 月 12 日消息，阶跃 StepFun 今日宣布，阶跃 Step 5 Preview 模型上线腾讯 WorkBuddy。2026 年 10 月 12 日至 10 月 25 日， 在 WorkBuddy 开启独家限免 。 据IT之家此前报道，9 月 20 日， 阶跃…",
+        "url": "https://www.ithome.com/1/011/852.htm",
         "source": "IT之家",
         "sourceId": "ithome",
-        "publishedAt": "Sun, 11 Oct 2026 14:50:56 GMT",
+        "publishedAt": "Mon, 12 Oct 2026 04:34:29 GMT",
         "prefer": [
           "aiNews",
           "hotTopics"
         ],
-        "tags": []
+        "tags": [
+          "top500"
+        ]
       },
       {
-        "id": "ithome-6-1791739504746",
-        "title": "古尔曼：苹果首款智能家庭中枢定名 HomeView，搭载 A18 芯片、四种配色可选",
-        "summary": "IT之家 10 月 11 日消息，彭博社记者马克 · 古尔曼今日在新一期《Power On》通讯中透露，苹果首款智能家庭中枢名为“HomeView”，预计将在 10 月 13 日的“欢迎回家”活动正式发布，11 月出货。 据介绍，这款产品的外观设计类似 iMac G4“台灯电脑”…",
-        "url": "https://www.ithome.com/1/011/709.htm",
+        "id": "ithome-2-1791779835103",
+        "title": "宇树科技王兴兴：过去十几年我犯的最大错误就是对 AI 还不够相信",
+        "summary": "IT之家 10 月 12 日消息，第二十六届中国国际工业博览会于 2026 年 10 月 12 日至 16 日在国家会展中心（上海）举办。 据第一财经报道，在开幕式上的深度对话环节中，宇树科技创始人王兴兴分享称，前段时间 GPT-6 的发布对具身智能行业的认知影响很大，公司团队也…",
+        "url": "https://www.ithome.com/1/011/850.htm",
         "source": "IT之家",
         "sourceId": "ithome",
-        "publishedAt": "Sun, 11 Oct 2026 14:36:10 GMT",
+        "publishedAt": "Mon, 12 Oct 2026 04:15:58 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "aiNews",
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-3-1791779835103",
+        "title": "无问芯穹完成 23 亿元 C 轮融资，单轮及累计融资额均创中国 AI 原生基础设施赛道最高纪录",
+        "summary": "IT之家 10 月 12 日消息，据证券时报消息，人工智能基础设施（AI Infra）企业 无问芯穹已完成 23 亿元的 C 轮融资 ，其成立以来的累计融资额达 43 亿元，单轮及累计融资额均创下中国 AI 原生基础设施赛道最高纪录。 公开信息显示，无问芯穹成立于 2023 年，…",
+        "url": "https://www.ithome.com/1/011/849.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Mon, 12 Oct 2026 04:08:12 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "aiNews",
+          "industryInvest",
+          "startup"
+        ]
+      },
+      {
+        "id": "ithome-4-1791779835103",
+        "title": "万代南梦宫宣布《火影忍者》手游将面向全球发行，腾讯国服 2016 年上线",
+        "summary": "IT之家 10 月 12 日消息，当地时间 10 月 11 日，万代南梦宫与腾讯在纽约动漫展上联合宣布，由腾讯魔方工作室研发的《火影忍者》手游将推出全球版本，正式面向国际市场发行。 《火影忍者》手游由万代南梦宫正版授权、腾讯魔方工作室研发，最初于 2016 年 5 月 19 日在…",
+        "url": "https://www.ithome.com/1/011/848.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Mon, 12 Oct 2026 04:03:03 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "top500"
+        ]
+      },
+      {
+        "id": "ithome-5-1791779835103",
+        "title": "华为首发星迹定位技术，支持车道亚米级 / 室内车位级导航、专业跑步精准轨迹等",
+        "summary": "IT之家 10 月 12 日现场消息，在今天的华为终端创新技术沟通会上，华为终端 BG CTO、华为终端 BG 硬件工程与产品开发管理部部长李小龙分享了华为星迹定位技术的核心亮点。 随着隧道、跑步、地库、滑雪、室内、高架 / 运动场等场景的拓展，李小龙表示，传统定位技术已无法满足…",
+        "url": "https://www.ithome.com/1/011/847.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Mon, 12 Oct 2026 04:01:17 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "top500",
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-6-1791779835103",
+        "title": "松下与谷歌合作，共同打造家庭安防解决方案",
+        "summary": "IT之家 10 月 12 日消息，Panasonic（松下）当地时间本月 6 日宣布与 Google（谷歌）达成合作协议：双方将结合松下在可视对讲和监控领域的专业技术、谷歌在 GenAI 与云方面的优势 共同开发新一代家庭安防解决方案 。 松下在新闻稿中坦诚，日本入室盗窃犯罪近年…",
+        "url": "https://www.ithome.com/1/011/840.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Mon, 12 Oct 2026 03:56:09 GMT",
         "prefer": [
           "aiNews",
           "hotTopics"
@@ -1234,147 +1322,230 @@
         ]
       },
       {
-        "id": "ithome-7-1791739504746",
-        "title": "粤芯半导体 10 月 13 日在创业板上市，发行价为 12.01 元 / 股",
-        "summary": "IT之家 10 月 11 日消息，粤芯半导体技术股份有限公司今日宣布，公司将于 2026 年 10 月 13 日（下周二）在深圳证券交易所创业板上市。 本次发行价格为 12.01 元 / 股 ，发行后总股本为 28.78 亿股（超额配售选择权行使前）。 IT之家了解到，粤芯半导体…",
-        "url": "https://www.ithome.com/1/011/708.htm",
+        "id": "ithome-7-1791779835103",
+        "title": "Stellantis 集团发布 6 款概念车，覆盖阿尔法 · 罗密欧、雪铁龙等品牌",
+        "summary": "IT之家 10 月 12 日消息，当地时间 10 月 11 日，2026 巴黎车展开幕前夕，Stellantis 集团对其将于 10 月 12 日至 18 日在巴黎车展上进行首次亮相的 9 款概念车中的 6 款，进行了专属预展。 据介绍，这 6 款概念车在 Stellantis …",
+        "url": "https://www.ithome.com/1/011/839.htm",
         "source": "IT之家",
         "sourceId": "ithome",
-        "publishedAt": "Sun, 11 Oct 2026 14:27:14 GMT",
+        "publishedAt": "Mon, 12 Oct 2026 03:47:15 GMT",
         "prefer": [
           "aiNews",
           "hotTopics"
         ],
         "tags": [
-          "industryInvest",
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-8-1791779835103",
+        "title": "本田宣布下一代混动系统命名 Honda Hybrid，首发车型 2027 年全球推出",
+        "summary": "IT之家 10 月 12 日消息，本田 10 月 9 日宣布其下一代混合动力系统命名为 Honda Hybrid 。 为了快速响应全球对混合动力汽车日益增长的需求，本田已将开发和生产资源重新分配到混合动力业务，以配合公司于 2026 年 5 月宣布的汽车业务重建路线图。作为这一方…",
+        "url": "https://www.ithome.com/1/011/838.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Mon, 12 Oct 2026 03:46:00 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
           "marketing",
           "startup"
         ]
       },
       {
-        "id": "ithome-8-1791739504746",
-        "title": "西渝高铁全线建设进入关键攻坚阶段，建成后西安至重庆从 6 小时缩短至 2.5 小时",
-        "summary": "IT之家 10 月 11 日消息，据央视新闻今日报道，记者从京昆高速铁路西昆公司获悉，10 月 11 日，随着最后一次爆破作业顺利完成，西安至重庆高速铁路（以下简称“西渝高铁”）高升二号隧道贯通，为全线按期建成通车奠定坚实基础。 高升二号隧道位于重庆市开州区，由中铁二院设计、中铁…",
-        "url": "https://www.ithome.com/1/011/707.htm",
+        "id": "ithome-9-1791779835103",
+        "title": "川崎重工成功测试氢燃料航空发动机，氮氧化物排放水平世界顶尖",
+        "summary": "IT之家 10 月 12 日消息，川崎重工 (Kawasaki) 日本当地时间本月 8 日宣布，其成功完成一款氢燃料航空发动机的测试， 在日本首次实现了世界领先的氮氧化物 (NOx) 低排放水平 。 这款小型发动机搭载川崎重工开发的低 NOx 氢燃烧器，将本为燃气轮机开发的专利微…",
+        "url": "https://www.ithome.com/1/011/835.htm",
         "source": "IT之家",
         "sourceId": "ithome",
-        "publishedAt": "Sun, 11 Oct 2026 14:20:09 GMT",
-        "prefer": [
-          "aiNews",
-          "hotTopics"
-        ],
-        "tags": []
-      },
-      {
-        "id": "ithome-9-1791739504746",
-        "title": "2026 WSBK 葡萄牙站第二回合：张雪机车德比斯第三名，提前锁定本赛季年度亚军",
-        "summary": "IT之家 10 月 11 日消息，2026 世界超级摩托车锦标赛（WSBK）第十一站 WorldSSP 组别 第二回合在葡萄牙的埃斯托里尔举行。 中国摩托车制造商“张雪机车”旗下车手瓦伦丁 · 德比斯拿下季军，队友费德里科 · 卡里卡苏洛赢得第十二名。 本轮比赛中， 川崎世界超级…",
-        "url": "https://www.ithome.com/1/011/706.htm",
-        "source": "IT之家",
-        "sourceId": "ithome",
-        "publishedAt": "Sun, 11 Oct 2026 14:12:07 GMT",
-        "prefer": [
-          "aiNews",
-          "hotTopics"
-        ],
-        "tags": []
-      },
-      {
-        "id": "ithome-10-1791739504746",
-        "title": "街电推出 55W 挂包充电宝：2C 设计、10000mAh 电芯，273 元赠“一年共享移动电源免费使用权益”",
-        "summary": "IT之家 10 月 11 日消息，街电现已在京东上架一款 55W 挂包充电宝，该机采用 2C 设计，内置 10000mAh 电芯，定价为 298 元， 首发价 273 元 ，同时号称还赠送给消费者“一年共享充电宝免费使用权益”。 京东 街电 55W 挂包充电宝 券后 273 元 …",
-        "url": "https://www.ithome.com/1/011/705.htm",
-        "source": "IT之家",
-        "sourceId": "ithome",
-        "publishedAt": "Sun, 11 Oct 2026 14:03:40 GMT",
+        "publishedAt": "Mon, 12 Oct 2026 03:36:41 GMT",
         "prefer": [
           "aiNews",
           "hotTopics"
         ],
         "tags": [
-          "top500",
-          "marketing"
+          "industryInvest"
         ]
       },
       {
-        "id": "ithome-11-1791739504746",
-        "title": "上市 1 月京东直降：小米 NAS 智能存储 2699 → 2384 元 4 年质保",
-        "summary": "小米首款 NAS 产品“Xiaomi 智能存储”今年 8 月 27 日开售，官方定价如下： 4T 定价 2699 元，今日国补后 2384 元： 京东 小米 智能存储 4TB 国补后 2384.1 元 领 250 元券 8T 定价 3499 元，今日超级补贴价 3194 元： 京…",
-        "url": "https://www.ithome.com/1/011/704.htm",
+        "id": "ithome-10-1791779835103",
+        "title": "本田中国 9 月汽车销量 25564 辆，同比下降 53.1%",
+        "summary": "IT之家 10 月 12 日消息，据新浪汽车今日报道，本田中国 9 月汽车销量为 25,564 辆，同比下降 53.1%。 据车云报道，本田技研工业（中国）投资有限公司总经理、本田技研科技（中国）有限公司总经理五十岚雅行明确表态，中国市场的意义早已不止于销售，更是推进电动化与智能…",
+        "url": "https://www.ithome.com/1/011/833.htm",
         "source": "IT之家",
         "sourceId": "ithome",
-        "publishedAt": "Sun, 11 Oct 2026 13:58:07 GMT",
+        "publishedAt": "Mon, 12 Oct 2026 03:35:26 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": []
+      },
+      {
+        "id": "ithome-11-1791779835103",
+        "title": "吉利远程星享 M7E 车型上市：限时 11.39 万元，续航 465km 首搭金砖致远电池",
+        "summary": "IT之家 10 月 12 日消息，吉利远程旗下纯电商务车星享 M7E 昨日正式上市，官方指导价 12.59 万元，2026 年 12 月 31 日 24 点前下定的用户可享限时专享价 11.39 万元。 星享 M7E 是吉利远程旗下首款搭载金砖致远电池的量产车型，吉利远程同步推出…",
+        "url": "https://www.ithome.com/1/011/832.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Mon, 12 Oct 2026 03:34:34 GMT",
         "prefer": [
           "aiNews",
           "hotTopics"
         ],
         "tags": [
           "industryInvest",
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-12-1791779835103",
+        "title": "目前原生最高档：一加 16 手机官宣支持《王者荣耀》165FPS + 极致画质模式",
+        "summary": "IT之家 10 月 12 日消息，一加中国区总裁李杰今日宣布， 一加 16 手机已支持《王者荣耀》原生 165FPS + 极致画质模式 。这也是目前《王者荣耀》原生支持的最高帧率和最高画质。 在 10 月 9 日的第四代东方屏技术沟通会上，一加与京东方联合研发的第四代东方屏正式发…",
+        "url": "https://www.ithome.com/1/011/831.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Mon, 12 Oct 2026 03:32:58 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
           "top500",
           "marketing"
         ]
       },
       {
-        "id": "ithome-12-1791739504746",
-        "title": "消息称美团共享充电宝开始投放新国标 3C 认证版本：配 7500mAh 电芯、自带双线支持 22.5W 输出",
-        "summary": "IT之家 10 月 11 日消息，据充电头网报道，美团旗下共享充电宝新国标版本近期已开始进入线下投放阶段，相应产品延续标志性黄色外观，侧面设有四颗电量指示灯，机身印有“22.5W 超级快充”字样，并标注 CCC 认证标识及 GB 47372-2026《移动电源安全技术规范》执行标…",
-        "url": "https://www.ithome.com/1/011/703.htm",
+        "id": "ithome-13-1791779835103",
+        "title": "霸王茶姬回应小程序崩了：代言人郑钦文夺冠，全场饮品“买一送一”活动太火爆",
+        "summary": "IT之家 10 月 12 日消息，“霸王茶姬小程序崩了”话题今日登顶微博热搜。为庆祝代言人郑钦文夺冠，霸王茶姬推出全场饮品“买一送一”活动，其官方小程序因流量过大出现崩溃，不少用户反映无法正常下单。 北京西城区一家霸王茶姬门店店员对中新经纬表示：“ 小程序正在修复中，活动太火爆了…",
+        "url": "https://www.ithome.com/1/011/830.htm",
         "source": "IT之家",
         "sourceId": "ithome",
-        "publishedAt": "Sun, 11 Oct 2026 13:53:06 GMT",
+        "publishedAt": "Mon, 12 Oct 2026 03:32:09 GMT",
         "prefer": [
           "aiNews",
           "hotTopics"
         ],
         "tags": [
-          "top500"
+          "marketing"
         ]
       },
       {
-        "id": "ithome-13-1791739504746",
-        "title": "闪极推出 Vision Mag 带屏磁吸充电宝：15W 无线充 + 20W 有线充，5000mAh 电芯售 199 元",
-        "summary": "IT之家 10 月 11 日消息，闪极现已在京东上架一款 Vision Mag 磁吸充电宝，该产品支持 15W 无线充电和 20W 有线充电，内置 5000mAh 电芯， 定价为 199 元 。 京东 闪极 Vision Mag 磁吸充电宝 199 元 直达链接 该机整体重量 1…",
-        "url": "https://www.ithome.com/1/011/702.htm",
+        "id": "ithome-14-1791779835103",
+        "title": "新规落地后隐藏门把手车主要去换零件吗，专家称硬件无法改造的批次可能只能停产并评估召回方案",
+        "summary": "IT之家 10 月 12 日消息，工业和信息化部等四部门近日联合发布了《 关于进一步加强汽车产品创新设计和研发测试验证有关管理工作的通知（征求意见稿） 》，明确提出创新门把手设计应充分验证极端环境下的功能稳定性和紧急情况下的可操作性，具备机械冗余设计和手部操作空间， 禁止配备全隐…",
+        "url": "https://www.ithome.com/1/011/827.htm",
         "source": "IT之家",
         "sourceId": "ithome",
-        "publishedAt": "Sun, 11 Oct 2026 13:48:45 GMT",
+        "publishedAt": "Mon, 12 Oct 2026 03:22:52 GMT",
         "prefer": [
           "aiNews",
           "hotTopics"
         ],
         "tags": [
-          "top500"
-        ]
-      },
-      {
-        "id": "ithome-14-1791739504746",
-        "title": "阿维塔 T09 概念版全球首秀：定位全新旗舰 SUV，配备四激光雷达",
-        "summary": "IT之家 10 月 11 日消息，阿维塔 T09 概念版今晚迎来全球首秀。新车作为阿维塔与华为乾崑联合设计的首款高端旗舰车型，新车设计灵感源于 VISION XPECTRA，配备四激光雷达。 外观方面，该车带入全新的阿维塔设计语言，晶钻阵列大灯搭配雕塑格栅。“绛红”与“棉白”营造…",
-        "url": "https://www.ithome.com/1/011/701.htm",
-        "source": "IT之家",
-        "sourceId": "ithome",
-        "publishedAt": "Sun, 11 Oct 2026 13:35:36 GMT",
-        "prefer": [
-          "aiNews",
-          "hotTopics"
-        ],
-        "tags": [
-          "top500"
+          "marketing"
         ]
       }
     ],
     "startup": [
       {
-        "id": "ithome-7-1791739504746",
-        "title": "粤芯半导体 10 月 13 日在创业板上市，发行价为 12.01 元 / 股",
-        "summary": "IT之家 10 月 11 日消息，粤芯半导体技术股份有限公司今日宣布，公司将于 2026 年 10 月 13 日（下周二）在深圳证券交易所创业板上市。 本次发行价格为 12.01 元 / 股 ，发行后总股本为 28.78 亿股（超额配售选择权行使前）。 IT之家了解到，粤芯半导体…",
-        "url": "https://www.ithome.com/1/011/708.htm",
+        "id": "ithome-3-1791779835103",
+        "title": "无问芯穹完成 23 亿元 C 轮融资，单轮及累计融资额均创中国 AI 原生基础设施赛道最高纪录",
+        "summary": "IT之家 10 月 12 日消息，据证券时报消息，人工智能基础设施（AI Infra）企业 无问芯穹已完成 23 亿元的 C 轮融资 ，其成立以来的累计融资额达 43 亿元，单轮及累计融资额均创下中国 AI 原生基础设施赛道最高纪录。 公开信息显示，无问芯穹成立于 2023 年，…",
+        "url": "https://www.ithome.com/1/011/849.htm",
         "source": "IT之家",
         "sourceId": "ithome",
-        "publishedAt": "Sun, 11 Oct 2026 14:27:14 GMT",
+        "publishedAt": "Mon, 12 Oct 2026 04:08:12 GMT",
         "prefer": [
           "aiNews",
           "hotTopics"
+        ],
+        "tags": [
+          "aiNews",
+          "industryInvest",
+          "startup"
+        ]
+      },
+      {
+        "id": "ithome-8-1791779835103",
+        "title": "本田宣布下一代混动系统命名 Honda Hybrid，首发车型 2027 年全球推出",
+        "summary": "IT之家 10 月 12 日消息，本田 10 月 9 日宣布其下一代混合动力系统命名为 Honda Hybrid 。 为了快速响应全球对混合动力汽车日益增长的需求，本田已将开发和生产资源重新分配到混合动力业务，以配合公司于 2026 年 5 月宣布的汽车业务重建路线图。作为这一方…",
+        "url": "https://www.ithome.com/1/011/838.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Mon, 12 Oct 2026 03:46:00 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "marketing",
+          "startup"
+        ]
+      },
+      {
+        "id": "tmtpost-3-1791779836757",
+        "title": "从诺奖到中国创新药出海，生命科学迎接“光”的时代",
+        "summary": "光遗传学拿了诺奖，中国光动力出海",
+        "url": "https://www.tmtpost.com/8164884.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Mon, 12 Oct 2026 10:58:04 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": [
+          "startup"
+        ]
+      },
+      {
+        "id": "tmtpost-8-1791779836757",
+        "title": "满减退场、国补退坡，今年双11用什么增长",
+        "summary": "第18个双11，潮水退去后的精密“算计”",
+        "url": "https://www.tmtpost.com/8164872.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Mon, 12 Oct 2026 10:14:11 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": [
+          "startup"
+        ]
+      },
+      {
+        "id": "tmtpost-10-1791779836757",
+        "title": "基金市场概况与资产配置观点（09.28—10.07）",
+        "summary": "国内市场方面，国庆假期国内消费景气边际修复，商务部监测重点商圈客流、营业额同比小幅上行。央行公布9月黄金储备继续增持，连续23个月扩容。财政端表态研究增量稳增长政策，政策托底预期维持。但地产、居民信贷暂无新增数据，内需修复力度仍待节后9月社融、信贷数据验证。",
+        "url": "https://www.tmtpost.com/8164853.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Mon, 12 Oct 2026 09:33:09 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": [
+          "startup"
+        ]
+      },
+      {
+        "id": "tmtpost-14-1791779836757",
+        "title": "价值判断：涨停板的投资机会和风险提示（10月9日）｜上市公司观察",
+        "summary": "三只溢价标的估值均显著高于济安定价，上行主要由情绪与预期推动，仍宜规避高位博弈，避免以题材预期替代基本面验证。",
+        "url": "https://www.tmtpost.com/8164822.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Mon, 12 Oct 2026 09:29:45 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
         ],
         "tags": [
           "industryInvest",
@@ -1383,24 +1554,26 @@
         ]
       },
       {
-        "id": "ithome-22-1791739504746",
-        "title": "工信部发布 2026 年前 8 个月通信业经济运行情况：电信业务收入累计完成 1.16 万亿元、5G 用户达 13.11 亿户",
-        "summary": "IT之家 10 月 11 日消息，工信部昨日发布 2026 年前 8 个月通信业经济运行情况，前 8 个月，电信业务总量稳步增长，5G、千兆光网等网络建设和应用不断推进，连接用户规模稳步扩大，移动互联网接入流量保持较快增势。 一、总体运行情况 前 8 个月，电信业务收入累计完成 …",
-        "url": "https://www.ithome.com/1/011/693.htm",
-        "source": "IT之家",
-        "sourceId": "ithome",
-        "publishedAt": "Sun, 11 Oct 2026 12:58:20 GMT",
+        "id": "tmtpost-16-1791779836757",
+        "title": "【钛晨报】剑指“重上市、轻验证”，四部门联合发文划清汽车安全底线；经销商联谊会“批量”解散？茅台回应；蚂蚁“灵光”小范围内测，新版对标“Meta Muse”",
+        "summary": "粤芯半导体将于10月13日在创业板上市；尊界：制动踏板升级方案预计10月底确认，11月起陆续启动升级；工业富联：美国337调查涉及公司相关产品处于内部验证评估阶段；苹果iPhone Duo加单30%，iPhone 18 Pro系列总订单量未变；消息称阿斯麦将对韩国零部件涨价10%…",
+        "url": "https://www.tmtpost.com/8164570.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Mon, 12 Oct 2026 07:20:00 +0800",
         "prefer": [
-          "aiNews",
-          "hotTopics"
+          "industryInvest",
+          "aiNews"
         ],
         "tags": [
+          "industryInvest",
+          "top500",
           "marketing",
           "startup"
         ]
       },
       {
-        "id": "cyzone-0-1791739507696",
+        "id": "cyzone-0-1791779837925",
         "title": "通用世界模型北京市重点实验室在京揭牌",
         "summary": "10月11日上午，2026世界模型高峰论坛暨通用世界模型北京市重点实验室揭牌仪式在北京中关村皇冠假日酒店举行，通用世界模型北京市重点实验室正式揭牌。据介绍，该实验室于今年5月获批，是国内首个世界模型方向的省部级重点实验室，由北京极佳视界科技有限公司作为依托单位。 全国政协委员、中…",
         "url": "https://www.cyzone.cn/article/848738.html",
@@ -1414,72 +1587,7 @@
         "tags": []
       },
       {
-        "id": "tmtpost-6-1791739506577",
-        "title": "AI创造的新工作，可能根本轮不到你",
-        "summary": "未来真正稀缺的，可能不只是工作机会，还有让一个普通人从什么都不会，逐渐成为专业人才的机会。",
-        "url": "https://www.tmtpost.com/8164296.html",
-        "source": "钛媒体",
-        "sourceId": "tmtpost",
-        "publishedAt": "Sun, 11 Oct 2026 13:08:00 +0800",
-        "prefer": [
-          "industryInvest",
-          "aiNews"
-        ],
-        "tags": [
-          "startup"
-        ]
-      },
-      {
-        "id": "tmtpost-10-1791739506577",
-        "title": "抱歉，AI眼镜目前仍是个“鸡肋”",
-        "summary": "AI眼镜出货量高速增长，却仍未找到不可替代的核心价值。从硬件、交互到隐私，真正决定其未来的，不是能做多少事，而是什么事情必须由眼镜来做。",
-        "url": "https://www.tmtpost.com/8164235.html",
-        "source": "钛媒体",
-        "sourceId": "tmtpost",
-        "publishedAt": "Sun, 11 Oct 2026 12:44:00 +0800",
-        "prefer": [
-          "industryInvest",
-          "aiNews"
-        ],
-        "tags": [
-          "startup"
-        ]
-      },
-      {
-        "id": "tmtpost-12-1791739506577",
-        "title": "美图公司大起大落",
-        "summary": "美图公司股价起伏频繁，经历多次起伏，但凭借业绩增长和AI技术转型，仍保持发展，成为科技领域的典型案例。",
-        "url": "https://www.tmtpost.com/8164230.html",
-        "source": "钛媒体",
-        "sourceId": "tmtpost",
-        "publishedAt": "Sun, 11 Oct 2026 12:33:00 +0800",
-        "prefer": [
-          "industryInvest",
-          "aiNews"
-        ],
-        "tags": [
-          "startup"
-        ]
-      },
-      {
-        "id": "tmtpost-15-1791739506577",
-        "title": "利润暴涨968%，天赐材料却急着赴港募资，中国电解液龙头们在海外是否还能称王称霸",
-        "summary": "天赐材料通过港交所聆讯，募资出海扩产待验证。",
-        "url": "https://www.tmtpost.com/8164289.html",
-        "source": "钛媒体",
-        "sourceId": "tmtpost",
-        "publishedAt": "Sun, 11 Oct 2026 12:22:57 +0800",
-        "prefer": [
-          "industryInvest",
-          "aiNews"
-        ],
-        "tags": [
-          "industryInvest",
-          "startup"
-        ]
-      },
-      {
-        "id": "digitaling-0-1791739506665",
+        "id": "digitaling-5-1791779835987",
         "title": "文章频道 - 卡戴珊=新乔丹？能否解开耐克的增长死结",
         "summary": "对耐克而言，NikeSKIMS更大的价值是完成一次关键的试探。 作者：扰扰 原标题：卡戴珊=新乔丹？NikeSKIMS能解开耐克的增长死结吗？ 9 月 29 日，NikeSKIMS 中国首家线下体验空间，正式登陆上海兴业太古汇，紧邻 LV “路易号” 巨轮，品牌的野心一目了然。 …",
         "url": " https://www.digitaling.com/articles/1595838.html",
@@ -1496,7 +1604,23 @@
         ]
       },
       {
-        "id": "digitaling-5-1791739506665",
+        "id": "leiphone-8-1791779844072",
+        "title": "独家丨蔚来李斌最新内部讲话：明年将有重量级新车，未来3年的核心是三个聚焦",
+        "summary": "雷峰网独家获悉，9月8日下午，蔚来创始人、董事长、CEO李斌面向公司全员进行了一场内部讲话。一个多小时的交流中，李斌谈到了中国汽车行业正在经历的剧烈变化，也谈到了蔚来过去一年多以来经营质量的持续改善、未来三年的战略方向和“第二增长曲线在哪”。 中国汽车行业正在经历从未出现过的局面…",
+        "url": "https://www.leiphone.com/category/transportation/aPoeP4p5SiG0Rian.html",
+        "source": "雷锋网",
+        "sourceId": "leiphone",
+        "publishedAt": "Sat, 10 Oct 2026 15:49:00 +0800",
+        "prefer": [
+          "aiNews"
+        ],
+        "tags": [
+          "top500",
+          "startup"
+        ]
+      },
+      {
+        "id": "digitaling-10-1791779835987",
         "title": "项目频道 - 三生花×李宇春：万物逢春，我自成花",
         "summary": "以粉丝为第一引擎，让一次常规官宣沉淀为品牌的长期资产 在洗护赛道竞争激烈的当下，代言人官宣很容易变成“拍KV、发微博、铺大屏”的固定动作——声量有了，记忆点却未必留下。 国货品牌三生花需要的不仅是一次曝光，更是 一次从“基础洗护”走向“情感认同”的认知推进。 作为Agency，我…",
         "url": " https://www.digitaling.com/projects/379672.html",
@@ -1512,7 +1636,55 @@
         ]
       },
       {
-        "id": "cyzone-1-1791739507696",
+        "id": "leiphone-12-1791779844072",
+        "title": "里程碑时刻！比亚迪第15万台新能源商用车下线",
+        "summary": "2026年10月9日，比亚迪第15万台新能源商用车——Q3纯电动牵引车，在淮安比亚迪卡车智慧工厂正式下线。从1到15万台，十八年深耕见证了商用车业务从技术探索到多元场景规模化应用的跨越。此次里程碑落在Q3上，不仅凝结了长期技术积累与产业协同的成果，更释放出增长重心向卡车业务倾斜、…",
+        "url": "https://www.leiphone.com/category/industrynews/9nmGLAnpJOtHxXbm.html",
+        "source": "雷锋网",
+        "sourceId": "leiphone",
+        "publishedAt": "Sat, 10 Oct 2026 12:08:00 +0800",
+        "prefer": [
+          "aiNews"
+        ],
+        "tags": [
+          "top500",
+          "startup"
+        ]
+      },
+      {
+        "id": "leiphone-18-1791779844072",
+        "title": "赛力斯9月产销快报 全新一代问界M9系列16周累计交付破4万",
+        "summary": "10月8日，赛力斯发布9月产销快报。数据显示，9月新能源汽车销量29,271辆，环比增长20.7%。问界高端产品交付放量，伴随问界M9 Ultimate领世加长版开启交付，全新一代问界M9 系列16周累计交付突破40000辆，持续斩获50万以上车型销量第一。 旗舰领跑新品蓄势 高…",
+        "url": "https://www.leiphone.com/category/industrynews/flB9MNXXd1jcRTtZ.html",
+        "source": "雷锋网",
+        "sourceId": "leiphone",
+        "publishedAt": "Sat, 10 Oct 2026 11:04:00 +0800",
+        "prefer": [
+          "aiNews"
+        ],
+        "tags": [
+          "marketing",
+          "startup"
+        ]
+      },
+      {
+        "id": "leiphone-19-1791779844072",
+        "title": "GMIF 2026：日均140万亿Token调用，正在改变SSD的能力与分工",
+        "summary": "作者 | 陈悦琳 编辑 | 包永刚 &nbsp; HBM热潮之外，其他存储形式也站在风口。 &nbsp; 这是今年第五届GMIF2026全球存储器行业创新峰会释放的第一个明显信号。以全球云数据中心资本支出为例，摩根士丹利执行董事、大中华区半导体分析师颜志天指出，在未计入HBM的情…",
+        "url": "https://www.leiphone.com/category/chips/OteTEIc4In9VoZg4.html",
+        "source": "雷锋网",
+        "sourceId": "leiphone",
+        "publishedAt": "Sat, 10 Oct 2026 09:38:00 +0800",
+        "prefer": [
+          "aiNews"
+        ],
+        "tags": [
+          "industryInvest",
+          "startup"
+        ]
+      },
+      {
+        "id": "cyzone-1-1791779837925",
         "title": "绿城中国时任主席张亚东被香港廉署起诉",
         "summary": "香港廉政公署10月9日落案起诉绿城中国控股有限公司时任主席张亚东，控告其一项串谋使代理人接受利益罪。控罪指，张亚东涉嫌于2020年1月至2023年3月，与一名中间人、一名大连房地产开发商股东及其儿子等人串谋，收受该股东2000万港元贿款，促使绿城中国以4.4亿元人民币购入该开发商…",
         "url": "https://www.cyzone.cn/article/848567.html",
@@ -1524,98 +1696,23 @@
           "industryInvest"
         ],
         "tags": []
-      },
-      {
-        "id": "cyzone-2-1791739507696",
-        "title": "常润股份终止收购两家汽车电子公司",
-        "summary": "常润股份10月9日公告称，公司终止筹划收购湖北达峰汽车智能控制系统有限公司73.48%股权及达峰汽车智能控制系统（芜湖）有限公司71.50%股权。公司此前与交易对方签署的是股权收购框架协议，之后虽开展尽职调查、审计评估及多轮协商，但各方受未来市场不确定性因素影响，未能就交易关键条…",
-        "url": "https://www.cyzone.cn/article/848566.html",
-        "source": "创业邦",
-        "sourceId": "cyzone",
-        "publishedAt": "Fri, 09 Oct 2026 03:01:49 GMT",
-        "prefer": [
-          "startup",
-          "industryInvest"
-        ],
-        "tags": [
-          "industryInvest"
-        ]
-      },
-      {
-        "id": "cyzone-3-1791739507696",
-        "title": "上海电气等在广东成立变压器公司 注册资本6亿",
-        "summary": "天眼查App显示，近日，上海电气变压器（广东）有限公司成立，法定代表人为陆晓波，注册资本6亿人民币，经营范围包括变压器、整流器和电感器制造，机械电气设备销售，电气设备修理，电力电子元器件制造，电力电子元器件销售等。股东信息显示，该公司由上海电气集团输配电装备有限公司、佛山三水产业…",
-        "url": "https://www.cyzone.cn/article/848471.html",
-        "source": "创业邦",
-        "sourceId": "cyzone",
-        "publishedAt": "Thu, 08 Oct 2026 07:04:12 GMT",
-        "prefer": [
-          "startup",
-          "industryInvest"
-        ],
-        "tags": [
-          "industryInvest"
-        ]
-      },
-      {
-        "id": "cyzone-4-1791739507696",
-        "title": "临期采购推高出行用品热度，质量售后进入假期考题",
-        "summary": "",
-        "url": "https://www.cyzone.cn/article/848470.html",
-        "source": "创业邦",
-        "sourceId": "cyzone",
-        "publishedAt": "Thu, 08 Oct 2026 03:31:20 GMT",
-        "prefer": [
-          "startup",
-          "industryInvest"
-        ],
-        "tags": []
-      },
-      {
-        "id": "cyzone-5-1791739507696",
-        "title": "返程补能进入高峰，高速服务区充电从有桩转向高周转",
-        "summary": "",
-        "url": "https://www.cyzone.cn/article/848356.html",
-        "source": "创业邦",
-        "sourceId": "cyzone",
-        "publishedAt": "Wed, 07 Oct 2026 09:46:27 GMT",
-        "prefer": [
-          "startup",
-          "industryInvest"
-        ],
-        "tags": []
-      },
-      {
-        "id": "cyzone-6-1791739507696",
-        "title": "赛事票根延伸城市消费，观赛客流转化为停留时间",
-        "summary": "",
-        "url": "https://www.cyzone.cn/article/848355.html",
-        "source": "创业邦",
-        "sourceId": "cyzone",
-        "publishedAt": "Wed, 07 Oct 2026 09:45:20 GMT",
-        "prefer": [
-          "startup",
-          "industryInvest"
-        ],
-        "tags": []
       }
     ]
   },
   "sources": {
     "ok": [
       "IT之家",
-      "量子位",
       "爱范儿",
       "新浪科技",
+      "量子位",
       "少数派",
       "极客公园",
+      "数英网",
       "新浪财经",
       "钛媒体",
-      "数英网",
-      "创业邦"
+      "创业邦",
+      "雷锋网"
     ],
-    "failed": [
-      "雷锋网（The operation was aborted due to timeout）"
-    ]
+    "failed": []
   }
 }
