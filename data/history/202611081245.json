@@ -1,0 +1,1488 @@
+{
+  "app": "智讯工作台",
+  "version": 1,
+  "updatedAt": "2026-11-08T12:45:16.603+08:00",
+  "sections": {
+    "aiNews": [
+      {
+        "id": "ithome-0-1794113098221",
+        "title": "科学家研发石墨烯能量采集器：可从环境电磁辐射中“隔空取电”，为传感器供电",
+        "summary": "IT之家 11 月 8 日消息，雷神托尔（Thor）是北欧神话中的雷电之神，以能够凭空召唤闪电而闻名。事实证明，要实现类似效果未必需要一把魔法锤子。科学家近日研发出一种新型装置，能够收集环境中的电磁辐射，并将其转化为电能。 IT之家注意到，来自阿肯色大学和密歇根大学的研究人员开发…",
+        "url": "https://www.ithome.com/1/023/882.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Sun, 08 Nov 2026 04:33:18 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": []
+      },
+      {
+        "id": "ithome-1-1794113098221",
+        "title": "今日宜休王腾澄清智能戒指材质争议：并非所有内塑胶方案都是智商税，请不要断章取义",
+        "summary": "IT之家 11 月 8 日消息，今日宜休科技公司创始人王腾今日在微博发文称， 他没有说所有用内塑胶方案的智能戒指都是智商税 ， 请媒体老师们不要断章取义 。 王腾表示，内塑胶佩戴体验和工艺质感都不如双圈钛金属方案，成本也要低一些， 就像手机塑胶中框和金属中框的区别 ，都可以使用。…",
+        "url": "https://www.ithome.com/1/023/881.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Sun, 08 Nov 2026 04:21:03 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": []
+      },
+      {
+        "id": "ifanr-0-1794113098028",
+        "title": "别再拿《影之刃零》对比《黑神话》了",
+        "summary": "《影之刃》有自己的江湖。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "url": "https://www.ifanr.com/1688282?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "source": "爱范儿",
+        "sourceId": "ifanr",
+        "publishedAt": "Sun, 08 Nov 2026 04:00:31 +0000",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": []
+      },
+      {
+        "id": "ithome-2-1794113098221",
+        "title": "曝 ChatGPT 突现封号风波，200 美元 Pro 用户也遭殃",
+        "summary": "北京时间 11 月 8 日，近日多名用户在 Reddit 及 OpenAI 官方开发者社区反映，自己的 ChatGPT 账号突然遭到停用，其中包括每月订阅费用为 200 美元 （IT之家注：现汇率约合 1,338 元人民币） 的 Pro 用户。部分用户表示， 账号被封前没有收到任…",
+        "url": "https://www.ithome.com/1/023/879.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Sun, 08 Nov 2026 03:55:11 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "aiNews"
+        ]
+      },
+      {
+        "id": "ithome-3-1794113098221",
+        "title": "乘联分会崔东树：1-10 月新车 129 款，增程车型 42 款翻倍增长",
+        "summary": "IT之家 11 月 8 日消息，乘联分会秘书长崔东树发表乘用车新车的分级测算探讨，其中提到，今年 1-10 月的新品共 129 款， 其中增程车型 42 款，较去年同期多 26 款 ；混合动力车型 10 款，较同期多 10 款；狭义插混车型 31 款，较同期少 6 款；纯电动车型…",
+        "url": "https://www.ithome.com/1/023/878.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Sun, 08 Nov 2026 03:54:12 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "marketing",
+          "startup"
+        ]
+      },
+      {
+        "id": "ithome-4-1794113098221",
+        "title": "微软 WinUI 3 原生注册表编辑器首次曝光，界面告别 Win95 时代设计",
+        "summary": "IT之家 11 月 8 日消息，科技媒体 Windows Latest 今日发文，报道称微软开源项目仓库 Microsoft.UI.Reactor 中出现一款原生 WinUI 3 注册表编辑器。该媒体编译后发现，这款注册表编辑器确实能使用，界面告别了 Win95 时代设计，看起来…",
+        "url": "https://www.ithome.com/1/023/877.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Sun, 08 Nov 2026 03:40:33 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": []
+      },
+      {
+        "id": "ifanr-1-1794113098028",
+        "title": "被年轻人遗忘的磁带，正在 AI 时代闷声发大财 原",
+        "summary": "磁带在 AI 时代迎来了第二春。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "url": "https://www.ifanr.com/1688364?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "source": "爱范儿",
+        "sourceId": "ifanr",
+        "publishedAt": "Sun, 08 Nov 2026 03:35:42 +0000",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": []
+      },
+      {
+        "id": "ithome-5-1794113098221",
+        "title": "特斯拉更新 AI 加速器路线图：SI6 算力达 HW4 的 80 倍，Dojo D3 将面向太空部署",
+        "summary": "IT之家 11 月 8 日消息，特斯拉公布了更新后的 AI 加速器路线图，进一步揭示了公司未来几年的芯片研发方向。根据这份路线图，特斯拉第六代推理加速器的算力预计将达到现有第四代芯片的 80 倍；而用于训练任务的 Dojo D3 将放弃以 SRAM 为核心的架构，转向采用多芯粒设…",
+        "url": "https://www.ithome.com/1/023/876.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Sun, 08 Nov 2026 03:31:15 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "aiNews"
+        ]
+      },
+      {
+        "id": "ithome-6-1794113098221",
+        "title": "启境 GX7 累计交付量突破 4000 台，搭载华为乾崑智驾 ADS 5 与鸿蒙座舱 6",
+        "summary": "IT之家 11 月 8 日消息，今日，启境 GX7 集体交付活动在深圳盐田云海广场举行，上市至今累计交付已突破 4000 台。 IT之家注意到，启境 GX7 于 9 月 23 日上市，共 3 款车型，官方指导价 23.99 万至 30.19 万元，限时权益价 22.99 万至 2…",
+        "url": "https://www.ithome.com/1/023/875.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Sun, 08 Nov 2026 03:31:13 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "industryInvest",
+          "top500",
+          "marketing"
+        ]
+      },
+      {
+        "id": "sspai-0-1794113098627",
+        "title": "苹果产品那些不够颠覆，却值得被学习的细节",
+        "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
+        "url": "https://sspai.com/post/118114",
+        "source": "少数派",
+        "sourceId": "sspai",
+        "publishedAt": "Sun, 08 Nov 2026 11:18:54 +0800",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": []
+      },
+      {
+        "id": "ithome-7-1794113098221",
+        "title": "预计 2026 年我国能源投资总额达 9400 亿美元，居全球第一",
+        "summary": "IT之家 11 月 8 日消息，据央视财经报道，7 日，中国企业改革与发展研究会发布了《全球能源转型报告（2026）》，数据显示，我国已构建起全球最大、发展最快的可再生能源体系。 中国企业改革与发展研究会会长彭华岗介绍，今年上半年，中国煤电发电量占比降至 49.7%， 首次低于 …",
+        "url": "https://www.ithome.com/1/023/874.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Sun, 08 Nov 2026 03:15:04 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-8-1794113098221",
+        "title": "消息称《GTA 6》游戏将有 55 个奖杯 / 成就，超越《GTA5》《荒野大镖客：救赎 2》首发时期",
+        "summary": "IT之家 11 月 8 日消息，消息人士 TexFunz2 最近透露， 《GTA 6》游戏将提供 55 个 PlayStation 奖杯 / XBOX 成就 ，供玩家挑战。 为避免剧透，目前的泄露信息并未公开这些奖杯的具体名称。作为对比，Xbox 360 版《GTA5》上市时拥有…",
+        "url": "https://www.ithome.com/1/023/873.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Sun, 08 Nov 2026 03:12:54 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "industryInvest",
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-9-1794113098221",
+        "title": "神舟二十三乘组日常 Vlog“上新”：在轨开展脑电测试研究、触觉感知实验",
+        "summary": "IT之家 11 月 8 日消息，中国载人航天工程办公室今日发布新一期日常 Vlog，神舟二十三乘组各项实（试）验持续开展。 IT之家从视频获悉，上周，在轨 脑电测试 研究相关实验顺利开展。三名航天员利用脑电采集设备开展脑网络组图谱驱动的航天脑监测、视觉运动加工等多项实验测试。 他…",
+        "url": "https://www.ithome.com/1/023/872.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Sun, 08 Nov 2026 02:59:04 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-10-1794113098221",
+        "title": "Fotorgear Campix 相机现身众筹：一次只能拍 36 张照片的数码相机",
+        "summary": "IT之家 11 月 8 日消息，据摄影媒体 Photo Rumors 前天报道，一款名为 Fotorgear Campix 的相机最近显示 Kickstarter 众筹，号称能够在数码相机时代还原胶片的拍摄体验。 据介绍，这款相机重量 192g，搭载 1/3.06 英寸的索尼 I…",
+        "url": "https://www.ithome.com/1/023/871.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Sun, 08 Nov 2026 02:53:18 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": []
+      },
+      {
+        "id": "ithome-11-1794113098221",
+        "title": "台积电否认应英伟达要求研发 3D DRAM：公司始终专注于集成电路代工这个核心业务",
+        "summary": "IT之家 11 月 8 日消息，据 The Information 近日报道，随着人工智能硬件需求激增，全球 DRAM 内存供应持续紧张、价格不断上涨，台积电正在应英伟达要求，研究开发 3D DRAM 内存的可能性。如果这一计划最终落地，台积电将有望开辟一项新业务，但也需要面对内…",
+        "url": "https://www.ithome.com/1/023/870.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Sun, 08 Nov 2026 02:48:50 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "aiNews"
+        ]
+      },
+      {
+        "id": "geekpark-0-1794113101058",
+        "title": "创业者做 Personal Agent，有没有一线生机？",
+        "summary": "最近一阶段，Personal Agent 很热。有趣的是，这个概念迅速火爆又迅速有了一个共识，几波讨论下来大家的观点似乎是： Personal Agent 的机会是大厂的，创业者基本没戏。 虽然一般情况下，「入口级机会归大厂」确实是大概率发生的事情，但 Personal Agen…",
+        "url": "http://www.geekpark.net/news/373650",
+        "source": "极客公园",
+        "sourceId": "geekpark",
+        "publishedAt": "Sun, 08 Nov 2026 10:40:20 +0800",
+        "prefer": [
+          "aiNews"
+        ],
+        "tags": [
+          "aiNews",
+          "startup"
+        ]
+      },
+      {
+        "id": "ithome-12-1794113098221",
+        "title": "OPPO 认证新款 120W 三口充电器，1A2C 接口设计",
+        "summary": "IT之家 11 月 8 日消息，OPPO 新款 120W 三口充电器于 11 月 5 日通过工信部 3C 认证，预计将于近期上市。 从官方公布规格看，该产品采用 1A2C 三口设计 ，并且三个接口都是 120W，双口输出则是 80W+67W，三口输出为 45W+45W+33W。 …",
+        "url": "https://www.ithome.com/1/023/868.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Sun, 08 Nov 2026 02:37:43 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "industryInvest",
+          "top500",
+          "marketing"
+        ]
+      },
+      {
+        "id": "tmtpost-0-1794113099929",
+        "title": "中国白酒出口韩国暴涨85%，谁在买？",
+        "summary": "为什么韩国人会兑着喝？",
+        "url": "https://www.tmtpost.com/8197334.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Sun, 08 Nov 2026 10:28:00 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": []
+      },
+      {
+        "id": "ithome-13-1794113098221",
+        "title": "蛮啾《蓝色星原：旅谣》游戏本月 26 日开启公测，全球预约玩家已达 2500 万",
+        "summary": "IT之家 11 月 8 日消息， 蛮啾《蓝色星原：旅谣》游戏将于 11 月 26 日正式开启公测 ，预计登陆 PC、鸿蒙、安卓、iOS 和 PS5 等平台。目前本作的全球预约玩家已经达到 2500 万。 IT之家了解到，官方将为本作准备预约礼品，最高可得 20 抽及角色「艾妮丝」…",
+        "url": "https://www.ithome.com/1/023/867.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Sun, 08 Nov 2026 02:23:11 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": []
+      },
+      {
+        "id": "tmtpost-1-1794113099929",
+        "title": "年产250亿双的“国际袜都”：袜子、面子和里子",
+        "summary": "全国一动，诸暨先动；全国不动，诸暨也蠢蠢欲动。",
+        "url": "https://www.tmtpost.com/8197376.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Sun, 08 Nov 2026 10:23:00 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": []
+      }
+    ],
+    "industryInvest": [
+      {
+        "id": "ithome-6-1794113098221",
+        "title": "启境 GX7 累计交付量突破 4000 台，搭载华为乾崑智驾 ADS 5 与鸿蒙座舱 6",
+        "summary": "IT之家 11 月 8 日消息，今日，启境 GX7 集体交付活动在深圳盐田云海广场举行，上市至今累计交付已突破 4000 台。 IT之家注意到，启境 GX7 于 9 月 23 日上市，共 3 款车型，官方指导价 23.99 万至 30.19 万元，限时权益价 22.99 万至 2…",
+        "url": "https://www.ithome.com/1/023/875.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Sun, 08 Nov 2026 03:31:13 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "industryInvest",
+          "top500",
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-8-1794113098221",
+        "title": "消息称《GTA 6》游戏将有 55 个奖杯 / 成就，超越《GTA5》《荒野大镖客：救赎 2》首发时期",
+        "summary": "IT之家 11 月 8 日消息，消息人士 TexFunz2 最近透露， 《GTA 6》游戏将提供 55 个 PlayStation 奖杯 / XBOX 成就 ，供玩家挑战。 为避免剧透，目前的泄露信息并未公开这些奖杯的具体名称。作为对比，Xbox 360 版《GTA5》上市时拥有…",
+        "url": "https://www.ithome.com/1/023/873.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Sun, 08 Nov 2026 03:12:54 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "industryInvest",
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-12-1794113098221",
+        "title": "OPPO 认证新款 120W 三口充电器，1A2C 接口设计",
+        "summary": "IT之家 11 月 8 日消息，OPPO 新款 120W 三口充电器于 11 月 5 日通过工信部 3C 认证，预计将于近期上市。 从官方公布规格看，该产品采用 1A2C 三口设计 ，并且三个接口都是 120W，双口输出则是 80W+67W，三口输出为 45W+45W+33W。 …",
+        "url": "https://www.ithome.com/1/023/868.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Sun, 08 Nov 2026 02:37:43 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "industryInvest",
+          "top500",
+          "marketing"
+        ]
+      },
+      {
+        "id": "tmtpost-0-1794113099929",
+        "title": "中国白酒出口韩国暴涨85%，谁在买？",
+        "summary": "为什么韩国人会兑着喝？",
+        "url": "https://www.tmtpost.com/8197334.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Sun, 08 Nov 2026 10:28:00 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": []
+      },
+      {
+        "id": "tmtpost-1-1794113099929",
+        "title": "年产250亿双的“国际袜都”：袜子、面子和里子",
+        "summary": "全国一动，诸暨先动；全国不动，诸暨也蠢蠢欲动。",
+        "url": "https://www.tmtpost.com/8197376.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Sun, 08 Nov 2026 10:23:00 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": []
+      },
+      {
+        "id": "tmtpost-2-1794113099929",
+        "title": "实控人离婚给超8亿“分手费”，智能装备龙头三季报增收不增利",
+        "summary": "“分手费”8.69亿元，A股又现“天价离婚”。",
+        "url": "https://www.tmtpost.com/8197382.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Sun, 08 Nov 2026 10:20:08 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": []
+      },
+      {
+        "id": "tmtpost-3-1794113099929",
+        "title": "AI泡沫监测·之二：第三个定价器上牌桌",
+        "summary": "四张考卷对账：没有一家说放缓，但融资结构先说了话。11月5日纳指暴跌5.52%，导火索是选票——监管不从华盛顿下来，从县政府上来。股票按故事定价，债券按到期日定价，选票按任期定价。台账登记，读数留给下期。",
+        "url": "https://www.tmtpost.com/8197365.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Sun, 08 Nov 2026 10:19:55 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": [
+          "industryInvest"
+        ]
+      },
+      {
+        "id": "tmtpost-4-1794113099929",
+        "title": "2026年，黄金为什么没当好避险资产？",
+        "summary": "黄金很难对冲一场战争的直接冲击。它更擅长对冲的，是战争结束以后，各国为它印出来的那些钱。",
+        "url": "https://www.tmtpost.com/8197401.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Sun, 08 Nov 2026 10:19:44 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": []
+      },
+      {
+        "id": "tmtpost-5-1794113099929",
+        "title": "宇树跟红杉都不想自己“努力”了？",
+        "summary": "AI时代，VC越来越依赖产业方？",
+        "url": "https://www.tmtpost.com/8197415.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Sun, 08 Nov 2026 10:17:16 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": []
+      },
+      {
+        "id": "tmtpost-6-1794113099929",
+        "title": "硫磺大行情，正在掀起化工行业的“成本风暴”",
+        "summary": "行业正在告别单一货源依赖。",
+        "url": "https://www.tmtpost.com/8197413.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Sun, 08 Nov 2026 10:17:12 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": []
+      },
+      {
+        "id": "tmtpost-7-1794113099929",
+        "title": "苹果史上最好财报，却被内存拖住了后腿",
+        "summary": "如果连苹果都开始为内存成本发愁，你的下一部手机，还能期待它降价吗？",
+        "url": "https://www.tmtpost.com/8197412.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Sun, 08 Nov 2026 10:10:27 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": []
+      },
+      {
+        "id": "tmtpost-8-1794113099929",
+        "title": "对话《持械入宋》主创 ：非科班，无投流，草根团队如何做出120亿品质爆款？",
+        "summary": "11月6日，文娱价值官采访到《持械入宋》的三位核心主创人员，他们的团队也叫“老十一”。我们和“老十一”聊了聊当下网上盛传的信息，也深入挖掘了他们真实的创作过程。",
+        "url": "https://www.tmtpost.com/8197408.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Sun, 08 Nov 2026 10:10:22 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": [
+          "marketing"
+        ]
+      },
+      {
+        "id": "tmtpost-9-1794113099929",
+        "title": "在芬兰卖二手衣服，已经成了一门大生意",
+        "summary": "芬兰人买旧衣服，环保不是首要因素。",
+        "url": "https://www.tmtpost.com/8197335.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Sun, 08 Nov 2026 10:06:16 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": []
+      },
+      {
+        "id": "ithome-18-1794113098221",
+        "title": "陶琳：特斯拉上海超级工厂零部件本土化率达 98%",
+        "summary": "IT之家 11 月 8 日消息，第九届进博会于 11 月 5 日至 10 日在上海举办。特斯拉以“富足非凡的世界，今日可见”为主题，携特斯拉 Cybercab 无人驾驶电动车、人形机器人、新近上市的 Model Y 高性能版及全球销冠 Model Y 等展品亮相。 据澎湃新闻报道…",
+        "url": "https://www.ithome.com/1/023/861.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Sun, 08 Nov 2026 01:29:56 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "industryInvest",
+          "marketing"
+        ]
+      },
+      {
+        "id": "tmtpost-10-1794113099929",
+        "title": "Edge AI Daily 早报（11月8日）",
+        "summary": "AI资本重定价：OpenAI首笔融资110亿美元、估值1.25万亿美元但目标缩减，Anthropic IPO估值下修；科技股抛售、微软停租甲骨文旧芯片、欧央行审查数据中心贷款，Meta发债250亿美元。Meta免费下放Muse主动记忆，谷歌PPG高血压筛查登《自然》，特斯拉拟租赁…",
+        "url": "https://www.tmtpost.com/8197405.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Sun, 08 Nov 2026 08:58:37 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": [
+          "aiNews",
+          "industryInvest"
+        ]
+      },
+      {
+        "id": "geekpark-1-1794113101058",
+        "title": "收购 EA 后，银湖资本与沙特基金 250 亿美元报价 Unity；超10万款应用已适配iPhone Duo；美国再发生 NVIDIA AI 设备失窃案",
+        "summary": "收购 EA 之后，银湖资本与沙特公共投资基金据报出价 250 亿美元收购 Unity 据路透社援引未具名知情人士的消息报道，由美国私募股权公司银湖资本（Silver Lake Partners）与沙特阿拉伯主权财富基金&mdash;&mdash;公共投资基金（PIF）组成的投资者…",
+        "url": "http://www.geekpark.net/news/373649",
+        "source": "极客公园",
+        "sourceId": "geekpark",
+        "publishedAt": "Sun, 08 Nov 2026 08:57:46 +0800",
+        "prefer": [
+          "aiNews"
+        ],
+        "tags": [
+          "aiNews",
+          "industryInvest"
+        ]
+      },
+      {
+        "id": "ithome-24-1794113098221",
+        "title": "消息称 Anthropic 仍在推进上市：最多募资 1000 亿美元，“史上最大 IPO”或有变数",
+        "summary": "IT之家 11 月 8 日消息，据《金融时报》昨天报道，尽管美国科技股近期遭遇剧烈波动，Anthropic 仍在推进上市计划。这家来自美国的人工智能初创企业，已经做好接受低于乐观预期估值的准备。 据多位 Anthropic 投资者透露，这家美国公司仍计划在感恩节前进行 IPO（首…",
+        "url": "https://www.ithome.com/1/023/854.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Sun, 08 Nov 2026 00:44:04 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "aiNews",
+          "industryInvest",
+          "marketing"
+        ]
+      },
+      {
+        "id": "tmtpost-11-1794113099929",
+        "title": "当我们终于开始认真谈论友情",
+        "summary": "友情是一种如此普遍，却又长期缺少严肃审视的亲密关系。相比亲情和爱情，它没有明确的契约与规则，也因此拥有更多开放、复杂甚至矛盾的面向；它亦没有约定俗成的社会角色要求，因此可以回归相对纯粹的个体与个体的关系，去探讨一个人与自我和外部世界的关系。",
+        "url": "https://www.tmtpost.com/8197164.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Sat, 07 Nov 2026 17:33:12 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": []
+      },
+      {
+        "id": "tmtpost-12-1794113099929",
+        "title": "存储风暴压顶，小众手机「在劫难逃」",
+        "summary": "成长、高光、转折、衰落…",
+        "url": "https://www.tmtpost.com/8197119.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Sat, 07 Nov 2026 17:33:10 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": []
+      },
+      {
+        "id": "tmtpost-13-1794113099929",
+        "title": "当芯片抢着上太空，半导体下一轮增量有了？",
+        "summary": "巨头争建太空机房，算力竞赛再度提速。",
+        "url": "https://www.tmtpost.com/8197078.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Sat, 07 Nov 2026 17:33:06 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": [
+          "aiNews"
+        ]
+      }
+    ],
+    "top500": [
+      {
+        "id": "ithome-6-1794113098221",
+        "title": "启境 GX7 累计交付量突破 4000 台，搭载华为乾崑智驾 ADS 5 与鸿蒙座舱 6",
+        "summary": "IT之家 11 月 8 日消息，今日，启境 GX7 集体交付活动在深圳盐田云海广场举行，上市至今累计交付已突破 4000 台。 IT之家注意到，启境 GX7 于 9 月 23 日上市，共 3 款车型，官方指导价 23.99 万至 30.19 万元，限时权益价 22.99 万至 2…",
+        "url": "https://www.ithome.com/1/023/875.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Sun, 08 Nov 2026 03:31:13 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "industryInvest",
+          "top500",
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-12-1794113098221",
+        "title": "OPPO 认证新款 120W 三口充电器，1A2C 接口设计",
+        "summary": "IT之家 11 月 8 日消息，OPPO 新款 120W 三口充电器于 11 月 5 日通过工信部 3C 认证，预计将于近期上市。 从官方公布规格看，该产品采用 1A2C 三口设计 ，并且三个接口都是 120W，双口输出则是 80W+67W，三口输出为 45W+45W+33W。 …",
+        "url": "https://www.ithome.com/1/023/868.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Sun, 08 Nov 2026 02:37:43 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "industryInvest",
+          "top500",
+          "marketing"
+        ]
+      },
+      {
+        "id": "ifanr-2-1794113098028",
+        "title": "最贵比亚迪来了！仰望鼎曜亮相中东，「山河鼎韵」限量版定金 30 万元",
+        "summary": "性能和豪华，仰望说它全都要。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "url": "https://www.ifanr.com/1688312?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "source": "爱范儿",
+        "sourceId": "ifanr",
+        "publishedAt": "Sat, 07 Nov 2026 16:50:33 +0000",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "top500"
+        ]
+      },
+      {
+        "id": "geekpark-2-1794113101058",
+        "title": "「全球最速」之后，比亚迪仰望推出了一台「全球最豪」的新车",
+        "summary": "中东，阿联酋阿布扎比酋长皇宫酒店草坪上，比亚迪正式曝光了仰望旗下一款超豪华新车「鼎曜」YANGWANG ALTIOR。 Altior源自拉丁语，意思是「更高」。这也是仰望品牌诞生以来，第一次脱离U7、U8、U9的字母数字序列，单独起了一个名字。 仰望鼎曜 Altior 正式亮相|…",
+        "url": "http://www.geekpark.net/news/373647",
+        "source": "极客公园",
+        "sourceId": "geekpark",
+        "publishedAt": "Sat, 07 Nov 2026 23:37:50 +0800",
+        "prefer": [
+          "aiNews"
+        ],
+        "tags": [
+          "top500",
+          "marketing"
+        ]
+      },
+      {
+        "id": "geekpark-4-1794113101058",
+        "title": "办公提效之后，企业级 Agent 开始对经营结果负责",
+        "summary": "头图来源：腾讯云 过去一年，智能体是 AI 行业最受关注的方向之一。 从查资料、写文档到处理日常办公事务，桌面办公智能体完成了第一轮普及，办公提效的价值已经成为行业共识。但当 AI 进一步走向企业核心业务，搭出一个智能体不难，难的是让它真正跑进业务流程，适配复杂的系统、权限与规则…",
+        "url": "http://www.geekpark.net/news/373642",
+        "source": "极客公园",
+        "sourceId": "geekpark",
+        "publishedAt": "Sat, 07 Nov 2026 11:31:37 +0800",
+        "prefer": [
+          "aiNews"
+        ],
+        "tags": [
+          "aiNews",
+          "industryInvest",
+          "top500"
+        ]
+      },
+      {
+        "id": "geekpark-5-1794113101058",
+        "title": "马斯克官宣 Cybertruck 停产：销量不足预期一成；李飞飞团队推出世界模型「模拟掌机」；小米汽车成立国际事业部｜极客早知道",
+        "summary": "电动皮卡中道崩殂！马斯克宣布 Cybertruck 明年逐步停产：销量仅达预期一成 11 月 6 日消息，特斯拉 CEO 马斯克在社交平台 X 发文表示，公司将于明年年中前后，逐步收尾得州超级工厂的 Cybertruck 电动皮卡生产，为 Cybercab 车型扩产腾出产能空间。…",
+        "url": "http://www.geekpark.net/news/373639",
+        "source": "极客公园",
+        "sourceId": "geekpark",
+        "publishedAt": "Sat, 07 Nov 2026 08:48:25 +0800",
+        "prefer": [
+          "aiNews"
+        ],
+        "tags": [
+          "top500",
+          "marketing"
+        ]
+      },
+      {
+        "id": "ifanr-4-1794113098028",
+        "title": "503.17km/h！比亚迪仰望 U9X 再次刷新全球最速，量产车首次突破 5 字头",
+        "summary": "站在世界之巅。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "url": "https://www.ifanr.com/1688195?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "source": "爱范儿",
+        "sourceId": "ifanr",
+        "publishedAt": "Fri, 06 Nov 2026 09:25:33 +0000",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "top500"
+        ]
+      },
+      {
+        "id": "qbitai-7-1794113098282",
+        "title": "阿里巴巴发布《2026 AI向善行动报告》 AI数据中心可持续发展成年度亮点",
+        "summary": "11月5日，阿里巴巴发布《2026 AI向善行动报告》",
+        "url": "https://www.qbitai.com/2026/11/508165.html",
+        "source": "量子位",
+        "sourceId": "qbitai",
+        "publishedAt": "Fri, 06 Nov 2026 09:19:00 +0000",
+        "prefer": [
+          "aiNews"
+        ],
+        "tags": [
+          "top500",
+          "marketing"
+        ]
+      },
+      {
+        "id": "ifanr-6-1794113098028",
+        "title": "早报｜首款触屏MacBook Pro开卖/2027年放假安排公布，调休减少/GPT-6 Cyber发布，复现1724项漏洞",
+        "summary": "· 丰田将设立直属机器人部门，由首席生产官兼任负责人 · 三季度全球 DRAM 营收逼近 2000 亿美元，价格上涨是主因 · 鸿蒙电脑累计发货破百万，华为带来政企台式机与企业版 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "url": "https://www.ifanr.com/1688032?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "source": "爱范儿",
+        "sourceId": "ifanr",
+        "publishedAt": "Fri, 06 Nov 2026 00:15:15 +0000",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "aiNews",
+          "top500",
+          "marketing"
+        ]
+      },
+      {
+        "id": "ifanr-7-1794113098028",
+        "title": "13 万买 5 米大轿车！比亚迪海豹 07 上市，首搭云辇-M 磁流变悬架",
+        "summary": "大，只是它的起点。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "url": "https://www.ifanr.com/1688332?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "source": "爱范儿",
+        "sourceId": "ifanr",
+        "publishedAt": "Thu, 05 Nov 2026 15:50:25 +0000",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "industryInvest",
+          "top500",
+          "marketing"
+        ]
+      },
+      {
+        "id": "geekpark-12-1794113101058",
+        "title": "Apple 智能国行上线，苹果大涨超 6% 重返美股市值第一；英伟达显卡订单排长队，中国客户预计只能拿到 1%；字节限制员工使用个人 AI｜极客早知道",
+        "summary": "Apple 智能国行上线，苹果大涨超 6% 重返美股市值第一 11 月 4 日，Apple 智能伴随 iOS 27.3 的 Developer Beta 向中国大陆用户开放测试，并计划于 12 月随 iOS 27.3 正式版推出。与此同时，苹果也确认与阿里巴巴达成合作，将千问接入…",
+        "url": "http://www.geekpark.net/news/373494",
+        "source": "极客公园",
+        "sourceId": "geekpark",
+        "publishedAt": "Thu, 05 Nov 2026 08:45:25 +0800",
+        "prefer": [
+          "aiNews"
+        ],
+        "tags": [
+          "aiNews",
+          "top500",
+          "marketing"
+        ]
+      },
+      {
+        "id": "ifanr-16-1794113098028",
+        "title": "早报｜苹果收紧员工Token预算/手机越卖越贵，全球手机出货量降19%/雷军：小米机器人在工厂「实习」8小时",
+        "summary": "· 彭博调查：69% 中国受访者至少等到明年才换手机 · ChatGPT 新增 GIF 生成，可调播放速度、逐帧修改 · 近七成汽车经销商试用 AI，部分已设智能体专员 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "url": "https://www.ifanr.com/1687750?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "source": "爱范儿",
+        "sourceId": "ifanr",
+        "publishedAt": "Thu, 05 Nov 2026 00:15:59 +0000",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "aiNews",
+          "top500"
+        ]
+      },
+      {
+        "id": "geekpark-21-1794113101058",
+        "title": "苹果官宣 Apple 智能接入阿里千问；DeepSeek 完成第二轮 1055 亿元融资，估值达 6155 亿元；英特尔股价开盘跌超 30%｜极客早知道",
+        "summary": "国行 Apple 智能确定上线时间：11 月开放测试，千问接入 Siri 10 月 31 日，苹果宣布，国行 Apple 智能首批功能将于 11 月 4 日随 iOS 开发者 Beta 版开放测试，12 月随 iOS 27.3 正式面向用户推出。首批功能包括实时翻译、写作工具、照…",
+        "url": "http://www.geekpark.net/news/373220",
+        "source": "极客公园",
+        "sourceId": "geekpark",
+        "publishedAt": "Sat, 31 Oct 2026 08:03:20 +0800",
+        "prefer": [
+          "aiNews"
+        ],
+        "tags": [
+          "aiNews",
+          "industryInvest",
+          "top500",
+          "marketing"
+        ]
+      },
+      {
+        "id": "geekpark-24-1794113101058",
+        "title": "Google 母集团市值蒸发 5000 亿美元创纪录；苹果高管回应新 iPad mini 60Hz 刷新率；因电池问题，理想 MEGA 退一赔一｜极客早知道",
+        "summary": "谷歌市值创纪录蒸发 5000 亿美元 AI 侵蚀营收 Alphabet Inc 股价一度下跌逾 13%，市值蒸发逾 5000 亿美元，单日市值缩水规模创公司纪录。此前公司公布的搜索和广告业务营收令人失望，加剧了投资者对人工智能（AI）威胁其核心业务的担忧。 这家谷歌母公司公布，第…",
+        "url": "http://www.geekpark.net/news/373154",
+        "source": "极客公园",
+        "sourceId": "geekpark",
+        "publishedAt": "Fri, 30 Oct 2026 08:15:04 +0800",
+        "prefer": [
+          "aiNews"
+        ],
+        "tags": [
+          "aiNews",
+          "top500",
+          "marketing"
+        ]
+      },
+      {
+        "id": "sina_tech-10-1794113100213",
+        "title": "赚了10亿美金，陌陌却不是阿里投资的成功案例？",
+        "summary": "原标题：赚了10亿美金，陌陌却不是阿里的成功案例？| 前操盘手回忆（五） 虎嗅注：本文是《阿里投资：一个昔日操盘者的回忆和思考》的第五篇。在前面的章节里，张鸿平讲述了阿里投天宇朗通、投陌陌、投快的的故事。一个急需解答的问题或许是，作为产业资本，到底该如何衡....",
+        "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ihkmwytn6656954.shtml",
+        "source": "新浪科技",
+        "sourceId": "sina_tech",
+        "publishedAt": "Sun, 23 Sep 2018 04:38:57 GMT",
+        "prefer": [
+          "aiNews",
+          "industryInvest"
+        ],
+        "tags": [
+          "industryInvest",
+          "top500"
+        ]
+      }
+    ],
+    "newProducts": [
+      {
+        "id": "ithome-3-1794113098221",
+        "title": "乘联分会崔东树：1-10 月新车 129 款，增程车型 42 款翻倍增长",
+        "summary": "IT之家 11 月 8 日消息，乘联分会秘书长崔东树发表乘用车新车的分级测算探讨，其中提到，今年 1-10 月的新品共 129 款， 其中增程车型 42 款，较去年同期多 26 款 ；混合动力车型 10 款，较同期多 10 款；狭义插混车型 31 款，较同期少 6 款；纯电动车型…",
+        "url": "https://www.ithome.com/1/023/878.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Sun, 08 Nov 2026 03:54:12 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "marketing",
+          "startup"
+        ]
+      },
+      {
+        "id": "ithome-6-1794113098221",
+        "title": "启境 GX7 累计交付量突破 4000 台，搭载华为乾崑智驾 ADS 5 与鸿蒙座舱 6",
+        "summary": "IT之家 11 月 8 日消息，今日，启境 GX7 集体交付活动在深圳盐田云海广场举行，上市至今累计交付已突破 4000 台。 IT之家注意到，启境 GX7 于 9 月 23 日上市，共 3 款车型，官方指导价 23.99 万至 30.19 万元，限时权益价 22.99 万至 2…",
+        "url": "https://www.ithome.com/1/023/875.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Sun, 08 Nov 2026 03:31:13 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "industryInvest",
+          "top500",
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-7-1794113098221",
+        "title": "预计 2026 年我国能源投资总额达 9400 亿美元，居全球第一",
+        "summary": "IT之家 11 月 8 日消息，据央视财经报道，7 日，中国企业改革与发展研究会发布了《全球能源转型报告（2026）》，数据显示，我国已构建起全球最大、发展最快的可再生能源体系。 中国企业改革与发展研究会会长彭华岗介绍，今年上半年，中国煤电发电量占比降至 49.7%， 首次低于 …",
+        "url": "https://www.ithome.com/1/023/874.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Sun, 08 Nov 2026 03:15:04 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-8-1794113098221",
+        "title": "消息称《GTA 6》游戏将有 55 个奖杯 / 成就，超越《GTA5》《荒野大镖客：救赎 2》首发时期",
+        "summary": "IT之家 11 月 8 日消息，消息人士 TexFunz2 最近透露， 《GTA 6》游戏将提供 55 个 PlayStation 奖杯 / XBOX 成就 ，供玩家挑战。 为避免剧透，目前的泄露信息并未公开这些奖杯的具体名称。作为对比，Xbox 360 版《GTA5》上市时拥有…",
+        "url": "https://www.ithome.com/1/023/873.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Sun, 08 Nov 2026 03:12:54 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "industryInvest",
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-9-1794113098221",
+        "title": "神舟二十三乘组日常 Vlog“上新”：在轨开展脑电测试研究、触觉感知实验",
+        "summary": "IT之家 11 月 8 日消息，中国载人航天工程办公室今日发布新一期日常 Vlog，神舟二十三乘组各项实（试）验持续开展。 IT之家从视频获悉，上周，在轨 脑电测试 研究相关实验顺利开展。三名航天员利用脑电采集设备开展脑网络组图谱驱动的航天脑监测、视觉运动加工等多项实验测试。 他…",
+        "url": "https://www.ithome.com/1/023/872.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Sun, 08 Nov 2026 02:59:04 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-12-1794113098221",
+        "title": "OPPO 认证新款 120W 三口充电器，1A2C 接口设计",
+        "summary": "IT之家 11 月 8 日消息，OPPO 新款 120W 三口充电器于 11 月 5 日通过工信部 3C 认证，预计将于近期上市。 从官方公布规格看，该产品采用 1A2C 三口设计 ，并且三个接口都是 120W，双口输出则是 80W+67W，三口输出为 45W+45W+33W。 …",
+        "url": "https://www.ithome.com/1/023/868.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Sun, 08 Nov 2026 02:37:43 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "industryInvest",
+          "top500",
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-18-1794113098221",
+        "title": "陶琳：特斯拉上海超级工厂零部件本土化率达 98%",
+        "summary": "IT之家 11 月 8 日消息，第九届进博会于 11 月 5 日至 10 日在上海举办。特斯拉以“富足非凡的世界，今日可见”为主题，携特斯拉 Cybercab 无人驾驶电动车、人形机器人、新近上市的 Model Y 高性能版及全球销冠 Model Y 等展品亮相。 据澎湃新闻报道…",
+        "url": "https://www.ithome.com/1/023/861.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Sun, 08 Nov 2026 01:29:56 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "industryInvest",
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-19-1794113098221",
+        "title": "索尼首发“车载乘客眩晕检测”新技术，可提示驾驶员减少急刹、急转",
+        "summary": "IT之家 11 月 8 日消息，2026 年 11 月 5 日，索尼（中国）有限公司（下称“索尼”）在第九届中国国际进口博览会上，全球首发“融合双路视觉信息的车载乘客眩晕检测”技术，聚焦乘车观看视频时的眩晕问题。 据介绍，从驾驶员到乘客，索尼对移动出行的探索也延伸至车内娱乐的实际…",
+        "url": "https://www.ithome.com/1/023/860.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Sun, 08 Nov 2026 01:29:56 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-24-1794113098221",
+        "title": "消息称 Anthropic 仍在推进上市：最多募资 1000 亿美元，“史上最大 IPO”或有变数",
+        "summary": "IT之家 11 月 8 日消息，据《金融时报》昨天报道，尽管美国科技股近期遭遇剧烈波动，Anthropic 仍在推进上市计划。这家来自美国的人工智能初创企业，已经做好接受低于乐观预期估值的准备。 据多位 Anthropic 投资者透露，这家美国公司仍计划在感恩节前进行 IPO（首…",
+        "url": "https://www.ithome.com/1/023/854.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Sun, 08 Nov 2026 00:44:04 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "aiNews",
+          "industryInvest",
+          "marketing"
+        ]
+      },
+      {
+        "id": "geekpark-5-1794113101058",
+        "title": "马斯克官宣 Cybertruck 停产：销量不足预期一成；李飞飞团队推出世界模型「模拟掌机」；小米汽车成立国际事业部｜极客早知道",
+        "summary": "电动皮卡中道崩殂！马斯克宣布 Cybertruck 明年逐步停产：销量仅达预期一成 11 月 6 日消息，特斯拉 CEO 马斯克在社交平台 X 发文表示，公司将于明年年中前后，逐步收尾得州超级工厂的 Cybertruck 电动皮卡生产，为 Cybercab 车型扩产腾出产能空间。…",
+        "url": "http://www.geekpark.net/news/373639",
+        "source": "极客公园",
+        "sourceId": "geekpark",
+        "publishedAt": "Sat, 07 Nov 2026 08:48:25 +0800",
+        "prefer": [
+          "aiNews"
+        ],
+        "tags": [
+          "top500",
+          "marketing"
+        ]
+      },
+      {
+        "id": "geekpark-6-1794113101058",
+        "title": "估值 400 亿美元，美国公司，终于做出了中国开源模型的竞对",
+        "summary": "作者｜Wildcard 编辑｜靖宇 11 月 5 日，OpenAI 前 CTO Mira Murati 创立的 Thinking Machines Lab（简称 TML）同一天出了两条新闻。 当天，公司发布了第二代模型 Inkling 2 Small，第三方评测机构 Artifi…",
+        "url": "http://www.geekpark.net/news/373637",
+        "source": "极客公园",
+        "sourceId": "geekpark",
+        "publishedAt": "Fri, 06 Nov 2026 20:13:06 +0800",
+        "prefer": [
+          "aiNews"
+        ],
+        "tags": [
+          "aiNews",
+          "industryInvest",
+          "marketing"
+        ]
+      },
+      {
+        "id": "geekpark-7-1794113101058",
+        "title": "AI 时代没有标准答案的问题，我们面对面聊",
+        "summary": "我们刚刚官宣了极客公园创新大会 2027 的首批嘉宾。 今天，再来揭晓「小场深谈」的最新进展。 10 月底，我们在「小场深谈」的预热文章里做了一次调研，请大家投票选出最想聊的话题。最终，我们选定了最受关注的五组主题，设下了五场专场，每一场都从大家最想聊的那个问题开始。 这五场专场…",
+        "url": "http://www.geekpark.net/news/373636",
+        "source": "极客公园",
+        "sourceId": "geekpark",
+        "publishedAt": "Fri, 06 Nov 2026 20:09:13 +0800",
+        "prefer": [
+          "aiNews"
+        ],
+        "tags": [
+          "marketing"
+        ]
+      }
+    ],
+    "influencerVideos": [
+      {
+        "id": "tmtpost-8-1794113099929",
+        "title": "对话《持械入宋》主创 ：非科班，无投流，草根团队如何做出120亿品质爆款？",
+        "summary": "11月6日，文娱价值官采访到《持械入宋》的三位核心主创人员，他们的团队也叫“老十一”。我们和“老十一”聊了聊当下网上盛传的信息，也深入挖掘了他们真实的创作过程。",
+        "url": "https://www.tmtpost.com/8197408.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Sun, 08 Nov 2026 10:10:22 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": [
+          "marketing"
+        ]
+      }
+    ],
+    "crossCollab": [
+      {
+        "id": "geekpark-12-1794113101058",
+        "title": "Apple 智能国行上线，苹果大涨超 6% 重返美股市值第一；英伟达显卡订单排长队，中国客户预计只能拿到 1%；字节限制员工使用个人 AI｜极客早知道",
+        "summary": "Apple 智能国行上线，苹果大涨超 6% 重返美股市值第一 11 月 4 日，Apple 智能伴随 iOS 27.3 的 Developer Beta 向中国大陆用户开放测试，并计划于 12 月随 iOS 27.3 正式版推出。与此同时，苹果也确认与阿里巴巴达成合作，将千问接入…",
+        "url": "http://www.geekpark.net/news/373494",
+        "source": "极客公园",
+        "sourceId": "geekpark",
+        "publishedAt": "Thu, 05 Nov 2026 08:45:25 +0800",
+        "prefer": [
+          "aiNews"
+        ],
+        "tags": [
+          "aiNews",
+          "top500",
+          "marketing"
+        ]
+      }
+    ],
+    "hotTopics": [
+      {
+        "id": "ithome-0-1794113098221",
+        "title": "科学家研发石墨烯能量采集器：可从环境电磁辐射中“隔空取电”，为传感器供电",
+        "summary": "IT之家 11 月 8 日消息，雷神托尔（Thor）是北欧神话中的雷电之神，以能够凭空召唤闪电而闻名。事实证明，要实现类似效果未必需要一把魔法锤子。科学家近日研发出一种新型装置，能够收集环境中的电磁辐射，并将其转化为电能。 IT之家注意到，来自阿肯色大学和密歇根大学的研究人员开发…",
+        "url": "https://www.ithome.com/1/023/882.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Sun, 08 Nov 2026 04:33:18 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": []
+      },
+      {
+        "id": "ithome-1-1794113098221",
+        "title": "今日宜休王腾澄清智能戒指材质争议：并非所有内塑胶方案都是智商税，请不要断章取义",
+        "summary": "IT之家 11 月 8 日消息，今日宜休科技公司创始人王腾今日在微博发文称， 他没有说所有用内塑胶方案的智能戒指都是智商税 ， 请媒体老师们不要断章取义 。 王腾表示，内塑胶佩戴体验和工艺质感都不如双圈钛金属方案，成本也要低一些， 就像手机塑胶中框和金属中框的区别 ，都可以使用。…",
+        "url": "https://www.ithome.com/1/023/881.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Sun, 08 Nov 2026 04:21:03 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": []
+      },
+      {
+        "id": "ifanr-0-1794113098028",
+        "title": "别再拿《影之刃零》对比《黑神话》了",
+        "summary": "《影之刃》有自己的江湖。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "url": "https://www.ifanr.com/1688282?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "source": "爱范儿",
+        "sourceId": "ifanr",
+        "publishedAt": "Sun, 08 Nov 2026 04:00:31 +0000",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": []
+      },
+      {
+        "id": "ithome-2-1794113098221",
+        "title": "曝 ChatGPT 突现封号风波，200 美元 Pro 用户也遭殃",
+        "summary": "北京时间 11 月 8 日，近日多名用户在 Reddit 及 OpenAI 官方开发者社区反映，自己的 ChatGPT 账号突然遭到停用，其中包括每月订阅费用为 200 美元 （IT之家注：现汇率约合 1,338 元人民币） 的 Pro 用户。部分用户表示， 账号被封前没有收到任…",
+        "url": "https://www.ithome.com/1/023/879.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Sun, 08 Nov 2026 03:55:11 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "aiNews"
+        ]
+      },
+      {
+        "id": "ithome-3-1794113098221",
+        "title": "乘联分会崔东树：1-10 月新车 129 款，增程车型 42 款翻倍增长",
+        "summary": "IT之家 11 月 8 日消息，乘联分会秘书长崔东树发表乘用车新车的分级测算探讨，其中提到，今年 1-10 月的新品共 129 款， 其中增程车型 42 款，较去年同期多 26 款 ；混合动力车型 10 款，较同期多 10 款；狭义插混车型 31 款，较同期少 6 款；纯电动车型…",
+        "url": "https://www.ithome.com/1/023/878.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Sun, 08 Nov 2026 03:54:12 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "marketing",
+          "startup"
+        ]
+      },
+      {
+        "id": "ithome-4-1794113098221",
+        "title": "微软 WinUI 3 原生注册表编辑器首次曝光，界面告别 Win95 时代设计",
+        "summary": "IT之家 11 月 8 日消息，科技媒体 Windows Latest 今日发文，报道称微软开源项目仓库 Microsoft.UI.Reactor 中出现一款原生 WinUI 3 注册表编辑器。该媒体编译后发现，这款注册表编辑器确实能使用，界面告别了 Win95 时代设计，看起来…",
+        "url": "https://www.ithome.com/1/023/877.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Sun, 08 Nov 2026 03:40:33 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": []
+      },
+      {
+        "id": "ifanr-1-1794113098028",
+        "title": "被年轻人遗忘的磁带，正在 AI 时代闷声发大财 原",
+        "summary": "磁带在 AI 时代迎来了第二春。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "url": "https://www.ifanr.com/1688364?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "source": "爱范儿",
+        "sourceId": "ifanr",
+        "publishedAt": "Sun, 08 Nov 2026 03:35:42 +0000",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": []
+      },
+      {
+        "id": "ithome-5-1794113098221",
+        "title": "特斯拉更新 AI 加速器路线图：SI6 算力达 HW4 的 80 倍，Dojo D3 将面向太空部署",
+        "summary": "IT之家 11 月 8 日消息，特斯拉公布了更新后的 AI 加速器路线图，进一步揭示了公司未来几年的芯片研发方向。根据这份路线图，特斯拉第六代推理加速器的算力预计将达到现有第四代芯片的 80 倍；而用于训练任务的 Dojo D3 将放弃以 SRAM 为核心的架构，转向采用多芯粒设…",
+        "url": "https://www.ithome.com/1/023/876.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Sun, 08 Nov 2026 03:31:15 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "aiNews"
+        ]
+      },
+      {
+        "id": "ithome-6-1794113098221",
+        "title": "启境 GX7 累计交付量突破 4000 台，搭载华为乾崑智驾 ADS 5 与鸿蒙座舱 6",
+        "summary": "IT之家 11 月 8 日消息，今日，启境 GX7 集体交付活动在深圳盐田云海广场举行，上市至今累计交付已突破 4000 台。 IT之家注意到，启境 GX7 于 9 月 23 日上市，共 3 款车型，官方指导价 23.99 万至 30.19 万元，限时权益价 22.99 万至 2…",
+        "url": "https://www.ithome.com/1/023/875.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Sun, 08 Nov 2026 03:31:13 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "industryInvest",
+          "top500",
+          "marketing"
+        ]
+      },
+      {
+        "id": "sspai-0-1794113098627",
+        "title": "苹果产品那些不够颠覆，却值得被学习的细节",
+        "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
+        "url": "https://sspai.com/post/118114",
+        "source": "少数派",
+        "sourceId": "sspai",
+        "publishedAt": "Sun, 08 Nov 2026 11:18:54 +0800",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": []
+      },
+      {
+        "id": "ithome-7-1794113098221",
+        "title": "预计 2026 年我国能源投资总额达 9400 亿美元，居全球第一",
+        "summary": "IT之家 11 月 8 日消息，据央视财经报道，7 日，中国企业改革与发展研究会发布了《全球能源转型报告（2026）》，数据显示，我国已构建起全球最大、发展最快的可再生能源体系。 中国企业改革与发展研究会会长彭华岗介绍，今年上半年，中国煤电发电量占比降至 49.7%， 首次低于 …",
+        "url": "https://www.ithome.com/1/023/874.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Sun, 08 Nov 2026 03:15:04 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-8-1794113098221",
+        "title": "消息称《GTA 6》游戏将有 55 个奖杯 / 成就，超越《GTA5》《荒野大镖客：救赎 2》首发时期",
+        "summary": "IT之家 11 月 8 日消息，消息人士 TexFunz2 最近透露， 《GTA 6》游戏将提供 55 个 PlayStation 奖杯 / XBOX 成就 ，供玩家挑战。 为避免剧透，目前的泄露信息并未公开这些奖杯的具体名称。作为对比，Xbox 360 版《GTA5》上市时拥有…",
+        "url": "https://www.ithome.com/1/023/873.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Sun, 08 Nov 2026 03:12:54 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "industryInvest",
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-9-1794113098221",
+        "title": "神舟二十三乘组日常 Vlog“上新”：在轨开展脑电测试研究、触觉感知实验",
+        "summary": "IT之家 11 月 8 日消息，中国载人航天工程办公室今日发布新一期日常 Vlog，神舟二十三乘组各项实（试）验持续开展。 IT之家从视频获悉，上周，在轨 脑电测试 研究相关实验顺利开展。三名航天员利用脑电采集设备开展脑网络组图谱驱动的航天脑监测、视觉运动加工等多项实验测试。 他…",
+        "url": "https://www.ithome.com/1/023/872.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Sun, 08 Nov 2026 02:59:04 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-10-1794113098221",
+        "title": "Fotorgear Campix 相机现身众筹：一次只能拍 36 张照片的数码相机",
+        "summary": "IT之家 11 月 8 日消息，据摄影媒体 Photo Rumors 前天报道，一款名为 Fotorgear Campix 的相机最近显示 Kickstarter 众筹，号称能够在数码相机时代还原胶片的拍摄体验。 据介绍，这款相机重量 192g，搭载 1/3.06 英寸的索尼 I…",
+        "url": "https://www.ithome.com/1/023/871.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Sun, 08 Nov 2026 02:53:18 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": []
+      },
+      {
+        "id": "ithome-11-1794113098221",
+        "title": "台积电否认应英伟达要求研发 3D DRAM：公司始终专注于集成电路代工这个核心业务",
+        "summary": "IT之家 11 月 8 日消息，据 The Information 近日报道，随着人工智能硬件需求激增，全球 DRAM 内存供应持续紧张、价格不断上涨，台积电正在应英伟达要求，研究开发 3D DRAM 内存的可能性。如果这一计划最终落地，台积电将有望开辟一项新业务，但也需要面对内…",
+        "url": "https://www.ithome.com/1/023/870.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Sun, 08 Nov 2026 02:48:50 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "aiNews"
+        ]
+      }
+    ],
+    "startup": [
+      {
+        "id": "ithome-3-1794113098221",
+        "title": "乘联分会崔东树：1-10 月新车 129 款，增程车型 42 款翻倍增长",
+        "summary": "IT之家 11 月 8 日消息，乘联分会秘书长崔东树发表乘用车新车的分级测算探讨，其中提到，今年 1-10 月的新品共 129 款， 其中增程车型 42 款，较去年同期多 26 款 ；混合动力车型 10 款，较同期多 10 款；狭义插混车型 31 款，较同期少 6 款；纯电动车型…",
+        "url": "https://www.ithome.com/1/023/878.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Sun, 08 Nov 2026 03:54:12 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "marketing",
+          "startup"
+        ]
+      },
+      {
+        "id": "geekpark-0-1794113101058",
+        "title": "创业者做 Personal Agent，有没有一线生机？",
+        "summary": "最近一阶段，Personal Agent 很热。有趣的是，这个概念迅速火爆又迅速有了一个共识，几波讨论下来大家的观点似乎是： Personal Agent 的机会是大厂的，创业者基本没戏。 虽然一般情况下，「入口级机会归大厂」确实是大概率发生的事情，但 Personal Agen…",
+        "url": "http://www.geekpark.net/news/373650",
+        "source": "极客公园",
+        "sourceId": "geekpark",
+        "publishedAt": "Sun, 08 Nov 2026 10:40:20 +0800",
+        "prefer": [
+          "aiNews"
+        ],
+        "tags": [
+          "aiNews",
+          "startup"
+        ]
+      },
+      {
+        "id": "tmtpost-14-1794113099929",
+        "title": "风口浪尖的数据中心，开始放低姿态",
+        "summary": "OpenAI公布新社区承诺。",
+        "url": "https://www.tmtpost.com/8197100.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Sat, 07 Nov 2026 17:32:45 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": [
+          "aiNews",
+          "startup"
+        ]
+      },
+      {
+        "id": "qbitai-8-1794113098282",
+        "title": "DeepSeek带火稀疏计算，国产芯片公司加速突围：这家公司又融近10亿",
+        "summary": "Q3营收实现数倍增长",
+        "url": "https://www.qbitai.com/2026/11/508155.html",
+        "source": "量子位",
+        "sourceId": "qbitai",
+        "publishedAt": "Fri, 06 Nov 2026 07:00:29 +0000",
+        "prefer": [
+          "aiNews"
+        ],
+        "tags": [
+          "aiNews",
+          "startup"
+        ]
+      },
+      {
+        "id": "geekpark-17-1794113101058",
+        "title": "​传苹果逐步淘汰非触控 MacBook Pro；谷歌 AI 被指正切断互联网流量；赛力斯：问界全面进入欧洲市场",
+        "summary": "&nbsp; 苹果 CEO：不会为了做 AI 而做产品 苹果 CEO 约翰&middot;特努斯近日接受采访时，为苹果当前在人工智能领域的布局进行辩护。过去几年，外界常认为苹果在 AI 赛道落后，尤其是苹果推迟推出更强版本的 Siri，该功能直到今年夏天才正式上线。 特努斯是苹果…",
+        "url": "http://www.geekpark.net/news/373252",
+        "source": "极客公园",
+        "sourceId": "geekpark",
+        "publishedAt": "Mon, 02 Nov 2026 08:27:02 +0800",
+        "prefer": [
+          "aiNews"
+        ],
+        "tags": [
+          "aiNews",
+          "startup"
+        ]
+      },
+      {
+        "id": "geekpark-18-1794113101058",
+        "title": "个人灵光 2.0 实测：个人 AI 助理的机会和门槛｜AI 上新",
+        "summary": "作者｜汤一涛 编辑｜靖宇 10 月 21 日的 Meta 财报会上，扎克伯格披露了一组关于个人智能体 Muse 的关键数据：超过 1000 万人设置了 Muse， 购物 是 Muse 最常见的用途，超过 四分之一 的用户在用它买东西，平均客单价超过 200 美元 ；上线第一周，M…",
+        "url": "http://www.geekpark.net/news/373249",
+        "source": "极客公园",
+        "sourceId": "geekpark",
+        "publishedAt": "Sun, 01 Nov 2026 18:03:12 +0800",
+        "prefer": [
+          "aiNews"
+        ],
+        "tags": [
+          "aiNews",
+          "startup"
+        ]
+      },
+      {
+        "id": "sina_tech-7-1794113100213",
+        "title": "国内创业者们如何看待今年的新款iPhone ？",
+        "summary": "原标题：12000+的iPhone你会买吗？ 来源：寻找中国创客 统筹：薛星星 编辑：苏琦 苹果已经成功地将一款消费级电子产品打造成轻奢品，最新发售的 iPhone XS 系列最高配价格已经上探到12799元，是北京市去年月平均工资的1.5倍。有人高呼，今年的苹果一块“肾”已经.…",
+        "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/t/2018-09-23/doc-ihkmwytn6791142.shtml",
+        "source": "新浪科技",
+        "sourceId": "sina_tech",
+        "publishedAt": "Sun, 23 Sep 2018 06:02:39 GMT",
+        "prefer": [
+          "aiNews",
+          "industryInvest"
+        ],
+        "tags": [
+          "startup"
+        ]
+      }
+    ]
+  },
+  "sources": {
+    "ok": [
+      "爱范儿",
+      "IT之家",
+      "量子位",
+      "少数派",
+      "钛媒体",
+      "新浪科技",
+      "新浪财经",
+      "极客公园"
+    ],
+    "failed": [
+      "数英网（HTTP 403）",
+      "雷锋网（The operation was aborted due to timeout）",
+      "创业邦（The operation was aborted due to timeout）"
+    ]
+  }
+}
