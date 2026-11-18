@@ -1,0 +1,1628 @@
+{
+  "app": "智讯工作台",
+  "version": 1,
+  "updatedAt": "2026-11-18T14:09:16.289+08:00",
+  "sections": {
+    "aiNews": [
+      {
+        "id": "tmtpost-0-1794982139415",
+        "title": "Anthropic 上市，三个预测",
+        "summary": "走着瞧。",
+        "url": "https://www.tmtpost.com/8209437.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Wed, 18 Nov 2026 14:00:42 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": [
+          "industryInvest",
+          "marketing"
+        ]
+      },
+      {
+        "id": "tmtpost-1-1794982139415",
+        "title": "美的集团：宿命的第四次点名",
+        "summary": "最好看的一张季报，藏着最差的一份现金流。",
+        "url": "https://www.tmtpost.com/8209425.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Wed, 18 Nov 2026 14:00:37 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": [
+          "top500"
+        ]
+      },
+      {
+        "id": "tmtpost-2-1794982139415",
+        "title": "全球钢铁巨头再押注湖南，为什么选中这座老钢城？",
+        "summary": "娄底为何能接得住全球顶尖技术？",
+        "url": "https://www.tmtpost.com/8209427.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Wed, 18 Nov 2026 14:00:31 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": []
+      },
+      {
+        "id": "ithome-0-1794982136682",
+        "title": "微软 Win11 预览版提速“此电脑”搜索：基于索引方案，缩短找文件时间",
+        "summary": "IT之家 11 月 18 日消息，科技媒体 Windows Central 昨日（11 月 17 日）发布博文，报道称在 Windows 11 Build 26320.10003 预览版中， 微软重点改进了文件管理器中“此电脑”（This PC）文件搜索速度。 在搜索机制方面，新…",
+        "url": "https://www.ithome.com/1/028/776.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Wed, 18 Nov 2026 05:53:58 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-1-1794982136682",
+        "title": "Pulsar 发布 X2 CrazyLight 2 鼠标：延续低矮宽大对称设计，升级 XS-2 传感器",
+        "summary": "IT之家 11 月 18 日消息，Pulsar（派世）今日正式发布了鼠标新品 X2 CrazyLight 2。这一产品延续了前代型号的模具设计， 拥有低矮而宽大的对称式外壳 ， 适配抓握与指握姿势 ，官网国行标价为 849 元。 而在内部，X2 CrazyLight 2 升级至 …",
+        "url": "https://www.ithome.com/1/028/774.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Wed, 18 Nov 2026 05:52:19 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-2-1794982136682",
+        "title": "微软 Win11 测试新提醒：切换本地账号前，先备份 BitLocker 密钥",
+        "summary": "IT之家 11 月 18 日消息，科技媒体 Windows Latest 昨日（11 月 17 日）发布博文，报道称微软正在测试一项 Windows 11 新功能： 当用户从微软账户切换为本地账户后，系统会提醒其备份 BitLocker 恢复密钥，以避免日后因密钥丢失而无法访问加…",
+        "url": "https://www.ithome.com/1/028/764.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Wed, 18 Nov 2026 05:41:42 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "marketing"
+        ]
+      },
+      {
+        "id": "tmtpost-3-1794982139415",
+        "title": "石药集团刚刚发布了三季报，市场对它的分歧仍然较大",
+        "summary": "利润翻倍的石药，九成是阿斯利康的首付款。",
+        "url": "https://www.tmtpost.com/8209571.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Wed, 18 Nov 2026 13:39:01 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": [
+          "marketing"
+        ]
+      },
+      {
+        "id": "tmtpost-4-1794982139415",
+        "title": "强生拟33亿美元收购Ollin背后：一款中国原研药的价值进阶",
+        "summary": "押注差异化视网膜疗法。",
+        "url": "https://www.tmtpost.com/8209456.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Wed, 18 Nov 2026 13:38:54 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": [
+          "industryInvest"
+        ]
+      },
+      {
+        "id": "ithome-3-1794982136682",
+        "title": "苹果订阅版 Final Cut Pro 加入 MotionVFX，视频特效更省事",
+        "summary": "IT之家 11 月 18 日消息，科技媒体 MacRumors 昨日（11 月 17 日）发布博文， 报道称苹果面向 Apple 创作坊（Apple Creator Studio）用户，升级视频剪辑软件 Final Cut Pro，新增集成 MotionVFX 功能。 IT之家曾…",
+        "url": "https://www.ithome.com/1/028/749.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Wed, 18 Nov 2026 05:29:34 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "marketing"
+        ]
+      },
+      {
+        "id": "tmtpost-5-1794982139415",
+        "title": "哈维・琼斯：成就黄仁勋，赶走黄仁勋",
+        "summary": "英伟达史上首位董事会主席，最沉默的亿万富翁，开口了。",
+        "url": "https://www.tmtpost.com/8209481.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Wed, 18 Nov 2026 13:29:04 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": [
+          "aiNews"
+        ]
+      },
+      {
+        "id": "tmtpost-6-1794982139415",
+        "title": "Anthropic的万亿定价",
+        "summary": "8.25亿股与1股。",
+        "url": "https://www.tmtpost.com/8209454.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Wed, 18 Nov 2026 13:28:56 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": []
+      },
+      {
+        "id": "tmtpost-7-1794982139415",
+        "title": "接下来，压力给到澳大利亚铁矿石巨头",
+        "summary": "每吨1美元，FMG为什么如此在意？",
+        "url": "https://www.tmtpost.com/8209421.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Wed, 18 Nov 2026 13:28:50 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": []
+      },
+      {
+        "id": "ithome-4-1794982136682",
+        "title": "人类历史上首次：旅行者 1 号抵达 1 光日位置，还需约 3 万年才能真正飞出太阳系",
+        "summary": "IT之家 11 月 18 日消息，NASA 于 1977 年发射的旅行者 1 号探测器于 2026 年 11 月 18 日正式抵达距离地球 1 光日的位置，成为人类历史上首个达到这一距离的人造物体。 所谓 1 光日，是指光在真空中传播 24 小时所经过的距离，并非时间单位。以光速…",
+        "url": "https://www.ithome.com/1/028/745.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Wed, 18 Nov 2026 05:26:32 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": []
+      },
+      {
+        "id": "ithome-5-1794982136682",
+        "title": "第 69 届格莱美奖提名名单公布：苹果《寡妇湾》《音乐魔法镇！》拿下入场券",
+        "summary": "IT之家 11 月 18 日消息，录音学院（NARAS）于 11 月 16 日公布第 69 届格莱美奖提名名单， 苹果 Apple TV 旗下《音乐魔法镇！》（Schmigadoon!）和《寡妇湾》（Widow's Bay）获得 2027 年格莱美提名。 IT之家注：《音乐魔法镇…",
+        "url": "https://www.ithome.com/1/028/744.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Wed, 18 Nov 2026 05:26:30 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": []
+      },
+      {
+        "id": "tmtpost-8-1794982139415",
+        "title": "140万吨锂精矿或被困非洲，碳酸锂市场低估了什么？",
+        "summary": "140万吨潜在积压背后，一场影响中国锂供应的政策风险正在逼近。",
+        "url": "https://www.tmtpost.com/8209200.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Wed, 18 Nov 2026 13:23:47 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": []
+      },
+      {
+        "id": "tmtpost-9-1794982139415",
+        "title": "县城小火锅：一边狂飙，一边批量倒闭",
+        "summary": "县城也是修罗场。",
+        "url": "https://www.tmtpost.com/8209212.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Wed, 18 Nov 2026 13:23:43 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": []
+      },
+      {
+        "id": "tmtpost-10-1794982139415",
+        "title": "黄仁勋：想回英伟达，董事会：没这个打算",
+        "summary": "财报发布后，英伟达股价盘后上涨2.47%。",
+        "url": "https://www.tmtpost.com/8209226.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Wed, 18 Nov 2026 13:23:38 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": [
+          "aiNews",
+          "marketing"
+        ]
+      },
+      {
+        "id": "tmtpost-11-1794982139415",
+        "title": "京东利润回来了，但它正在变成一家更“重”的公司",
+        "summary": "补贴变成库存、门店、算力和一家欧洲零售商。",
+        "url": "https://www.tmtpost.com/8209333.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Wed, 18 Nov 2026 13:23:33 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": [
+          "aiNews",
+          "top500"
+        ]
+      },
+      {
+        "id": "tmtpost-12-1794982139415",
+        "title": "AI陪伴，硬件的账该怎么算？",
+        "summary": "AI陪伴核心是算清楚：硬件的增量体验，能否覆盖它带来的全部成本。",
+        "url": "https://www.tmtpost.com/8208289.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Wed, 18 Nov 2026 13:16:13 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": []
+      },
+      {
+        "id": "ithome-6-1794982136682",
+        "title": "董明珠 APEC 现场求合作，称格力研发机器人十几年了",
+        "summary": "IT之家 11 月 18 日消息，据看看新闻报道，11 月 17 日，2026 年 APEC 工商领导人峰会举行，格力电器董事长董明珠在现场主动寻找 机器人领域的合作机会 。 董明珠表示，具身智能机器人需要减速机、驱动器、伺服电机等核心零部件， 而格力已经研发机器人十几年 ，目前…",
+        "url": "https://www.ithome.com/1/028/713.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Wed, 18 Nov 2026 05:11:00 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "top500",
+          "marketing",
+          "startup"
+        ]
+      }
+    ],
+    "industryInvest": [
+      {
+        "id": "tmtpost-0-1794982139415",
+        "title": "Anthropic 上市，三个预测",
+        "summary": "走着瞧。",
+        "url": "https://www.tmtpost.com/8209437.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Wed, 18 Nov 2026 14:00:42 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": [
+          "industryInvest",
+          "marketing"
+        ]
+      },
+      {
+        "id": "tmtpost-1-1794982139415",
+        "title": "美的集团：宿命的第四次点名",
+        "summary": "最好看的一张季报，藏着最差的一份现金流。",
+        "url": "https://www.tmtpost.com/8209425.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Wed, 18 Nov 2026 14:00:37 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": [
+          "top500"
+        ]
+      },
+      {
+        "id": "tmtpost-2-1794982139415",
+        "title": "全球钢铁巨头再押注湖南，为什么选中这座老钢城？",
+        "summary": "娄底为何能接得住全球顶尖技术？",
+        "url": "https://www.tmtpost.com/8209427.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Wed, 18 Nov 2026 14:00:31 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": []
+      },
+      {
+        "id": "tmtpost-3-1794982139415",
+        "title": "石药集团刚刚发布了三季报，市场对它的分歧仍然较大",
+        "summary": "利润翻倍的石药，九成是阿斯利康的首付款。",
+        "url": "https://www.tmtpost.com/8209571.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Wed, 18 Nov 2026 13:39:01 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": [
+          "marketing"
+        ]
+      },
+      {
+        "id": "tmtpost-4-1794982139415",
+        "title": "强生拟33亿美元收购Ollin背后：一款中国原研药的价值进阶",
+        "summary": "押注差异化视网膜疗法。",
+        "url": "https://www.tmtpost.com/8209456.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Wed, 18 Nov 2026 13:38:54 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": [
+          "industryInvest"
+        ]
+      },
+      {
+        "id": "tmtpost-5-1794982139415",
+        "title": "哈维・琼斯：成就黄仁勋，赶走黄仁勋",
+        "summary": "英伟达史上首位董事会主席，最沉默的亿万富翁，开口了。",
+        "url": "https://www.tmtpost.com/8209481.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Wed, 18 Nov 2026 13:29:04 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": [
+          "aiNews"
+        ]
+      },
+      {
+        "id": "tmtpost-6-1794982139415",
+        "title": "Anthropic的万亿定价",
+        "summary": "8.25亿股与1股。",
+        "url": "https://www.tmtpost.com/8209454.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Wed, 18 Nov 2026 13:28:56 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": []
+      },
+      {
+        "id": "tmtpost-7-1794982139415",
+        "title": "接下来，压力给到澳大利亚铁矿石巨头",
+        "summary": "每吨1美元，FMG为什么如此在意？",
+        "url": "https://www.tmtpost.com/8209421.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Wed, 18 Nov 2026 13:28:50 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": []
+      },
+      {
+        "id": "tmtpost-8-1794982139415",
+        "title": "140万吨锂精矿或被困非洲，碳酸锂市场低估了什么？",
+        "summary": "140万吨潜在积压背后，一场影响中国锂供应的政策风险正在逼近。",
+        "url": "https://www.tmtpost.com/8209200.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Wed, 18 Nov 2026 13:23:47 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": []
+      },
+      {
+        "id": "tmtpost-9-1794982139415",
+        "title": "县城小火锅：一边狂飙，一边批量倒闭",
+        "summary": "县城也是修罗场。",
+        "url": "https://www.tmtpost.com/8209212.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Wed, 18 Nov 2026 13:23:43 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": []
+      },
+      {
+        "id": "tmtpost-10-1794982139415",
+        "title": "黄仁勋：想回英伟达，董事会：没这个打算",
+        "summary": "财报发布后，英伟达股价盘后上涨2.47%。",
+        "url": "https://www.tmtpost.com/8209226.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Wed, 18 Nov 2026 13:23:38 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": [
+          "aiNews",
+          "marketing"
+        ]
+      },
+      {
+        "id": "tmtpost-11-1794982139415",
+        "title": "京东利润回来了，但它正在变成一家更“重”的公司",
+        "summary": "补贴变成库存、门店、算力和一家欧洲零售商。",
+        "url": "https://www.tmtpost.com/8209333.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Wed, 18 Nov 2026 13:23:33 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": [
+          "aiNews",
+          "top500"
+        ]
+      },
+      {
+        "id": "tmtpost-12-1794982139415",
+        "title": "AI陪伴，硬件的账该怎么算？",
+        "summary": "AI陪伴核心是算清楚：硬件的增量体验，能否覆盖它带来的全部成本。",
+        "url": "https://www.tmtpost.com/8208289.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Wed, 18 Nov 2026 13:16:13 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": []
+      },
+      {
+        "id": "tmtpost-13-1794982139415",
+        "title": "AI 创新加速落地CES 2027，中国企业如何应答？｜钛媒体TMTPOST CES系列活动开启",
+        "summary": "钛媒体TMTPOST CES 2027「Talk to the World」系列活动启动招募。",
+        "url": "https://www.tmtpost.com/8205750.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Wed, 18 Nov 2026 12:47:11 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": []
+      },
+      {
+        "id": "tmtpost-14-1794982139415",
+        "title": "AI伴侣的孤独陷阱",
+        "summary": "AI伴侣的核心卖点是随叫随到的陪伴，但这种陪伴是否真正有效？斯坦福大学一项基于46万条真实聊天记录的研究发现，对于社交网络薄弱的人，这种陪伴不仅没有缓解孤独，反而让孤独加剧。",
+        "url": "https://www.tmtpost.com/8209348.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Wed, 18 Nov 2026 12:36:33 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": []
+      },
+      {
+        "id": "tmtpost-15-1794982139415",
+        "title": "抖音生服换帅：字节为什么派“红果掌门”去打美团？",
+        "summary": "与其说是换人，不如说是换方法论。",
+        "url": "https://www.tmtpost.com/8209254.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Wed, 18 Nov 2026 12:36:27 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": [
+          "top500"
+        ]
+      },
+      {
+        "id": "qbitai-1-1794982138082",
+        "title": "英伟达AMD首次联手押注！Genesis完成A轮融资，估值超230亿",
+        "summary": "具身全栈玩家",
+        "url": "https://www.qbitai.com/2026/11/510821.html",
+        "source": "量子位",
+        "sourceId": "qbitai",
+        "publishedAt": "Wed, 18 Nov 2026 04:28:57 +0000",
+        "prefer": [
+          "aiNews"
+        ],
+        "tags": [
+          "aiNews",
+          "industryInvest"
+        ]
+      },
+      {
+        "id": "tmtpost-16-1794982139415",
+        "title": "Gartner 2027十大技术趋势：十项里四项与AI治理有关，窗口期只有1到6年",
+        "summary": "到2028年，25%的企业安全漏洞事件可追溯至AI智能体滥用。",
+        "url": "https://www.tmtpost.com/8209258.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Wed, 18 Nov 2026 10:30:43 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": [
+          "aiNews"
+        ]
+      },
+      {
+        "id": "qbitai-5-1794982138082",
+        "title": "并购完成，李飞飞正式率队加入AMD！苏妈亲自欢迎",
+        "summary": "82亿美元股票，46天闪电交割",
+        "url": "https://www.qbitai.com/2026/11/510695.html",
+        "source": "量子位",
+        "sourceId": "qbitai",
+        "publishedAt": "Tue, 17 Nov 2026 14:15:20 +0000",
+        "prefer": [
+          "aiNews"
+        ],
+        "tags": [
+          "industryInvest"
+        ]
+      },
+      {
+        "id": "cyzone-0-1794982140827",
+        "title": "上海金浦工融未来智造私募投资基金登记成立 出资额5亿",
+        "summary": "天眼查App显示，近日，上海金浦工融未来智造私募投资基金合伙企业（有限合伙）成立，执行事务合伙人为工银资本管理有限公司、上海骐瑾企业管理合伙企业（有限合伙），出资额5亿元人民币，经营范围为以私募基金从事股权投资、投资管理、资产管理等活动。合伙人信息显示，该基金由上海国际集团资产管…",
+        "url": "https://www.cyzone.cn/article/854205.html",
+        "source": "创业邦",
+        "sourceId": "cyzone",
+        "publishedAt": "Tue, 17 Nov 2026 03:59:55 GMT",
+        "prefer": [
+          "startup",
+          "industryInvest"
+        ],
+        "tags": [
+          "industryInvest"
+        ]
+      }
+    ],
+    "top500": [
+      {
+        "id": "tmtpost-1-1794982139415",
+        "title": "美的集团：宿命的第四次点名",
+        "summary": "最好看的一张季报，藏着最差的一份现金流。",
+        "url": "https://www.tmtpost.com/8209425.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Wed, 18 Nov 2026 14:00:37 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": [
+          "top500"
+        ]
+      },
+      {
+        "id": "tmtpost-11-1794982139415",
+        "title": "京东利润回来了，但它正在变成一家更“重”的公司",
+        "summary": "补贴变成库存、门店、算力和一家欧洲零售商。",
+        "url": "https://www.tmtpost.com/8209333.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Wed, 18 Nov 2026 13:23:33 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": [
+          "aiNews",
+          "top500"
+        ]
+      },
+      {
+        "id": "ithome-6-1794982136682",
+        "title": "董明珠 APEC 现场求合作，称格力研发机器人十几年了",
+        "summary": "IT之家 11 月 18 日消息，据看看新闻报道，11 月 17 日，2026 年 APEC 工商领导人峰会举行，格力电器董事长董明珠在现场主动寻找 机器人领域的合作机会 。 董明珠表示，具身智能机器人需要减速机、驱动器、伺服电机等核心零部件， 而格力已经研发机器人十几年 ，目前…",
+        "url": "https://www.ithome.com/1/028/713.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Wed, 18 Nov 2026 05:11:00 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "top500",
+          "marketing",
+          "startup"
+        ]
+      },
+      {
+        "id": "ithome-8-1794982136682",
+        "title": "比亚迪王传福、美团王兴、小米雷军 APEC 2026 并排就坐，拒绝透露聊天内容",
+        "summary": "IT之家 11 月 18 日消息，2026 年 APEC 工商领导人峰会 11 月 17 日至 18 日在深圳举办。 中国新闻网今日晒出采访视频，比亚迪股份有限公司董事长兼总裁王传福、美团 CEO 王兴、小米创办人兼董事长兼 CEO 雷军并排就坐。 当记者提问三人具体聊了什么内容…",
+        "url": "https://www.ithome.com/1/028/704.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Wed, 18 Nov 2026 04:54:12 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "top500"
+        ]
+      },
+      {
+        "id": "ithome-9-1794982136682",
+        "title": "消息称华为 Mate 90 Air、Nova 17 系列新机年底前发布，MatePad Mini 2 小平板预计也有",
+        "summary": "IT之家 11 月 18 日消息，微博博主 @数码闲聊站 今日透露，除了 Mate X8、星芒 OSTA O1 Pro 外，华为年底前还有 Mate 90 Air、Nova 17 系列新机发布，覆盖大折叠、阔直板、轻薄大屏、轻薄拍照全品类机型。 该博主还表示， 华为平板产品线还有…",
+        "url": "https://www.ithome.com/1/028/703.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Wed, 18 Nov 2026 04:47:17 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "top500",
+          "marketing"
+        ]
+      },
+      {
+        "id": "tmtpost-15-1794982139415",
+        "title": "抖音生服换帅：字节为什么派“红果掌门”去打美团？",
+        "summary": "与其说是换人，不如说是换方法论。",
+        "url": "https://www.tmtpost.com/8209254.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Wed, 18 Nov 2026 12:36:27 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": [
+          "top500"
+        ]
+      },
+      {
+        "id": "ithome-10-1794982136682",
+        "title": "腾讯混元 Hy4 flash 模型官宣开源",
+        "summary": "IT之家 11 月 18 日消息， 腾讯混元今日宣布开源 Hy4 flash 模型 ，包含 Hy4 flash、Hy4 flash-FP8 和 Hy4 flash Base，开发者可在 GitHub、 Hugging Face、ModelScope 和 GitCode 下载部署。…",
+        "url": "https://www.ithome.com/1/028/701.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Wed, 18 Nov 2026 04:36:17 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "aiNews",
+          "top500",
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-13-1794982136682",
+        "title": "229 元小米智能 4G 摄像机 3 开售：中国电信联通双不限 4G 免费流量，500 万像素 3K 看护 + 双向实时语音",
+        "summary": "IT之家 11 月 18 日消息，小米智能 4G 摄像机 3 今日正式开启抢购，京东显示为 229 元。 京东 小米智能 4G 摄像机 3 AI 灵敏检测 双向实时语音 229 元 直达链接 这款摄像机主打无网室内智能看护能力，内置电信、联通双 SIM 卡，搭载免费 4G 流量且…",
+        "url": "https://www.ithome.com/1/028/698.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Wed, 18 Nov 2026 04:25:02 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "top500"
+        ]
+      },
+      {
+        "id": "ithome-19-1794982136682",
+        "title": "分形工艺预热神秘新品，传闻为 Torrent 2 机箱",
+        "summary": "IT之家 11 月 18 日消息，PC 硬件制造商 Fractal Design（分形工艺）现已在其京东、淘宝旗舰店首页放出同一张图片， 对一款神秘新品进行预热 。从该品牌经营范围来看，这似乎是一款机箱。 参考 Chiphell 站长 @nApoleon 在该平台的发帖， 该新品…",
+        "url": "https://www.ithome.com/1/028/691.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Wed, 18 Nov 2026 03:29:58 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "top500",
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-20-1794982136682",
+        "title": "99 元起，九州风神 FT12 V2 SE 钢铁之“芯”机箱风扇开售",
+        "summary": "IT之家 11 月 18 日消息，九州风神 FT12 V2 SE 钢铁之“芯”机箱风扇现已在京东开售， 单个装售价 99 元 ， 三联包 279 元 。 据介绍，这款风扇搭载 FOC 闭环电机，采用三相设计，相比单相电机功率密度更高、更平稳。支持 ISST 智能启停风扇技术，具备…",
+        "url": "https://www.ithome.com/1/028/690.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Wed, 18 Nov 2026 03:29:25 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "top500"
+        ]
+      },
+      {
+        "id": "leiphone-2-1794982139736",
+        "title": "黄仁勋打破沉默：为美国人身份自豪，愿意重返英伟达担任CEO；阿里调整员工回流政策：离职两次不得回流原集团；红果被曝筹备电视端独立APP",
+        "summary": "要闻提示 1.黄仁勋打破沉默：为美国人身份自豪，愿意重返英伟达担任CEO！英伟达董事会拒绝其回归 2.不让吃回头草了？阿里调整员工回流政策：离职两次不得回流原集团 3.抢客厅时长！红果短剧被曝筹备电视端独立APP 4.抖音生活服务负责人换帅，老将浦燕子转顾问 5.小米回应雷军AP…",
+        "url": "https://www.leiphone.com/category/zaobao/OlqabqceGorcm242.html",
+        "source": "雷锋网",
+        "sourceId": "leiphone",
+        "publishedAt": "Wed, 18 Nov 2026 08:56:00 +0800",
+        "prefer": [
+          "aiNews"
+        ],
+        "tags": [
+          "aiNews",
+          "top500"
+        ]
+      },
+      {
+        "id": "leiphone-4-1794982139736",
+        "title": "阿里云连续六年香港IaaS第一，企业客户AI渗透率达95%",
+        "summary": "11月17日消息，阿里云在年度香港峰会上推出多项新举措，加速AI在香港各行业落地。目前，阿里云已连续六年位居香港IaaS市场份额第一，市场领先地位进一步巩固。 &nbsp; &nbsp; 随着香港AI需求持续增长，阿里云通过千问大模型、云基础设施及FDE工程服务，推动AI深入各行…",
+        "url": "https://www.leiphone.com/category/industrynews/qyieFYqM3EQhE1Hu.html",
+        "source": "雷锋网",
+        "sourceId": "leiphone",
+        "publishedAt": "Tue, 17 Nov 2026 17:24:00 +0800",
+        "prefer": [
+          "aiNews"
+        ],
+        "tags": [
+          "aiNews",
+          "top500",
+          "startup"
+        ]
+      },
+      {
+        "id": "leiphone-7-1794982139736",
+        "title": "独家丨腾讯优图实验室研究总监孙星离职",
+        "summary": "雷峰网独家消息，腾讯优图实验室研究总监、专家研究员孙星已离职。 据公开资源显示，孙星本科毕业于南京理工大学，博士毕业于香港大学工程学院。2016年加入腾讯优图实验室。 早期，他主要深耕医疗影像 AI，参与了肺癌识别和糖尿病视网膜病变筛查研究，相关技术应用于腾讯觅影。进入大模型时代…",
+        "url": "https://www.leiphone.com/category/CorporateServices/ndF7IsEHBffZkbzy.html",
+        "source": "雷锋网",
+        "sourceId": "leiphone",
+        "publishedAt": "Tue, 17 Nov 2026 16:28:00 +0800",
+        "prefer": [
+          "aiNews"
+        ],
+        "tags": [
+          "aiNews",
+          "top500"
+        ]
+      },
+      {
+        "id": "leiphone-10-1794982139736",
+        "title": "网传360集团副总裁涉贪腐问题被带走调查；英伟达董事会：没考虑让黄仁勋复任CEO；知名手游宣布明年3月停止运营，曾月流水破10亿",
+        "summary": "要闻提示 1.黄仁勋借钱成新型诈骗！英伟达董事会：没考虑让黄仁勋复任 CEO 2.已到生死存亡时刻！腾讯内部讲话：现在不是和平年代，大家不能自以为站在高处很安全 3.网传360集团副总裁卜思南涉贪腐问题被带走调查，本人回应：不是真的，在处理ing 4.网易《哈利波特：魔法觉醒》手…",
+        "url": "https://www.leiphone.com/category/zaobao/ksECYyYOXDL6IQ2q.html",
+        "source": "雷锋网",
+        "sourceId": "leiphone",
+        "publishedAt": "Tue, 17 Nov 2026 09:33:00 +0800",
+        "prefer": [
+          "aiNews"
+        ],
+        "tags": [
+          "aiNews",
+          "top500"
+        ]
+      },
+      {
+        "id": "ifanr-9-1794982137891",
+        "title": "早报｜iPhone Duo新增外屏人脸解锁/曝英伟达董事会无意请回黄仁勋/华为Mate X8定档11月24日",
+        "summary": "· 阿里发布 Qwen4-Max，缓存命中价格低至每百万 Token 0.5 元 · 腾讯混元推出 Hy4 flash，WorkBuddy 限时开放免费使用 · 腾讯公开司庆讲话，要求核心业务团队面向 AI 再创业 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更…",
+        "url": "https://www.ifanr.com/1689760?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "source": "爱范儿",
+        "sourceId": "ifanr",
+        "publishedAt": "Tue, 17 Nov 2026 00:18:50 +0000",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "aiNews",
+          "top500",
+          "marketing",
+          "startup"
+        ]
+      }
+    ],
+    "newProducts": [
+      {
+        "id": "tmtpost-0-1794982139415",
+        "title": "Anthropic 上市，三个预测",
+        "summary": "走着瞧。",
+        "url": "https://www.tmtpost.com/8209437.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Wed, 18 Nov 2026 14:00:42 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": [
+          "industryInvest",
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-0-1794982136682",
+        "title": "微软 Win11 预览版提速“此电脑”搜索：基于索引方案，缩短找文件时间",
+        "summary": "IT之家 11 月 18 日消息，科技媒体 Windows Central 昨日（11 月 17 日）发布博文，报道称在 Windows 11 Build 26320.10003 预览版中， 微软重点改进了文件管理器中“此电脑”（This PC）文件搜索速度。 在搜索机制方面，新…",
+        "url": "https://www.ithome.com/1/028/776.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Wed, 18 Nov 2026 05:53:58 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-1-1794982136682",
+        "title": "Pulsar 发布 X2 CrazyLight 2 鼠标：延续低矮宽大对称设计，升级 XS-2 传感器",
+        "summary": "IT之家 11 月 18 日消息，Pulsar（派世）今日正式发布了鼠标新品 X2 CrazyLight 2。这一产品延续了前代型号的模具设计， 拥有低矮而宽大的对称式外壳 ， 适配抓握与指握姿势 ，官网国行标价为 849 元。 而在内部，X2 CrazyLight 2 升级至 …",
+        "url": "https://www.ithome.com/1/028/774.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Wed, 18 Nov 2026 05:52:19 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-2-1794982136682",
+        "title": "微软 Win11 测试新提醒：切换本地账号前，先备份 BitLocker 密钥",
+        "summary": "IT之家 11 月 18 日消息，科技媒体 Windows Latest 昨日（11 月 17 日）发布博文，报道称微软正在测试一项 Windows 11 新功能： 当用户从微软账户切换为本地账户后，系统会提醒其备份 BitLocker 恢复密钥，以避免日后因密钥丢失而无法访问加…",
+        "url": "https://www.ithome.com/1/028/764.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Wed, 18 Nov 2026 05:41:42 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "marketing"
+        ]
+      },
+      {
+        "id": "tmtpost-3-1794982139415",
+        "title": "石药集团刚刚发布了三季报，市场对它的分歧仍然较大",
+        "summary": "利润翻倍的石药，九成是阿斯利康的首付款。",
+        "url": "https://www.tmtpost.com/8209571.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Wed, 18 Nov 2026 13:39:01 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": [
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-3-1794982136682",
+        "title": "苹果订阅版 Final Cut Pro 加入 MotionVFX，视频特效更省事",
+        "summary": "IT之家 11 月 18 日消息，科技媒体 MacRumors 昨日（11 月 17 日）发布博文， 报道称苹果面向 Apple 创作坊（Apple Creator Studio）用户，升级视频剪辑软件 Final Cut Pro，新增集成 MotionVFX 功能。 IT之家曾…",
+        "url": "https://www.ithome.com/1/028/749.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Wed, 18 Nov 2026 05:29:34 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "marketing"
+        ]
+      },
+      {
+        "id": "tmtpost-10-1794982139415",
+        "title": "黄仁勋：想回英伟达，董事会：没这个打算",
+        "summary": "财报发布后，英伟达股价盘后上涨2.47%。",
+        "url": "https://www.tmtpost.com/8209226.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Wed, 18 Nov 2026 13:23:38 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": [
+          "aiNews",
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-7-1794982136682",
+        "title": "苹果推进 iPhone 双卡新功能：第三方应用可识别工作 / 生活号码",
+        "summary": "IT之家 11 月 18 日消息，科技媒体 MacRumors 昨日（11 月 17 日）发布博文，报道称苹果公司正在推进一项改进， 未来 iPhone 用户有望在第三方通话、联系人应用中更方便地使用“工作号”和“私人号”两张 SIM 卡。 这项改进主要增强 iPhone 应用的…",
+        "url": "https://www.ithome.com/1/028/705.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Wed, 18 Nov 2026 05:02:31 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-9-1794982136682",
+        "title": "消息称华为 Mate 90 Air、Nova 17 系列新机年底前发布，MatePad Mini 2 小平板预计也有",
+        "summary": "IT之家 11 月 18 日消息，微博博主 @数码闲聊站 今日透露，除了 Mate X8、星芒 OSTA O1 Pro 外，华为年底前还有 Mate 90 Air、Nova 17 系列新机发布，覆盖大折叠、阔直板、轻薄大屏、轻薄拍照全品类机型。 该博主还表示， 华为平板产品线还有…",
+        "url": "https://www.ithome.com/1/028/703.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Wed, 18 Nov 2026 04:47:17 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "top500",
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-10-1794982136682",
+        "title": "腾讯混元 Hy4 flash 模型官宣开源",
+        "summary": "IT之家 11 月 18 日消息， 腾讯混元今日宣布开源 Hy4 flash 模型 ，包含 Hy4 flash、Hy4 flash-FP8 和 Hy4 flash Base，开发者可在 GitHub、 Hugging Face、ModelScope 和 GitCode 下载部署。…",
+        "url": "https://www.ithome.com/1/028/701.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Wed, 18 Nov 2026 04:36:17 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "aiNews",
+          "top500",
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-12-1794982136682",
+        "title": "盖世小鸡 × 地下城与勇士 DNF 官宣合作，将推多款联名键盘、手柄外设",
+        "summary": "IT之家 11 月 18 日消息，盖世小鸡今日宣布与《地下城与勇士》达成 深度联名合作 ，成为 DNF 端游、DNF 手游、DNF 卡赞三大产品线的独家外设合作伙伴，将推联名键盘、拉伸手柄与游戏手柄产品。 IT之家从联名公告获悉，盖世小鸡 ×DNF 端游独家联名键盘，采用铝坨坨质…",
+        "url": "https://www.ithome.com/1/028/699.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Wed, 18 Nov 2026 04:31:26 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-18-1794982136682",
+        "title": "苹果首款折叠 iPhone Duo 铰链风波升级，韩媒称供应商受压撤回声明",
+        "summary": "IT之家 11 月 18 日消息，韩国媒体 The Elec 昨日（11 月 17 日）发布博文，报道称苹果向零部件供应商 Fine M-Tec 施压，要求其撤回 10 月 26 日发表在官网的相关声明， 让苹果首款折叠 iPhone Duo 铰链故障风波再起波澜。 IT之家曾于…",
+        "url": "https://www.ithome.com/1/028/692.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Wed, 18 Nov 2026 03:39:06 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "marketing"
+        ]
+      }
+    ],
+    "influencerVideos": [
+      {
+        "id": "cyzone-2-1794982140827",
+        "title": "双11收官，店播成增长引擎，直播电商企业超52万家",
+        "summary": "",
+        "url": "https://www.cyzone.cn/article/854060.html",
+        "source": "创业邦",
+        "sourceId": "cyzone",
+        "publishedAt": "Mon, 16 Nov 2026 08:02:41 GMT",
+        "prefer": [
+          "startup",
+          "industryInvest"
+        ],
+        "tags": [
+          "marketing",
+          "startup"
+        ]
+      }
+    ],
+    "crossCollab": [
+      {
+        "id": "ithome-6-1794982136682",
+        "title": "董明珠 APEC 现场求合作，称格力研发机器人十几年了",
+        "summary": "IT之家 11 月 18 日消息，据看看新闻报道，11 月 17 日，2026 年 APEC 工商领导人峰会举行，格力电器董事长董明珠在现场主动寻找 机器人领域的合作机会 。 董明珠表示，具身智能机器人需要减速机、驱动器、伺服电机等核心零部件， 而格力已经研发机器人十几年 ，目前…",
+        "url": "https://www.ithome.com/1/028/713.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Wed, 18 Nov 2026 05:11:00 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "top500",
+          "marketing",
+          "startup"
+        ]
+      },
+      {
+        "id": "ithome-12-1794982136682",
+        "title": "盖世小鸡 × 地下城与勇士 DNF 官宣合作，将推多款联名键盘、手柄外设",
+        "summary": "IT之家 11 月 18 日消息，盖世小鸡今日宣布与《地下城与勇士》达成 深度联名合作 ，成为 DNF 端游、DNF 手游、DNF 卡赞三大产品线的独家外设合作伙伴，将推联名键盘、拉伸手柄与游戏手柄产品。 IT之家从联名公告获悉，盖世小鸡 ×DNF 端游独家联名键盘，采用铝坨坨质…",
+        "url": "https://www.ithome.com/1/028/699.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Wed, 18 Nov 2026 04:31:26 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "marketing"
+        ]
+      }
+    ],
+    "hotTopics": [
+      {
+        "id": "ithome-0-1794982136682",
+        "title": "微软 Win11 预览版提速“此电脑”搜索：基于索引方案，缩短找文件时间",
+        "summary": "IT之家 11 月 18 日消息，科技媒体 Windows Central 昨日（11 月 17 日）发布博文，报道称在 Windows 11 Build 26320.10003 预览版中， 微软重点改进了文件管理器中“此电脑”（This PC）文件搜索速度。 在搜索机制方面，新…",
+        "url": "https://www.ithome.com/1/028/776.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Wed, 18 Nov 2026 05:53:58 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-1-1794982136682",
+        "title": "Pulsar 发布 X2 CrazyLight 2 鼠标：延续低矮宽大对称设计，升级 XS-2 传感器",
+        "summary": "IT之家 11 月 18 日消息，Pulsar（派世）今日正式发布了鼠标新品 X2 CrazyLight 2。这一产品延续了前代型号的模具设计， 拥有低矮而宽大的对称式外壳 ， 适配抓握与指握姿势 ，官网国行标价为 849 元。 而在内部，X2 CrazyLight 2 升级至 …",
+        "url": "https://www.ithome.com/1/028/774.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Wed, 18 Nov 2026 05:52:19 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-2-1794982136682",
+        "title": "微软 Win11 测试新提醒：切换本地账号前，先备份 BitLocker 密钥",
+        "summary": "IT之家 11 月 18 日消息，科技媒体 Windows Latest 昨日（11 月 17 日）发布博文，报道称微软正在测试一项 Windows 11 新功能： 当用户从微软账户切换为本地账户后，系统会提醒其备份 BitLocker 恢复密钥，以避免日后因密钥丢失而无法访问加…",
+        "url": "https://www.ithome.com/1/028/764.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Wed, 18 Nov 2026 05:41:42 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-3-1794982136682",
+        "title": "苹果订阅版 Final Cut Pro 加入 MotionVFX，视频特效更省事",
+        "summary": "IT之家 11 月 18 日消息，科技媒体 MacRumors 昨日（11 月 17 日）发布博文， 报道称苹果面向 Apple 创作坊（Apple Creator Studio）用户，升级视频剪辑软件 Final Cut Pro，新增集成 MotionVFX 功能。 IT之家曾…",
+        "url": "https://www.ithome.com/1/028/749.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Wed, 18 Nov 2026 05:29:34 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-4-1794982136682",
+        "title": "人类历史上首次：旅行者 1 号抵达 1 光日位置，还需约 3 万年才能真正飞出太阳系",
+        "summary": "IT之家 11 月 18 日消息，NASA 于 1977 年发射的旅行者 1 号探测器于 2026 年 11 月 18 日正式抵达距离地球 1 光日的位置，成为人类历史上首个达到这一距离的人造物体。 所谓 1 光日，是指光在真空中传播 24 小时所经过的距离，并非时间单位。以光速…",
+        "url": "https://www.ithome.com/1/028/745.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Wed, 18 Nov 2026 05:26:32 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": []
+      },
+      {
+        "id": "ithome-5-1794982136682",
+        "title": "第 69 届格莱美奖提名名单公布：苹果《寡妇湾》《音乐魔法镇！》拿下入场券",
+        "summary": "IT之家 11 月 18 日消息，录音学院（NARAS）于 11 月 16 日公布第 69 届格莱美奖提名名单， 苹果 Apple TV 旗下《音乐魔法镇！》（Schmigadoon!）和《寡妇湾》（Widow's Bay）获得 2027 年格莱美提名。 IT之家注：《音乐魔法镇…",
+        "url": "https://www.ithome.com/1/028/744.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Wed, 18 Nov 2026 05:26:30 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": []
+      },
+      {
+        "id": "ithome-6-1794982136682",
+        "title": "董明珠 APEC 现场求合作，称格力研发机器人十几年了",
+        "summary": "IT之家 11 月 18 日消息，据看看新闻报道，11 月 17 日，2026 年 APEC 工商领导人峰会举行，格力电器董事长董明珠在现场主动寻找 机器人领域的合作机会 。 董明珠表示，具身智能机器人需要减速机、驱动器、伺服电机等核心零部件， 而格力已经研发机器人十几年 ，目前…",
+        "url": "https://www.ithome.com/1/028/713.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Wed, 18 Nov 2026 05:11:00 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "top500",
+          "marketing",
+          "startup"
+        ]
+      },
+      {
+        "id": "ithome-7-1794982136682",
+        "title": "苹果推进 iPhone 双卡新功能：第三方应用可识别工作 / 生活号码",
+        "summary": "IT之家 11 月 18 日消息，科技媒体 MacRumors 昨日（11 月 17 日）发布博文，报道称苹果公司正在推进一项改进， 未来 iPhone 用户有望在第三方通话、联系人应用中更方便地使用“工作号”和“私人号”两张 SIM 卡。 这项改进主要增强 iPhone 应用的…",
+        "url": "https://www.ithome.com/1/028/705.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Wed, 18 Nov 2026 05:02:31 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-8-1794982136682",
+        "title": "比亚迪王传福、美团王兴、小米雷军 APEC 2026 并排就坐，拒绝透露聊天内容",
+        "summary": "IT之家 11 月 18 日消息，2026 年 APEC 工商领导人峰会 11 月 17 日至 18 日在深圳举办。 中国新闻网今日晒出采访视频，比亚迪股份有限公司董事长兼总裁王传福、美团 CEO 王兴、小米创办人兼董事长兼 CEO 雷军并排就坐。 当记者提问三人具体聊了什么内容…",
+        "url": "https://www.ithome.com/1/028/704.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Wed, 18 Nov 2026 04:54:12 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "top500"
+        ]
+      },
+      {
+        "id": "ithome-9-1794982136682",
+        "title": "消息称华为 Mate 90 Air、Nova 17 系列新机年底前发布，MatePad Mini 2 小平板预计也有",
+        "summary": "IT之家 11 月 18 日消息，微博博主 @数码闲聊站 今日透露，除了 Mate X8、星芒 OSTA O1 Pro 外，华为年底前还有 Mate 90 Air、Nova 17 系列新机发布，覆盖大折叠、阔直板、轻薄大屏、轻薄拍照全品类机型。 该博主还表示， 华为平板产品线还有…",
+        "url": "https://www.ithome.com/1/028/703.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Wed, 18 Nov 2026 04:47:17 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "top500",
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-10-1794982136682",
+        "title": "腾讯混元 Hy4 flash 模型官宣开源",
+        "summary": "IT之家 11 月 18 日消息， 腾讯混元今日宣布开源 Hy4 flash 模型 ，包含 Hy4 flash、Hy4 flash-FP8 和 Hy4 flash Base，开发者可在 GitHub、 Hugging Face、ModelScope 和 GitCode 下载部署。…",
+        "url": "https://www.ithome.com/1/028/701.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Wed, 18 Nov 2026 04:36:17 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "aiNews",
+          "top500",
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-11-1794982136682",
+        "title": "波士顿动力人形机器人首次进入半导体制造领域，Atlas 明年在格罗方德工厂测试",
+        "summary": "IT之家 11 月 18 日消息，据外媒 Interesting Engineering 昨天报道，波士顿动力 Atlas 人形机器人即将首次进入半导体制造领域，格罗方德（GlobalFoundries）正准备从 2027 年初开始在旗下工厂测试 Atlas。 IT之家从原报道获…",
+        "url": "https://www.ithome.com/1/028/700.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Wed, 18 Nov 2026 04:32:15 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": []
+      },
+      {
+        "id": "ithome-12-1794982136682",
+        "title": "盖世小鸡 × 地下城与勇士 DNF 官宣合作，将推多款联名键盘、手柄外设",
+        "summary": "IT之家 11 月 18 日消息，盖世小鸡今日宣布与《地下城与勇士》达成 深度联名合作 ，成为 DNF 端游、DNF 手游、DNF 卡赞三大产品线的独家外设合作伙伴，将推联名键盘、拉伸手柄与游戏手柄产品。 IT之家从联名公告获悉，盖世小鸡 ×DNF 端游独家联名键盘，采用铝坨坨质…",
+        "url": "https://www.ithome.com/1/028/699.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Wed, 18 Nov 2026 04:31:26 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-13-1794982136682",
+        "title": "229 元小米智能 4G 摄像机 3 开售：中国电信联通双不限 4G 免费流量，500 万像素 3K 看护 + 双向实时语音",
+        "summary": "IT之家 11 月 18 日消息，小米智能 4G 摄像机 3 今日正式开启抢购，京东显示为 229 元。 京东 小米智能 4G 摄像机 3 AI 灵敏检测 双向实时语音 229 元 直达链接 这款摄像机主打无网室内智能看护能力，内置电信、联通双 SIM 卡，搭载免费 4G 流量且…",
+        "url": "https://www.ithome.com/1/028/698.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Wed, 18 Nov 2026 04:25:02 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "top500"
+        ]
+      },
+      {
+        "id": "ithome-14-1794982136682",
+        "title": "顶刊论文中的实验图片被质疑用 AI 生成，湖南省科技厅同步核查学术不端",
+        "summary": "IT之家 11 月 18 日消息，一篇发表于《Journal of Translational Medicine》的鼻咽癌研究论文昨日引发网友质疑，相关话题一度登上微博热搜。 该论文的实验图片、数据及作者单位信息存在多处不符合常规的错误，例如标尺上的 1 厘米之中竟有 12 个刻…",
+        "url": "https://www.ithome.com/1/028/697.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Wed, 18 Nov 2026 04:16:51 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": []
+      }
+    ],
+    "startup": [
+      {
+        "id": "ithome-6-1794982136682",
+        "title": "董明珠 APEC 现场求合作，称格力研发机器人十几年了",
+        "summary": "IT之家 11 月 18 日消息，据看看新闻报道，11 月 17 日，2026 年 APEC 工商领导人峰会举行，格力电器董事长董明珠在现场主动寻找 机器人领域的合作机会 。 董明珠表示，具身智能机器人需要减速机、驱动器、伺服电机等核心零部件， 而格力已经研发机器人十几年 ，目前…",
+        "url": "https://www.ithome.com/1/028/713.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Wed, 18 Nov 2026 05:11:00 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "top500",
+          "marketing",
+          "startup"
+        ]
+      },
+      {
+        "id": "ifanr-3-1794982137891",
+        "title": "早报｜黄仁勋称愿重返英伟达/李飞飞加入AMD，向苏姿丰直接汇报/红果短剧治理肖像侵权",
+        "summary": "· 英伟达季度营收首次突破千亿美元，数据中心收入增长 110% · TGA 2026 公布提名，《GTA 6》领跑、《影之刃零》角逐年度游戏 · macOS 27.3 收紧 App 文件访问权限 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为…",
+        "url": "https://www.ifanr.com/1689915?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "source": "爱范儿",
+        "sourceId": "ifanr",
+        "publishedAt": "Wed, 18 Nov 2026 00:32:49 +0000",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "aiNews",
+          "startup"
+        ]
+      },
+      {
+        "id": "leiphone-4-1794982139736",
+        "title": "阿里云连续六年香港IaaS第一，企业客户AI渗透率达95%",
+        "summary": "11月17日消息，阿里云在年度香港峰会上推出多项新举措，加速AI在香港各行业落地。目前，阿里云已连续六年位居香港IaaS市场份额第一，市场领先地位进一步巩固。 &nbsp; &nbsp; 随着香港AI需求持续增长，阿里云通过千问大模型、云基础设施及FDE工程服务，推动AI深入各行…",
+        "url": "https://www.leiphone.com/category/industrynews/qyieFYqM3EQhE1Hu.html",
+        "source": "雷锋网",
+        "sourceId": "leiphone",
+        "publishedAt": "Tue, 17 Nov 2026 17:24:00 +0800",
+        "prefer": [
+          "aiNews"
+        ],
+        "tags": [
+          "aiNews",
+          "top500",
+          "startup"
+        ]
+      },
+      {
+        "id": "leiphone-8-1794982139736",
+        "title": "谁来帮助企业走向「智能组织」？",
+        "summary": "上个月，雷峰网拜访过一家创业公司老板，他对我们说，他决定把公司的 AI 开销砍掉近九成。 这个决定非常出乎我们的意料，因为一直以来他都属于“AI 激进派”，属于愿意为 AI 花钱的主。今年5月，他就给员工配备了每月200美元的 Codex，公司的各项 AI 开销加起来，每月大约1…",
+        "url": "https://www.leiphone.com/category/CorporateServices/Hsnbxo0xUgb2FWkB.html",
+        "source": "雷锋网",
+        "sourceId": "leiphone",
+        "publishedAt": "Tue, 17 Nov 2026 16:24:00 +0800",
+        "prefer": [
+          "aiNews"
+        ],
+        "tags": [
+          "startup"
+        ]
+      },
+      {
+        "id": "cyzone-0-1794982140827",
+        "title": "上海金浦工融未来智造私募投资基金登记成立 出资额5亿",
+        "summary": "天眼查App显示，近日，上海金浦工融未来智造私募投资基金合伙企业（有限合伙）成立，执行事务合伙人为工银资本管理有限公司、上海骐瑾企业管理合伙企业（有限合伙），出资额5亿元人民币，经营范围为以私募基金从事股权投资、投资管理、资产管理等活动。合伙人信息显示，该基金由上海国际集团资产管…",
+        "url": "https://www.cyzone.cn/article/854205.html",
+        "source": "创业邦",
+        "sourceId": "cyzone",
+        "publishedAt": "Tue, 17 Nov 2026 03:59:55 GMT",
+        "prefer": [
+          "startup",
+          "industryInvest"
+        ],
+        "tags": [
+          "industryInvest"
+        ]
+      },
+      {
+        "id": "cyzone-1-1794982140827",
+        "title": "今日宜休首个专利公布",
+        "summary": "天眼查知识产权信息显示，近日，今日宜休关联公司北京今日宜休科技有限责任公司申请的首个专利“一种可穿戴设备的控制方法及装置”公布。 摘要显示，本专利公开了一种可穿戴设备的控制方法，该可穿戴设备包括第一传感器和第二传感器，第一传感器用于检测运动数据，第二传感器用于检测佩戴者的生理数据…",
+        "url": "https://www.cyzone.cn/article/854204.html",
+        "source": "创业邦",
+        "sourceId": "cyzone",
+        "publishedAt": "Tue, 17 Nov 2026 03:33:38 GMT",
+        "prefer": [
+          "startup",
+          "industryInvest"
+        ],
+        "tags": []
+      },
+      {
+        "id": "ifanr-7-1794982137891",
+        "title": "12.69 万的「穷人版卫士」，成了中国汽车出海的「老鼠屎」",
+        "summary": "一人犯错，全员受罚。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "url": "https://www.ifanr.com/1689792?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "source": "爱范儿",
+        "sourceId": "ifanr",
+        "publishedAt": "Tue, 17 Nov 2026 03:22:08 +0000",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "startup"
+        ]
+      },
+      {
+        "id": "ifanr-9-1794982137891",
+        "title": "早报｜iPhone Duo新增外屏人脸解锁/曝英伟达董事会无意请回黄仁勋/华为Mate X8定档11月24日",
+        "summary": "· 阿里发布 Qwen4-Max，缓存命中价格低至每百万 Token 0.5 元 · 腾讯混元推出 Hy4 flash，WorkBuddy 限时开放免费使用 · 腾讯公开司庆讲话，要求核心业务团队面向 AI 再创业 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更…",
+        "url": "https://www.ifanr.com/1689760?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "source": "爱范儿",
+        "sourceId": "ifanr",
+        "publishedAt": "Tue, 17 Nov 2026 00:18:50 +0000",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "aiNews",
+          "top500",
+          "marketing",
+          "startup"
+        ]
+      },
+      {
+        "id": "leiphone-13-1794982139736",
+        "title": "当充电像加油一样快，租车自驾的边界被拓宽",
+        "summary": "服务自驾生态，成为租车平台下一个增长点。 作者 |&nbsp; 郑浩钧 编辑 | 王瑞昊 傍晚，济南机场的还车点，一家四口把两个大箱子从后备箱里搬下来，这趟山东租车自驾游算是收尾了。 车该还了，可电量已经不多，还车点旁边就是闪充站，插上充电枪，妈妈带着孩子去便利店买零食，买完回来…",
+        "url": "https://www.leiphone.com/category/industrynews/kfphRdgYwSdN13Nv.html",
+        "source": "雷锋网",
+        "sourceId": "leiphone",
+        "publishedAt": "Mon, 16 Nov 2026 22:17:00 +0800",
+        "prefer": [
+          "aiNews"
+        ],
+        "tags": [
+          "startup"
+        ]
+      },
+      {
+        "id": "leiphone-17-1794982139736",
+        "title": "智算接棒：物理AI的下一个风口，在于计算基础设施",
+        "summary": "物理AI的热度，正从机器人本体向产业链上下游扩散。 过去一年，人形机器人、四足机器狗频繁出现在工厂、仓库和门店。产业界关心的问题正在变化：从“机器人能完成什么动作”转向“如何让它越做越准”。 答案不只在机器人本体，更在其背后的计算系统：数据从哪里来，仿真在哪里运行，模型多久迭代，…",
+        "url": "https://www.leiphone.com/category/chips/yYPDwzuTBbcMSCSx.html",
+        "source": "雷锋网",
+        "sourceId": "leiphone",
+        "publishedAt": "Mon, 16 Nov 2026 16:04:00 +0800",
+        "prefer": [
+          "aiNews"
+        ],
+        "tags": [
+          "startup"
+        ]
+      },
+      {
+        "id": "cyzone-2-1794982140827",
+        "title": "双11收官，店播成增长引擎，直播电商企业超52万家",
+        "summary": "",
+        "url": "https://www.cyzone.cn/article/854060.html",
+        "source": "创业邦",
+        "sourceId": "cyzone",
+        "publishedAt": "Mon, 16 Nov 2026 08:02:41 GMT",
+        "prefer": [
+          "startup",
+          "industryInvest"
+        ],
+        "tags": [
+          "marketing",
+          "startup"
+        ]
+      },
+      {
+        "id": "cyzone-3-1794982140827",
+        "title": "上海大师赛第六次获评年度最佳，承办方当年为办赛约定支付1550万美元会费",
+        "summary": "11月14日，上海劳力士大师赛第六次获球员评为ATP年度最佳大师赛。上海站取得举办权，当年花了多少钱？久事动娱重组时披露的资产评估报告给出了数字：2007年的协议约定，承办方向ATP分期支付合计1550万美元会费，年度许可费另计。 据天眼查显示，签订举办协议的上海久事体育赛事运营…",
+        "url": "https://www.cyzone.cn/article/854059.html",
+        "source": "创业邦",
+        "sourceId": "cyzone",
+        "publishedAt": "Mon, 16 Nov 2026 03:18:32 GMT",
+        "prefer": [
+          "startup",
+          "industryInvest"
+        ],
+        "tags": []
+      },
+      {
+        "id": "cyzone-4-1794982140827",
+        "title": "施艺雄接任片仔癀法定代表人",
+        "summary": "天眼查App显示，近日，漳州片仔癀药业股份有限公司发生工商变更，林志辉卸任法定代表人、董事长，施艺雄接任法定代表人。 该公司成立于1999年12月，注册资本约6.03亿元人民币，经营范围包括药品生产、药品委托生产、食品生产等，由漳州市九龙江集团有限公司、王富济、香港中央结算有限公…",
+        "url": "https://www.cyzone.cn/article/853850.html",
+        "source": "创业邦",
+        "sourceId": "cyzone",
+        "publishedAt": "Fri, 13 Nov 2026 07:24:24 GMT",
+        "prefer": [
+          "startup",
+          "industryInvest"
+        ],
+        "tags": [
+          "industryInvest"
+        ]
+      },
+      {
+        "id": "cyzone-5-1794982140827",
+        "title": "北大医药4名董事同步离任",
+        "summary": "北大医药11月12日公告，董事长兼总裁徐晰人及非独立董事陈岳忠、包铁民、黄联军已提交辞职报告。徐晰人、包铁民、黄联军离任后不再担任公司任何职务，陈岳忠仍在公司任职。公司称，四人辞职不会导致董事会成员低于法定最低人数，并将尽快完成非独立董事补选。 天眼查App显示，北大医药股份有限…",
+        "url": "https://www.cyzone.cn/article/853849.html",
+        "source": "创业邦",
+        "sourceId": "cyzone",
+        "publishedAt": "Fri, 13 Nov 2026 03:38:41 GMT",
+        "prefer": [
+          "startup",
+          "industryInvest"
+        ],
+        "tags": []
+      },
+      {
+        "id": "cyzone-6-1794982140827",
+        "title": "大型无人机首投大促，450公里货物两小时半送达",
+        "summary": "",
+        "url": "https://www.cyzone.cn/article/853743.html",
+        "source": "创业邦",
+        "sourceId": "cyzone",
+        "publishedAt": "Thu, 12 Nov 2026 03:53:40 GMT",
+        "prefer": [
+          "startup",
+          "industryInvest"
+        ],
+        "tags": []
+      }
+    ]
+  },
+  "sources": {
+    "ok": [
+      "IT之家",
+      "爱范儿",
+      "量子位",
+      "少数派",
+      "新浪财经",
+      "新浪科技",
+      "钛媒体",
+      "雷锋网",
+      "创业邦"
+    ],
+    "failed": [
+      "数英网（HTTP 403）",
+      "极客公园（The operation was aborted due to timeout）"
+    ]
+  }
+}
