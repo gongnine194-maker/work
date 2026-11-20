@@ -1,0 +1,1693 @@
+{
+  "app": "智讯工作台",
+  "version": 1,
+  "updatedAt": "2026-11-21T03:39:32.917+08:00",
+  "sections": {
+    "aiNews": [
+      {
+        "id": "ithome-0-1795203568035",
+        "title": "网传零跑 A10 后备箱被几箱啤酒压穿？官方回应系下层独立储物盒受损，非底板或整车承载结构损坏",
+        "summary": "IT之家 11 月 21 日消息，有零跑 A10 车主用户近日发布视频，反馈自己车辆的后备箱在装了几箱啤酒后被压穿底。随后，该事件引发网友热议。 IT之家注意到，针对网传情况，零跑汽车官方在昨晚 23:05 发布情况说明： 关于零跑 A10 后备厢储物盒的情况说明 近日，我们关注…",
+        "url": "https://www.ithome.com/1/030/283.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Fri, 20 Nov 2026 18:57:05 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-1-1795203568035",
+        "title": "华为星芒刘赫：OSTA O1 Pro 最受欢迎的 16G 版本已在全平台售罄，远超预期",
+        "summary": "IT之家 11 月 21 日消息，首款为 AI 而生的鸿蒙手机 —— 华为星芒 OSTA O1 Pro 已于昨日下午正式发布 ， 首发价 5499 元起、叠加国补后 4999 元起 。 ▲ IT之家开箱：华为全新子品牌星芒 OSTA O1 Pro 手机实拍 IT之家注意到，华为星…",
+        "url": "https://www.ithome.com/1/030/282.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Fri, 20 Nov 2026 18:43:53 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "top500",
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-2-1795203568035",
+        "title": "QQ 鸿蒙版 App 获 9.2.90 邀测升级：新增支持互动标识、表情搜索等功能",
+        "summary": "IT之家 11 月 21 日消息，QQ 鸿蒙版 App 昨日在华为应用市场（App Gallery）开启 9.2.90 (3680) 版本邀测升级（需收到短信通知后点击链接跳转安装），测试时间为 2026/11/20-2026/12/11。 IT之家附 QQ 鸿蒙版 App 本次…",
+        "url": "https://www.ithome.com/1/030/279.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Fri, 20 Nov 2026 16:00:13 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "top500"
+        ]
+      },
+      {
+        "id": "ithome-3-1795203568035",
+        "title": "AI 攻克黎曼猜想？Anthropic 数学家宣称已与 Claude 合作完成证明",
+        "summary": "IT之家 11 月 20 日消息，据《科学美国人》报道，当地时间 20 日，Anthropic 数学家莱文特 · 阿尔波格宣称，自己与 AI 模型 Claude 合作，攻克了数学界最著名的难题之一 —— 黎曼猜想。 阿尔波格在个人网站发表声明称：“我相信， 我与 Claude 合…",
+        "url": "https://www.ithome.com/1/030/278.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Fri, 20 Nov 2026 15:37:46 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "aiNews",
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-4-1795203568035",
+        "title": "明基 AK900ST AI 高尔夫投影机发售：6000lm 亮度、短焦镜头设计，52999 元",
+        "summary": "IT之家 11 月 20 日消息，明基旗下 AK900ST“AI 高尔夫投影机”现已在京东发售，该产品专为高尔夫模拟及多场景娱乐打造，定价为 52999 元。 京东 明基（BenQ）AK900ST AI 高尔夫专业模拟投影仪 激光投影（4K 超清 AI 画质臻彩引擎 6000 流…",
+        "url": "https://www.ithome.com/1/030/277.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Fri, 20 Nov 2026 15:37:26 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "top500"
+        ]
+      },
+      {
+        "id": "ithome-5-1795203568035",
+        "title": "在欧洲已拿下 12 国，特斯拉辅助驾驶系统获意大利运行许可",
+        "summary": "特斯拉辅助驾驶系统（TAD）获得意大利运行许可，成为继此前 11 个欧盟国家之后，又一个获准使用该系统的市场。 当地时间 11 月 20 日，意大利交通部向特斯拉辅助驾驶系统颁发临时型式认证。交通部长马泰奥 · 萨尔维尼在 X 上宣布这一消息，称此举是朝着创新、科技和未来出行迈出…",
+        "url": "https://www.ithome.com/1/030/276.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Fri, 20 Nov 2026 15:29:43 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": []
+      },
+      {
+        "id": "ithome-6-1795203568035",
+        "title": "约翰斯 · 霍普金斯大学新研究：美国最早明年就可能面临电网设备短缺",
+        "summary": "IT之家 11 月 20 日消息，据《财富》杂志今日报道，过去一周，美国接连发生多起技术故障，导致航班停飞、银行交易延误，数百万人无法正常使用电子邮件，暴露出美国基础设施的脆弱性。 美国电网同样存在短板，问题出在 铜和钢等材料的供应上 。 约翰斯 · 霍普金斯大学近日在《Cell…",
+        "url": "https://www.ithome.com/1/030/275.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Fri, 20 Nov 2026 15:22:11 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": []
+      },
+      {
+        "id": "ithome-7-1795203568035",
+        "title": "伦敦交通局遭网络攻击，26.5 万名“牡蛎”交通卡用户数据泄露",
+        "summary": "IT之家 11 月 20 日消息，据外媒 Neowin 今天（20 日）晚间报道，伦敦交通局（TfL）证实，黑客入侵导致 26.5 万名 Oyster（牡蛎）照片卡用户的敏感信息泄露。 ▲ 图源英国政府网站 Oyster 照片卡是 伦敦公共交通系统使用的一种实名交通卡 ，符合条件…",
+        "url": "https://www.ithome.com/1/030/274.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Fri, 20 Nov 2026 15:06:42 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": []
+      },
+      {
+        "id": "ithome-8-1795203568035",
+        "title": "内存成本涨幅前所未有，Valve 坦承 Steam Machine 未来售价“无法得知”",
+        "summary": "IT之家 11 月 20 日消息，AI 热潮引发的内存危机波及几乎所有消费电子产品，Steam Machine 也未能幸免。 由于需求旺盛，Valve 直到近期才完成 512GB 版的全部预订订单。目前该版本尚有少量现货，消费者可以直接下单，无需继续排队。 好消息之外还有坏消息。…",
+        "url": "https://www.ithome.com/1/030/273.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Fri, 20 Nov 2026 14:46:40 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": []
+      },
+      {
+        "id": "ithome-9-1795203568035",
+        "title": "德国首家，奔驰获批在“老家”开展点到点辅助驾驶",
+        "summary": "IT之家 11 月 20 日消息，梅赛德斯-奔驰今天（20 日）宣布，成为德国首家获得 点到点辅助驾驶 监管许可的车企，为高级自动驾驶技术在公共道路上的应用取得重要突破。 这是德国首次依据联合国高级驾驶辅助系统新规颁发此类许可 。 各大车企也在竞相拓展自动驾驶功能的使用场景，突破…",
+        "url": "https://www.ithome.com/1/030/249.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Fri, 20 Nov 2026 14:30:37 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": []
+      },
+      {
+        "id": "ithome-10-1795203568035",
+        "title": "三星电子高管：Neocloud 风险有限，AI 投资基于实际需求",
+        "summary": "IT之家 11 月 20 日消息，据路透社当地时间 18 日报道，三星电子两位高管在本周举行的摩根士丹利会议上表示 Neocloud（新兴 AI 云服务企业）面临的不确定性对整体市场的影响有限，这轮 AI 投资基于实际需求而非投机。 三星 DS（设备解决方案，半导体板块）部门经营…",
+        "url": "https://www.ithome.com/1/030/247.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Fri, 20 Nov 2026 14:09:40 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": []
+      },
+      {
+        "id": "tmtpost-0-1795203570544",
+        "title": "福特股票看起来很便宜，其刚获上调至“买入”的评级",
+        "summary": "尽管下调了目标价，DZ Bank 仍上调了对这家汽车制造商的评级。华尔街预计福特在 2027 年的营业利润将保持稳定。",
+        "url": "https://www.tmtpost.com/8213224.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Fri, 20 Nov 2026 22:08:09 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": []
+      },
+      {
+        "id": "leiphone-0-1795203570405",
+        "title": "上汽通用发布真龙插混MAX，首搭别克至境世家",
+        "summary": "2026年11月20日，上汽通用汽车发布全新一代插混技术——真龙插混MAX，将首搭别克MPV全新至境世家，并于11月27日广州车展对公众亮相。这套系统由2.0T混动专用发动机、800V高压平台与支持6C充电的插混专用电池组成。 据介绍，真龙插混MAX，基于插电混动独有的物理架构优…",
+        "url": "https://www.leiphone.com/category/industrynews/SiETkjl6gqYBSCz4.html",
+        "source": "雷锋网",
+        "sourceId": "leiphone",
+        "publishedAt": "Fri, 20 Nov 2026 22:07:00 +0800",
+        "prefer": [
+          "aiNews"
+        ],
+        "tags": [
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-11-1795203568035",
+        "title": "Anthropic 上市次日股价下跌 9%，AI 板块雪上加霜",
+        "summary": "IT之家 11 月 20 日消息，据路透社报道，当地时间 20 日，Anthropic 上市次日股价下跌，令低迷的 AI 板块雪上加霜。这场备受期待的 IPO，也没能重新点燃投资者的热情。 作为 AI 投资热潮的重要风向标，Anthropic 上市曾被寄予厚望，市场期待借此提振经…",
+        "url": "https://www.ithome.com/1/030/246.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Fri, 20 Nov 2026 14:05:13 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "industryInvest",
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-12-1795203568035",
+        "title": "比亚迪腾势汽车李慧：易三方 Evo 是全球独一无二的硬核技术平台，友商追赶了易三方超过三年也没追上",
+        "summary": "IT之家 11 月 20 日消息，博主 @向北不断电 今日发文，称腾势 N8 的优势依然明显，也是市面上为数不多闭眼买的车型，并提到易三方 Evo 独一档强大。 腾势汽车总经理李慧随后转发，并表示 易三方 Evo 是全球独一无二的硬核技术平台，目前任何一个汽车品牌都没有，友商追赶…",
+        "url": "https://www.ithome.com/1/030/244.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Fri, 20 Nov 2026 13:48:56 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "top500",
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-13-1795203568035",
+        "title": "三星电子非半导体板块内存平均采购价今年前九个月同比暴涨 263%",
+        "summary": "IT之家 11 月 20 日消息，据韩联社当地时间 18 日报道，根据三星电子同日发布的详细三季报，该企业负责非半导体板块的 DX（设备体验）部门 今年 1~9 月的内存平均采购价格同比暴涨 263% 。 而在相同时间内，DX 部门的移动应用处理器平均采购价格上涨了 8%， 旗下…",
+        "url": "https://www.ithome.com/1/030/243.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Fri, 20 Nov 2026 13:47:56 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-14-1795203568035",
+        "title": "我国成功发射卫星互联网低轨 30 组卫星",
+        "summary": "IT之家 11 月 20 日消息，今天（20 日）19 时 59 分，我国在海南商业航天发射场使用长征八号甲运载火箭，成功将卫星互联网低轨 30 组卫星发射升空，卫星顺利进入预定轨道，发射任务获得圆满成功。 据IT之家了解，11 月 9 日 4 时 24 分，长征十二号运载火箭在…",
+        "url": "https://www.ithome.com/1/030/242.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Fri, 20 Nov 2026 13:46:45 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": []
+      },
+      {
+        "id": "ithome-15-1795203568035",
+        "title": "加州禁令引发连锁反应，Waymo 暂停全美 Robotaxi 高速公路服务",
+        "summary": "IT之家 11 月 20 日消息，当地时间 18 日，据英国《卫报》报道，Alphabet 旗下的 Waymo 在美国全面暂停了无人驾驶出租车的高速公路服务，恢复时间未定。此前，加州因 Waymo 车辆近期发生的交通事件，禁止其在州内高速公路行驶，Waymo 随后将暂停范围扩大至…",
+        "url": "https://www.ithome.com/1/030/241.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Fri, 20 Nov 2026 13:34:23 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": []
+      },
+      {
+        "id": "tmtpost-1-1795203570544",
+        "title": "新三板摘牌8天、连亏、负债率77%，康居人六成股权作价近亿并入可孚医疗丨并购一线",
+        "summary": "拉长周期看，行业天花板是更根本的约束。",
+        "url": "https://www.tmtpost.com/8213168.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Fri, 20 Nov 2026 21:31:09 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": [
+          "industryInvest"
+        ]
+      },
+      {
+        "id": "ithome-16-1795203568035",
+        "title": "《堡垒之夜》致敬《GTA 4》，重现主角 Niko 表哥 Roman“名台词”",
+        "summary": "IT之家 11 月 20 日消息，据 IGN 今天（20 日）晚间报道，《堡垒之夜》新增了一系列致敬《GTA 4》的隐藏任务，连游戏中的主要角色 Roman Bellic 那句经典的“ 表弟！咱们出去玩吧！ ”也被做成了彩蛋。 11 月 19 日《GTA 6》正式发售当天，Epi…",
+        "url": "https://www.ithome.com/1/030/240.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Fri, 20 Nov 2026 13:13:06 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": []
+      }
+    ],
+    "industryInvest": [
+      {
+        "id": "tmtpost-0-1795203570544",
+        "title": "福特股票看起来很便宜，其刚获上调至“买入”的评级",
+        "summary": "尽管下调了目标价，DZ Bank 仍上调了对这家汽车制造商的评级。华尔街预计福特在 2027 年的营业利润将保持稳定。",
+        "url": "https://www.tmtpost.com/8213224.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Fri, 20 Nov 2026 22:08:09 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": []
+      },
+      {
+        "id": "ithome-11-1795203568035",
+        "title": "Anthropic 上市次日股价下跌 9%，AI 板块雪上加霜",
+        "summary": "IT之家 11 月 20 日消息，据路透社报道，当地时间 20 日，Anthropic 上市次日股价下跌，令低迷的 AI 板块雪上加霜。这场备受期待的 IPO，也没能重新点燃投资者的热情。 作为 AI 投资热潮的重要风向标，Anthropic 上市曾被寄予厚望，市场期待借此提振经…",
+        "url": "https://www.ithome.com/1/030/246.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Fri, 20 Nov 2026 14:05:13 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "industryInvest",
+          "marketing"
+        ]
+      },
+      {
+        "id": "tmtpost-1-1795203570544",
+        "title": "新三板摘牌8天、连亏、负债率77%，康居人六成股权作价近亿并入可孚医疗丨并购一线",
+        "summary": "拉长周期看，行业天花板是更根本的约束。",
+        "url": "https://www.tmtpost.com/8213168.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Fri, 20 Nov 2026 21:31:09 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": [
+          "industryInvest"
+        ]
+      },
+      {
+        "id": "ithome-19-1795203568035",
+        "title": "长城欧拉 ORA 7 官宣 11 月 23 日上市，提供轿跑版和旅行版两种形态",
+        "summary": "IT之家 11 月 20 日消息，长城旗下欧拉汽车今日宣布，长城 ORA7 &amp; 长城 ORA7 旅行版将于 11 月 23 日在保定上市。 欧拉 7 提供旅行版、轿跑版两种车身形态。尺寸参数方面，欧拉 7 旅行版长宽高为 4820mm×1862mm×1520mm，轿跑版长…",
+        "url": "https://www.ithome.com/1/030/237.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Fri, 20 Nov 2026 12:54:12 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "industryInvest",
+          "marketing"
+        ]
+      },
+      {
+        "id": "tmtpost-2-1795203570544",
+        "title": "迪桑特于松花湖开启「逐雪而生」大秀；上海FILA HOUSE正式启幕；九牧全球首发可持续生态马桶｜消研所周报",
+        "summary": "狼爪欧洲首家新形象旗舰店落地慕尼黑；沃尔玛中国Q3净销售额增长28.5%。",
+        "url": "https://www.tmtpost.com/8213047.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Fri, 20 Nov 2026 19:38:43 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": [
+          "marketing",
+          "startup"
+        ]
+      },
+      {
+        "id": "tmtpost-3-1795203570544",
+        "title": "最后一周！「2026年度全球化公司榜」自荐通道即将关闭",
+        "summary": "钛媒体集团启动EDGE AWARDS 创新评选「年度全球化公司榜」，寻找并表彰那些开拓全球市场、推动技术创新、建立长期竞争优势的优秀企业。",
+        "url": "https://www.tmtpost.com/8213079.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Fri, 20 Nov 2026 18:59:23 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": []
+      },
+      {
+        "id": "tmtpost-4-1795203570544",
+        "title": "小鹏预计全年海外销量破10万辆；涂鸦智能AI Energy方案在欧洲多国部署；美团索降无人机迪拜首秀｜一周大公司出海动态",
+        "summary": "一文看完本周大公司出海全全球化动态。",
+        "url": "https://www.tmtpost.com/8213045.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Fri, 20 Nov 2026 18:58:48 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": [
+          "top500",
+          "startup"
+        ]
+      },
+      {
+        "id": "tmtpost-5-1795203570544",
+        "title": "阿里发布2027年Q2财报：阿里云AI收入增长53%，即时零售减亏",
+        "summary": "AI相关产品收入已经连续第十三个季度保持三位数同比增长，互联网、汽车、具身智能、金融、生物科技等行业客户持续扩容算力采购需求。",
+        "url": "https://www.tmtpost.com/8212798.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Fri, 20 Nov 2026 18:31:54 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": [
+          "aiNews",
+          "top500",
+          "marketing",
+          "startup"
+        ]
+      },
+      {
+        "id": "tmtpost-6-1795203570544",
+        "title": "沃尔玛Q3财报：中国电商渗透率首破五成",
+        "summary": "沃尔玛Q3财报：中国电商渗透率首破五成",
+        "url": "https://www.tmtpost.com/8212919.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Fri, 20 Nov 2026 18:31:26 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": []
+      },
+      {
+        "id": "tmtpost-7-1795203570544",
+        "title": "托举WorkBuddy登顶，腾讯AI高光藏软肋",
+        "summary": "WorkBuddy已登顶，腾讯AI待翻身。",
+        "url": "https://www.tmtpost.com/8212605.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Fri, 20 Nov 2026 18:31:14 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": [
+          "top500"
+        ]
+      },
+      {
+        "id": "tmtpost-8-1795203570544",
+        "title": "贵航股份抛5.5亿定增扩产：控股股东拟斥不超1亿认购，高增业绩下的扩张成色几何",
+        "summary": "三季度扣非净利增近 250%，汽车新能源化与航空技术改造同步押注。",
+        "url": "https://www.tmtpost.com/8212908.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Fri, 20 Nov 2026 18:29:24 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": []
+      },
+      {
+        "id": "tmtpost-9-1795203570544",
+        "title": "“物理AI第一股”冲刺A股：左手英伟达，右手摩尔线程",
+        "summary": "五一视界启动A股IPO辅导。",
+        "url": "https://www.tmtpost.com/8212915.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Fri, 20 Nov 2026 18:23:58 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": [
+          "aiNews",
+          "industryInvest"
+        ]
+      },
+      {
+        "id": "tmtpost-10-1795203570544",
+        "title": "2715亿营收、344亿现金流出：阿里的利润拐点与“未完成”的账单",
+        "summary": "14.5%的利润率证明投入方向对了，但344亿的现金流出证明代价还没走完——拐点不是一个季度，而是一条要用现金流与ROIC连续验证的曲线。",
+        "url": "https://www.tmtpost.com/8211484.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Fri, 20 Nov 2026 18:23:51 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": [
+          "top500"
+        ]
+      },
+      {
+        "id": "tmtpost-11-1795203570544",
+        "title": "默沙东折戟，BTK抑制剂“第三次浪潮”汹涌",
+        "summary": "每一轮浪潮，都是前一轮成功所制造出的新问题的产物。",
+        "url": "https://www.tmtpost.com/8212799.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Fri, 20 Nov 2026 18:23:42 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": []
+      },
+      {
+        "id": "tmtpost-12-1795203570544",
+        "title": "“DeepSeek们”都在退场：限额并非免费AI的终结？",
+        "summary": "无限量免费AI撑不住了。",
+        "url": "https://www.tmtpost.com/8212818.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Fri, 20 Nov 2026 18:23:37 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": [
+          "aiNews"
+        ]
+      },
+      {
+        "id": "tmtpost-13-1795203570544",
+        "title": "Falling Prices Push AI Video Toward Platform Economics",
+        "summary": "Video-model quality is converging as per-second API prices decline. OpenAI discontinued Sora after sustained losses. Google, ByteDance, and …",
+        "url": "https://www.tmtpost.com/8212911.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Fri, 20 Nov 2026 17:54:05 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": [
+          "aiNews"
+        ]
+      },
+      {
+        "id": "tmtpost-14-1795203570544",
+        "title": "抖音生活悄悄上万亿",
+        "summary": "字节跳动抖音生活服务换帅，莫少君接任总裁，推动其向万亿级交易规模迈进，强化内容与线下商业的结合。",
+        "url": "https://www.tmtpost.com/8211611.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Fri, 20 Nov 2026 17:23:08 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": [
+          "top500"
+        ]
+      },
+      {
+        "id": "tmtpost-15-1795203570544",
+        "title": "Waymo被迫退出高速公路，无人驾驶的商业化开始碰到监管天花板",
+        "summary": "自动驾驶行业一直在回答一个问题：机器能不能像人一样开车？但当Robotaxi真正走向商业化，问题开始变得复杂。",
+        "url": "https://www.tmtpost.com/8211917.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Fri, 20 Nov 2026 17:22:50 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": []
+      },
+      {
+        "id": "tmtpost-16-1795203570544",
+        "title": "Anthropic正式登陆纳斯达克：敲钟那天，账已经在另一张纸上？",
+        "summary": "这场上市真正的赢家不在敲钟的那几个人里，在那七家收着算力钱又拿着股票的公司身上，它们把未来十五年的订单提前折成了今天的股权。",
+        "url": "https://www.tmtpost.com/8212716.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Fri, 20 Nov 2026 17:22:47 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": [
+          "aiNews",
+          "industryInvest",
+          "marketing"
+        ]
+      },
+      {
+        "id": "tmtpost-17-1795203570544",
+        "title": "AI这一年，倒下的APP们",
+        "summary": "一年之内，上千个AI应用为何接连退场？",
+        "url": "https://www.tmtpost.com/8212771.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Fri, 20 Nov 2026 17:22:43 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": []
+      }
+    ],
+    "top500": [
+      {
+        "id": "ithome-1-1795203568035",
+        "title": "华为星芒刘赫：OSTA O1 Pro 最受欢迎的 16G 版本已在全平台售罄，远超预期",
+        "summary": "IT之家 11 月 21 日消息，首款为 AI 而生的鸿蒙手机 —— 华为星芒 OSTA O1 Pro 已于昨日下午正式发布 ， 首发价 5499 元起、叠加国补后 4999 元起 。 ▲ IT之家开箱：华为全新子品牌星芒 OSTA O1 Pro 手机实拍 IT之家注意到，华为星…",
+        "url": "https://www.ithome.com/1/030/282.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Fri, 20 Nov 2026 18:43:53 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "top500",
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-2-1795203568035",
+        "title": "QQ 鸿蒙版 App 获 9.2.90 邀测升级：新增支持互动标识、表情搜索等功能",
+        "summary": "IT之家 11 月 21 日消息，QQ 鸿蒙版 App 昨日在华为应用市场（App Gallery）开启 9.2.90 (3680) 版本邀测升级（需收到短信通知后点击链接跳转安装），测试时间为 2026/11/20-2026/12/11。 IT之家附 QQ 鸿蒙版 App 本次…",
+        "url": "https://www.ithome.com/1/030/279.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Fri, 20 Nov 2026 16:00:13 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "top500"
+        ]
+      },
+      {
+        "id": "ithome-4-1795203568035",
+        "title": "明基 AK900ST AI 高尔夫投影机发售：6000lm 亮度、短焦镜头设计，52999 元",
+        "summary": "IT之家 11 月 20 日消息，明基旗下 AK900ST“AI 高尔夫投影机”现已在京东发售，该产品专为高尔夫模拟及多场景娱乐打造，定价为 52999 元。 京东 明基（BenQ）AK900ST AI 高尔夫专业模拟投影仪 激光投影（4K 超清 AI 画质臻彩引擎 6000 流…",
+        "url": "https://www.ithome.com/1/030/277.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Fri, 20 Nov 2026 15:37:26 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "top500"
+        ]
+      },
+      {
+        "id": "ithome-12-1795203568035",
+        "title": "比亚迪腾势汽车李慧：易三方 Evo 是全球独一无二的硬核技术平台，友商追赶了易三方超过三年也没追上",
+        "summary": "IT之家 11 月 20 日消息，博主 @向北不断电 今日发文，称腾势 N8 的优势依然明显，也是市面上为数不多闭眼买的车型，并提到易三方 Evo 独一档强大。 腾势汽车总经理李慧随后转发，并表示 易三方 Evo 是全球独一无二的硬核技术平台，目前任何一个汽车品牌都没有，友商追赶…",
+        "url": "https://www.ithome.com/1/030/244.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Fri, 20 Nov 2026 13:48:56 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "top500",
+          "marketing"
+        ]
+      },
+      {
+        "id": "tmtpost-4-1795203570544",
+        "title": "小鹏预计全年海外销量破10万辆；涂鸦智能AI Energy方案在欧洲多国部署；美团索降无人机迪拜首秀｜一周大公司出海动态",
+        "summary": "一文看完本周大公司出海全全球化动态。",
+        "url": "https://www.tmtpost.com/8213045.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Fri, 20 Nov 2026 18:58:48 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": [
+          "top500",
+          "startup"
+        ]
+      },
+      {
+        "id": "ifanr-0-1795203569364",
+        "title": "理想造了一颗登上台积电讲台的芯片，却希望你在开车时彻底忘掉它",
+        "summary": "最好的智驾芯片，是让你彻底忘掉它。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "url": "https://www.ifanr.com/1690596?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "source": "爱范儿",
+        "sourceId": "ifanr",
+        "publishedAt": "Fri, 20 Nov 2026 10:39:47 +0000",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "top500"
+        ]
+      },
+      {
+        "id": "tmtpost-5-1795203570544",
+        "title": "阿里发布2027年Q2财报：阿里云AI收入增长53%，即时零售减亏",
+        "summary": "AI相关产品收入已经连续第十三个季度保持三位数同比增长，互联网、汽车、具身智能、金融、生物科技等行业客户持续扩容算力采购需求。",
+        "url": "https://www.tmtpost.com/8212798.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Fri, 20 Nov 2026 18:31:54 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": [
+          "aiNews",
+          "top500",
+          "marketing",
+          "startup"
+        ]
+      },
+      {
+        "id": "tmtpost-7-1795203570544",
+        "title": "托举WorkBuddy登顶，腾讯AI高光藏软肋",
+        "summary": "WorkBuddy已登顶，腾讯AI待翻身。",
+        "url": "https://www.tmtpost.com/8212605.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Fri, 20 Nov 2026 18:31:14 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": [
+          "top500"
+        ]
+      },
+      {
+        "id": "tmtpost-10-1795203570544",
+        "title": "2715亿营收、344亿现金流出：阿里的利润拐点与“未完成”的账单",
+        "summary": "14.5%的利润率证明投入方向对了，但344亿的现金流出证明代价还没走完——拐点不是一个季度，而是一条要用现金流与ROIC连续验证的曲线。",
+        "url": "https://www.tmtpost.com/8211484.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Fri, 20 Nov 2026 18:23:51 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": [
+          "top500"
+        ]
+      },
+      {
+        "id": "tmtpost-14-1795203570544",
+        "title": "抖音生活悄悄上万亿",
+        "summary": "字节跳动抖音生活服务换帅，莫少君接任总裁，推动其向万亿级交易规模迈进，强化内容与线下商业的结合。",
+        "url": "https://www.tmtpost.com/8211611.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Fri, 20 Nov 2026 17:23:08 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": [
+          "top500"
+        ]
+      },
+      {
+        "id": "ifanr-1-1795203569364",
+        "title": "首款鸿蒙 AI 手机发布：华为全新子品牌 OSTA 星芒有一个「增援未来计划」",
+        "summary": "在手机里打开了一个关于 AI 的「平行宇宙」 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "url": "https://www.ifanr.com/1690642?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "source": "爱范儿",
+        "sourceId": "ifanr",
+        "publishedAt": "Fri, 20 Nov 2026 09:17:05 +0000",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "top500",
+          "marketing"
+        ]
+      },
+      {
+        "id": "leiphone-8-1795203570405",
+        "title": "CoCreate伦敦峰会揭开跨境B2B电商新机遇：阿里国际站欧洲订单三年增长70%",
+        "summary": "11月19日，阿里国际站CoCreate峰会在英国伦敦举行，超过5000名欧洲中小企业主风雨无阻地奔赴这场AI跨境采购盛会。如此热情的背后，是跨境B2B电商正在迎来新的增长机遇。 &nbsp; 阿里国际站欧美买家业务副总裁郭威廷在现场透露了几个关键数字：三年来，阿里国际站欧洲订单…",
+        "url": "https://www.leiphone.com/category/industrynews/eqi19Azefys58IT4.html",
+        "source": "雷锋网",
+        "sourceId": "leiphone",
+        "publishedAt": "Fri, 20 Nov 2026 16:35:00 +0800",
+        "prefer": [
+          "aiNews"
+        ],
+        "tags": [
+          "top500",
+          "startup"
+        ]
+      },
+      {
+        "id": "qbitai-0-1795203569065",
+        "title": "昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来",
+        "summary": "国产算力的成熟，把具身竞争维度从「芯片有多强」，拉入了一个比拼训练效率、数据规模、部署成本和场景落地速度的多维战场。",
+        "url": "https://www.qbitai.com/2026/11/511610.html",
+        "source": "量子位",
+        "sourceId": "qbitai",
+        "publishedAt": "Fri, 20 Nov 2026 08:04:58 +0000",
+        "prefer": [
+          "aiNews"
+        ],
+        "tags": [
+          "aiNews",
+          "top500"
+        ]
+      },
+      {
+        "id": "leiphone-9-1795203570405",
+        "title": "方程豹钛9上市：27.99万元起，折叠方向盘首次上车",
+        "summary": "11月19日，方程豹钛9正式上市，售价27.99万元起，置换价27.39万元起。作为比亚迪2026年收官车型，钛9首搭折叠智舱及DMS超级混动全能平台，进一步进入大型六座SUV市场。 雷峰网了解到，折叠智舱搭载于钛9顶配版本，将折叠方向盘、躺平座椅、线控数字底盘与智慧生态结合。与…",
+        "url": "https://www.leiphone.com/category/transportation/Okzc1pyWcptuTh5J.html",
+        "source": "雷锋网",
+        "sourceId": "leiphone",
+        "publishedAt": "Fri, 20 Nov 2026 15:49:00 +0800",
+        "prefer": [
+          "aiNews"
+        ],
+        "tags": [
+          "industryInvest",
+          "top500",
+          "marketing"
+        ]
+      },
+      {
+        "id": "leiphone-11-1795203570405",
+        "title": "灵光开放生态再扩容：新增企业微信、腾讯文档等7项连接能力，累计支持54项外部服务",
+        "summary": "近日，蚂蚁集团旗下AI助手灵光宣布开放生态再度扩容，新增企业微信、腾讯文档、腾讯会议、飞常准等7项外部连接能力。至此，灵光支持的外部服务及连接能力已从47项增加至54项，进一步拓展AI助手在个人生活、办公协作、差旅出行等场景中的服务边界。 此次新增能力进一步覆盖用户日常高频需求。…",
+        "url": "https://www.leiphone.com/category/industrynews/walzAUin5QxPaCOQ.html",
+        "source": "雷锋网",
+        "sourceId": "leiphone",
+        "publishedAt": "Fri, 20 Nov 2026 15:43:00 +0800",
+        "prefer": [
+          "aiNews"
+        ],
+        "tags": [
+          "top500"
+        ]
+      }
+    ],
+    "newProducts": [
+      {
+        "id": "ithome-0-1795203568035",
+        "title": "网传零跑 A10 后备箱被几箱啤酒压穿？官方回应系下层独立储物盒受损，非底板或整车承载结构损坏",
+        "summary": "IT之家 11 月 21 日消息，有零跑 A10 车主用户近日发布视频，反馈自己车辆的后备箱在装了几箱啤酒后被压穿底。随后，该事件引发网友热议。 IT之家注意到，针对网传情况，零跑汽车官方在昨晚 23:05 发布情况说明： 关于零跑 A10 后备厢储物盒的情况说明 近日，我们关注…",
+        "url": "https://www.ithome.com/1/030/283.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Fri, 20 Nov 2026 18:57:05 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-1-1795203568035",
+        "title": "华为星芒刘赫：OSTA O1 Pro 最受欢迎的 16G 版本已在全平台售罄，远超预期",
+        "summary": "IT之家 11 月 21 日消息，首款为 AI 而生的鸿蒙手机 —— 华为星芒 OSTA O1 Pro 已于昨日下午正式发布 ， 首发价 5499 元起、叠加国补后 4999 元起 。 ▲ IT之家开箱：华为全新子品牌星芒 OSTA O1 Pro 手机实拍 IT之家注意到，华为星…",
+        "url": "https://www.ithome.com/1/030/282.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Fri, 20 Nov 2026 18:43:53 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "top500",
+          "marketing"
+        ]
+      },
+      {
+        "id": "leiphone-0-1795203570405",
+        "title": "上汽通用发布真龙插混MAX，首搭别克至境世家",
+        "summary": "2026年11月20日，上汽通用汽车发布全新一代插混技术——真龙插混MAX，将首搭别克MPV全新至境世家，并于11月27日广州车展对公众亮相。这套系统由2.0T混动专用发动机、800V高压平台与支持6C充电的插混专用电池组成。 据介绍，真龙插混MAX，基于插电混动独有的物理架构优…",
+        "url": "https://www.leiphone.com/category/industrynews/SiETkjl6gqYBSCz4.html",
+        "source": "雷锋网",
+        "sourceId": "leiphone",
+        "publishedAt": "Fri, 20 Nov 2026 22:07:00 +0800",
+        "prefer": [
+          "aiNews"
+        ],
+        "tags": [
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-11-1795203568035",
+        "title": "Anthropic 上市次日股价下跌 9%，AI 板块雪上加霜",
+        "summary": "IT之家 11 月 20 日消息，据路透社报道，当地时间 20 日，Anthropic 上市次日股价下跌，令低迷的 AI 板块雪上加霜。这场备受期待的 IPO，也没能重新点燃投资者的热情。 作为 AI 投资热潮的重要风向标，Anthropic 上市曾被寄予厚望，市场期待借此提振经…",
+        "url": "https://www.ithome.com/1/030/246.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Fri, 20 Nov 2026 14:05:13 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "industryInvest",
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-13-1795203568035",
+        "title": "三星电子非半导体板块内存平均采购价今年前九个月同比暴涨 263%",
+        "summary": "IT之家 11 月 20 日消息，据韩联社当地时间 18 日报道，根据三星电子同日发布的详细三季报，该企业负责非半导体板块的 DX（设备体验）部门 今年 1~9 月的内存平均采购价格同比暴涨 263% 。 而在相同时间内，DX 部门的移动应用处理器平均采购价格上涨了 8%， 旗下…",
+        "url": "https://www.ithome.com/1/030/243.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Fri, 20 Nov 2026 13:47:56 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-18-1795203568035",
+        "title": "Take-Two 前 CEO 费德：《GTA 6》将是 AI 时代前夜最后的“传统”3A 大作",
+        "summary": "IT之家 11 月 20 日消息，Take-Two 前 CEO 本 · 费德认为，《GTA 6》将成为 AI 时代全面到来前 最后一部采用传统开发模式打造的 3A 大作 ，游戏行业也将由此告别一个时代。 费德在《财富》杂志撰文称：“《GTA 6》的发布将成为一场文化盛事，带来史诗…",
+        "url": "https://www.ithome.com/1/030/238.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Fri, 20 Nov 2026 13:01:44 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-19-1795203568035",
+        "title": "长城欧拉 ORA 7 官宣 11 月 23 日上市，提供轿跑版和旅行版两种形态",
+        "summary": "IT之家 11 月 20 日消息，长城旗下欧拉汽车今日宣布，长城 ORA7 &amp; 长城 ORA7 旅行版将于 11 月 23 日在保定上市。 欧拉 7 提供旅行版、轿跑版两种车身形态。尺寸参数方面，欧拉 7 旅行版长宽高为 4820mm×1862mm×1520mm，轿跑版长…",
+        "url": "https://www.ithome.com/1/030/237.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Fri, 20 Nov 2026 12:54:12 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "industryInvest",
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-21-1795203568035",
+        "title": "近 400 马力的纯电小钢炮：大众发布 ID. Polo GTI Clubsport 概念车",
+        "summary": "IT之家 11 月 20 日消息，2026 年是大众 GTI 诞生 50 周年。为了庆祝这一里程碑，大众不仅推出了 ID. Polo GTI 和 ID.3 Neo GTI 两款新车，还打破了本田思域 Type R 保持的纽博格林赛道前驱车圈速纪录，进一步证明 GTI 的性能实力。…",
+        "url": "https://www.ithome.com/1/030/235.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Fri, 20 Nov 2026 12:36:00 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "marketing",
+          "startup"
+        ]
+      },
+      {
+        "id": "ithome-24-1795203568035",
+        "title": "长城汽车旗下坦克品牌第 100 万台量产车下线",
+        "summary": "IT之家 11 月 20 日消息，坦克品牌今日宣布，第 1,000,000 台量产车下线。 据IT之家此前报道，11 月 1 日， 坦克品牌全球销量 100 万辆 。 公开信息显示，2020 年 7 月，长城汽车在成都车展上正式发布了“坦克 · WEY”平台，并亮相了该平台首款车…",
+        "url": "https://www.ithome.com/1/030/232.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Fri, 20 Nov 2026 12:17:05 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "marketing"
+        ]
+      },
+      {
+        "id": "tmtpost-2-1795203570544",
+        "title": "迪桑特于松花湖开启「逐雪而生」大秀；上海FILA HOUSE正式启幕；九牧全球首发可持续生态马桶｜消研所周报",
+        "summary": "狼爪欧洲首家新形象旗舰店落地慕尼黑；沃尔玛中国Q3净销售额增长28.5%。",
+        "url": "https://www.tmtpost.com/8213047.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Fri, 20 Nov 2026 19:38:43 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": [
+          "marketing",
+          "startup"
+        ]
+      },
+      {
+        "id": "tmtpost-5-1795203570544",
+        "title": "阿里发布2027年Q2财报：阿里云AI收入增长53%，即时零售减亏",
+        "summary": "AI相关产品收入已经连续第十三个季度保持三位数同比增长，互联网、汽车、具身智能、金融、生物科技等行业客户持续扩容算力采购需求。",
+        "url": "https://www.tmtpost.com/8212798.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Fri, 20 Nov 2026 18:31:54 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": [
+          "aiNews",
+          "top500",
+          "marketing",
+          "startup"
+        ]
+      },
+      {
+        "id": "sspai-0-1795203569659",
+        "title": "本周看什么 | 最近值得一看的 10 部作品",
+        "summary": "📅本周新预告《克里夫·布斯的惊险再冒险》终极预告11月18日，《好莱坞往事》续集电影《克里夫·布斯的惊险再冒险》发布了终极预告，将于11月25日在北美上映，12月23日上线Netflix。大卫·芬奇执 ... 查看全文",
+        "url": "https://sspai.com/post/119337",
+        "source": "少数派",
+        "sourceId": "sspai",
+        "publishedAt": "Fri, 20 Nov 2026 17:54:01 +0800",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "marketing"
+        ]
+      }
+    ],
+    "influencerVideos": [
+      {
+        "id": "leiphone-5-1795203570405",
+        "title": "速卖通双11中国商家狂揽全球订单：品牌成交大涨近50%，美巴创历史新高",
+        "summary": "为了一场从中国走向世界的购物节，美国达人专门请了一天假。 &nbsp; “双11已经成为我们最重要的日子之一。”美国YouTube达人PETER ARVIDSON表示，速卖通是其主要合作平台，“几乎所有同行都在报道双11，我专门请了一天假来盯着。” &nbsp; 达人忙着盯大促，…",
+        "url": "https://www.leiphone.com/category/industrynews/PyCDSvzY37FZLkZA.html",
+        "source": "雷锋网",
+        "sourceId": "leiphone",
+        "publishedAt": "Fri, 20 Nov 2026 16:39:00 +0800",
+        "prefer": [
+          "aiNews"
+        ],
+        "tags": [
+          "marketing"
+        ]
+      },
+      {
+        "id": "cyzone-8-1795203572909",
+        "title": "双11收官，店播成增长引擎，直播电商企业超52万家",
+        "summary": "",
+        "url": "https://www.cyzone.cn/article/854060.html",
+        "source": "创业邦",
+        "sourceId": "cyzone",
+        "publishedAt": "Mon, 16 Nov 2026 08:02:41 GMT",
+        "prefer": [
+          "startup",
+          "industryInvest"
+        ],
+        "tags": [
+          "marketing",
+          "startup"
+        ]
+      }
+    ],
+    "crossCollab": [
+      {
+        "id": "ithome-3-1795203568035",
+        "title": "AI 攻克黎曼猜想？Anthropic 数学家宣称已与 Claude 合作完成证明",
+        "summary": "IT之家 11 月 20 日消息，据《科学美国人》报道，当地时间 20 日，Anthropic 数学家莱文特 · 阿尔波格宣称，自己与 AI 模型 Claude 合作，攻克了数学界最著名的难题之一 —— 黎曼猜想。 阿尔波格在个人网站发表声明称：“我相信， 我与 Claude 合…",
+        "url": "https://www.ithome.com/1/030/278.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Fri, 20 Nov 2026 15:37:46 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "aiNews",
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-22-1795203568035",
+        "title": "零跑与欧宝正式签署合作协议：共同开发全新 C 级 SUV 车型，预计 2028 年开售",
+        "summary": "IT之家 11 月 20 日消息，零跑科技创始人、董事长兼 CEO 朱江明与欧宝 CEO Florian Huettl 正式签署合作协议， 双方将共同开发一款全新的 C 级 SUV 车型 。 目前，双方项目团队已分别在中国杭州和德国吕塞尔斯海姆的联合项目中心开展相关工作，本次签约…",
+        "url": "https://www.ithome.com/1/030/234.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Fri, 20 Nov 2026 12:23:14 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "marketing"
+        ]
+      },
+      {
+        "id": "leiphone-5-1795203570405",
+        "title": "速卖通双11中国商家狂揽全球订单：品牌成交大涨近50%，美巴创历史新高",
+        "summary": "为了一场从中国走向世界的购物节，美国达人专门请了一天假。 &nbsp; “双11已经成为我们最重要的日子之一。”美国YouTube达人PETER ARVIDSON表示，速卖通是其主要合作平台，“几乎所有同行都在报道双11，我专门请了一天假来盯着。” &nbsp; 达人忙着盯大促，…",
+        "url": "https://www.leiphone.com/category/industrynews/PyCDSvzY37FZLkZA.html",
+        "source": "雷锋网",
+        "sourceId": "leiphone",
+        "publishedAt": "Fri, 20 Nov 2026 16:39:00 +0800",
+        "prefer": [
+          "aiNews"
+        ],
+        "tags": [
+          "marketing"
+        ]
+      },
+      {
+        "id": "leiphone-12-1795203570405",
+        "title": "当AI影视遇上文化出海：优秀作品亮相第47届美国电影市场",
+        "summary": "当地时间11月10日至15日，第47届美国电影市场（AFM）在洛杉矶举行。AI影视平台携中国传统文化题材作品亮相展会并达成多项海外合作，为中华文化国际传播探索技术赋能的新实践。 本届展会以“全球影视经济新图景”为主题，聚焦全球影视产业融资、制作、发行领域的新机遇，吸引来自全球超8…",
+        "url": "https://www.leiphone.com/category/industrynews/sFbtCLZ06plyUxPF.html",
+        "source": "雷锋网",
+        "sourceId": "leiphone",
+        "publishedAt": "Fri, 20 Nov 2026 14:40:00 +0800",
+        "prefer": [
+          "aiNews"
+        ],
+        "tags": [
+          "industryInvest",
+          "marketing",
+          "startup"
+        ]
+      },
+      {
+        "id": "geekpark-14-1795203571582",
+        "title": "传小米联手 AMG 之父，打造极致性能车；SpaceX 首次实现筷子夹飞船；「苹果最暗产品」诞生",
+        "summary": "曝小米与「AMG 之父」创办的 HWA 秘密合作，希望打造「载入史册」新车 当地时间 11 月 5 日，意媒 Quattroruote 援引不具名知情人士消息称，小米与 HWA 或在秘密合作开发一款超高性能汽车，部分知名零部件供应商也有望参与其中。 双方据称希望打造一款性能前所未…",
+        "url": "http://www.geekpark.net/news/373993",
+        "source": "极客公园",
+        "sourceId": "geekpark",
+        "publishedAt": "Sun, 15 Nov 2026 08:02:41 +0800",
+        "prefer": [
+          "aiNews"
+        ],
+        "tags": [
+          "top500",
+          "marketing"
+        ]
+      }
+    ],
+    "hotTopics": [
+      {
+        "id": "ithome-0-1795203568035",
+        "title": "网传零跑 A10 后备箱被几箱啤酒压穿？官方回应系下层独立储物盒受损，非底板或整车承载结构损坏",
+        "summary": "IT之家 11 月 21 日消息，有零跑 A10 车主用户近日发布视频，反馈自己车辆的后备箱在装了几箱啤酒后被压穿底。随后，该事件引发网友热议。 IT之家注意到，针对网传情况，零跑汽车官方在昨晚 23:05 发布情况说明： 关于零跑 A10 后备厢储物盒的情况说明 近日，我们关注…",
+        "url": "https://www.ithome.com/1/030/283.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Fri, 20 Nov 2026 18:57:05 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-1-1795203568035",
+        "title": "华为星芒刘赫：OSTA O1 Pro 最受欢迎的 16G 版本已在全平台售罄，远超预期",
+        "summary": "IT之家 11 月 21 日消息，首款为 AI 而生的鸿蒙手机 —— 华为星芒 OSTA O1 Pro 已于昨日下午正式发布 ， 首发价 5499 元起、叠加国补后 4999 元起 。 ▲ IT之家开箱：华为全新子品牌星芒 OSTA O1 Pro 手机实拍 IT之家注意到，华为星…",
+        "url": "https://www.ithome.com/1/030/282.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Fri, 20 Nov 2026 18:43:53 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "top500",
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-2-1795203568035",
+        "title": "QQ 鸿蒙版 App 获 9.2.90 邀测升级：新增支持互动标识、表情搜索等功能",
+        "summary": "IT之家 11 月 21 日消息，QQ 鸿蒙版 App 昨日在华为应用市场（App Gallery）开启 9.2.90 (3680) 版本邀测升级（需收到短信通知后点击链接跳转安装），测试时间为 2026/11/20-2026/12/11。 IT之家附 QQ 鸿蒙版 App 本次…",
+        "url": "https://www.ithome.com/1/030/279.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Fri, 20 Nov 2026 16:00:13 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "top500"
+        ]
+      },
+      {
+        "id": "ithome-3-1795203568035",
+        "title": "AI 攻克黎曼猜想？Anthropic 数学家宣称已与 Claude 合作完成证明",
+        "summary": "IT之家 11 月 20 日消息，据《科学美国人》报道，当地时间 20 日，Anthropic 数学家莱文特 · 阿尔波格宣称，自己与 AI 模型 Claude 合作，攻克了数学界最著名的难题之一 —— 黎曼猜想。 阿尔波格在个人网站发表声明称：“我相信， 我与 Claude 合…",
+        "url": "https://www.ithome.com/1/030/278.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Fri, 20 Nov 2026 15:37:46 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "aiNews",
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-4-1795203568035",
+        "title": "明基 AK900ST AI 高尔夫投影机发售：6000lm 亮度、短焦镜头设计，52999 元",
+        "summary": "IT之家 11 月 20 日消息，明基旗下 AK900ST“AI 高尔夫投影机”现已在京东发售，该产品专为高尔夫模拟及多场景娱乐打造，定价为 52999 元。 京东 明基（BenQ）AK900ST AI 高尔夫专业模拟投影仪 激光投影（4K 超清 AI 画质臻彩引擎 6000 流…",
+        "url": "https://www.ithome.com/1/030/277.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Fri, 20 Nov 2026 15:37:26 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "top500"
+        ]
+      },
+      {
+        "id": "ithome-5-1795203568035",
+        "title": "在欧洲已拿下 12 国，特斯拉辅助驾驶系统获意大利运行许可",
+        "summary": "特斯拉辅助驾驶系统（TAD）获得意大利运行许可，成为继此前 11 个欧盟国家之后，又一个获准使用该系统的市场。 当地时间 11 月 20 日，意大利交通部向特斯拉辅助驾驶系统颁发临时型式认证。交通部长马泰奥 · 萨尔维尼在 X 上宣布这一消息，称此举是朝着创新、科技和未来出行迈出…",
+        "url": "https://www.ithome.com/1/030/276.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Fri, 20 Nov 2026 15:29:43 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": []
+      },
+      {
+        "id": "ithome-6-1795203568035",
+        "title": "约翰斯 · 霍普金斯大学新研究：美国最早明年就可能面临电网设备短缺",
+        "summary": "IT之家 11 月 20 日消息，据《财富》杂志今日报道，过去一周，美国接连发生多起技术故障，导致航班停飞、银行交易延误，数百万人无法正常使用电子邮件，暴露出美国基础设施的脆弱性。 美国电网同样存在短板，问题出在 铜和钢等材料的供应上 。 约翰斯 · 霍普金斯大学近日在《Cell…",
+        "url": "https://www.ithome.com/1/030/275.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Fri, 20 Nov 2026 15:22:11 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": []
+      },
+      {
+        "id": "ithome-7-1795203568035",
+        "title": "伦敦交通局遭网络攻击，26.5 万名“牡蛎”交通卡用户数据泄露",
+        "summary": "IT之家 11 月 20 日消息，据外媒 Neowin 今天（20 日）晚间报道，伦敦交通局（TfL）证实，黑客入侵导致 26.5 万名 Oyster（牡蛎）照片卡用户的敏感信息泄露。 ▲ 图源英国政府网站 Oyster 照片卡是 伦敦公共交通系统使用的一种实名交通卡 ，符合条件…",
+        "url": "https://www.ithome.com/1/030/274.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Fri, 20 Nov 2026 15:06:42 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": []
+      },
+      {
+        "id": "ithome-8-1795203568035",
+        "title": "内存成本涨幅前所未有，Valve 坦承 Steam Machine 未来售价“无法得知”",
+        "summary": "IT之家 11 月 20 日消息，AI 热潮引发的内存危机波及几乎所有消费电子产品，Steam Machine 也未能幸免。 由于需求旺盛，Valve 直到近期才完成 512GB 版的全部预订订单。目前该版本尚有少量现货，消费者可以直接下单，无需继续排队。 好消息之外还有坏消息。…",
+        "url": "https://www.ithome.com/1/030/273.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Fri, 20 Nov 2026 14:46:40 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": []
+      },
+      {
+        "id": "ithome-9-1795203568035",
+        "title": "德国首家，奔驰获批在“老家”开展点到点辅助驾驶",
+        "summary": "IT之家 11 月 20 日消息，梅赛德斯-奔驰今天（20 日）宣布，成为德国首家获得 点到点辅助驾驶 监管许可的车企，为高级自动驾驶技术在公共道路上的应用取得重要突破。 这是德国首次依据联合国高级驾驶辅助系统新规颁发此类许可 。 各大车企也在竞相拓展自动驾驶功能的使用场景，突破…",
+        "url": "https://www.ithome.com/1/030/249.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Fri, 20 Nov 2026 14:30:37 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": []
+      },
+      {
+        "id": "ithome-10-1795203568035",
+        "title": "三星电子高管：Neocloud 风险有限，AI 投资基于实际需求",
+        "summary": "IT之家 11 月 20 日消息，据路透社当地时间 18 日报道，三星电子两位高管在本周举行的摩根士丹利会议上表示 Neocloud（新兴 AI 云服务企业）面临的不确定性对整体市场的影响有限，这轮 AI 投资基于实际需求而非投机。 三星 DS（设备解决方案，半导体板块）部门经营…",
+        "url": "https://www.ithome.com/1/030/247.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Fri, 20 Nov 2026 14:09:40 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": []
+      },
+      {
+        "id": "ithome-11-1795203568035",
+        "title": "Anthropic 上市次日股价下跌 9%，AI 板块雪上加霜",
+        "summary": "IT之家 11 月 20 日消息，据路透社报道，当地时间 20 日，Anthropic 上市次日股价下跌，令低迷的 AI 板块雪上加霜。这场备受期待的 IPO，也没能重新点燃投资者的热情。 作为 AI 投资热潮的重要风向标，Anthropic 上市曾被寄予厚望，市场期待借此提振经…",
+        "url": "https://www.ithome.com/1/030/246.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Fri, 20 Nov 2026 14:05:13 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "industryInvest",
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-12-1795203568035",
+        "title": "比亚迪腾势汽车李慧：易三方 Evo 是全球独一无二的硬核技术平台，友商追赶了易三方超过三年也没追上",
+        "summary": "IT之家 11 月 20 日消息，博主 @向北不断电 今日发文，称腾势 N8 的优势依然明显，也是市面上为数不多闭眼买的车型，并提到易三方 Evo 独一档强大。 腾势汽车总经理李慧随后转发，并表示 易三方 Evo 是全球独一无二的硬核技术平台，目前任何一个汽车品牌都没有，友商追赶…",
+        "url": "https://www.ithome.com/1/030/244.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Fri, 20 Nov 2026 13:48:56 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "top500",
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-13-1795203568035",
+        "title": "三星电子非半导体板块内存平均采购价今年前九个月同比暴涨 263%",
+        "summary": "IT之家 11 月 20 日消息，据韩联社当地时间 18 日报道，根据三星电子同日发布的详细三季报，该企业负责非半导体板块的 DX（设备体验）部门 今年 1~9 月的内存平均采购价格同比暴涨 263% 。 而在相同时间内，DX 部门的移动应用处理器平均采购价格上涨了 8%， 旗下…",
+        "url": "https://www.ithome.com/1/030/243.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Fri, 20 Nov 2026 13:47:56 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "marketing"
+        ]
+      },
+      {
+        "id": "ithome-14-1795203568035",
+        "title": "我国成功发射卫星互联网低轨 30 组卫星",
+        "summary": "IT之家 11 月 20 日消息，今天（20 日）19 时 59 分，我国在海南商业航天发射场使用长征八号甲运载火箭，成功将卫星互联网低轨 30 组卫星发射升空，卫星顺利进入预定轨道，发射任务获得圆满成功。 据IT之家了解，11 月 9 日 4 时 24 分，长征十二号运载火箭在…",
+        "url": "https://www.ithome.com/1/030/242.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Fri, 20 Nov 2026 13:46:45 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": []
+      }
+    ],
+    "startup": [
+      {
+        "id": "ithome-21-1795203568035",
+        "title": "近 400 马力的纯电小钢炮：大众发布 ID. Polo GTI Clubsport 概念车",
+        "summary": "IT之家 11 月 20 日消息，2026 年是大众 GTI 诞生 50 周年。为了庆祝这一里程碑，大众不仅推出了 ID. Polo GTI 和 ID.3 Neo GTI 两款新车，还打破了本田思域 Type R 保持的纽博格林赛道前驱车圈速纪录，进一步证明 GTI 的性能实力。…",
+        "url": "https://www.ithome.com/1/030/235.htm",
+        "source": "IT之家",
+        "sourceId": "ithome",
+        "publishedAt": "Fri, 20 Nov 2026 12:36:00 GMT",
+        "prefer": [
+          "aiNews",
+          "hotTopics"
+        ],
+        "tags": [
+          "marketing",
+          "startup"
+        ]
+      },
+      {
+        "id": "tmtpost-2-1795203570544",
+        "title": "迪桑特于松花湖开启「逐雪而生」大秀；上海FILA HOUSE正式启幕；九牧全球首发可持续生态马桶｜消研所周报",
+        "summary": "狼爪欧洲首家新形象旗舰店落地慕尼黑；沃尔玛中国Q3净销售额增长28.5%。",
+        "url": "https://www.tmtpost.com/8213047.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Fri, 20 Nov 2026 19:38:43 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": [
+          "marketing",
+          "startup"
+        ]
+      },
+      {
+        "id": "tmtpost-4-1795203570544",
+        "title": "小鹏预计全年海外销量破10万辆；涂鸦智能AI Energy方案在欧洲多国部署；美团索降无人机迪拜首秀｜一周大公司出海动态",
+        "summary": "一文看完本周大公司出海全全球化动态。",
+        "url": "https://www.tmtpost.com/8213045.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Fri, 20 Nov 2026 18:58:48 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": [
+          "top500",
+          "startup"
+        ]
+      },
+      {
+        "id": "tmtpost-5-1795203570544",
+        "title": "阿里发布2027年Q2财报：阿里云AI收入增长53%，即时零售减亏",
+        "summary": "AI相关产品收入已经连续第十三个季度保持三位数同比增长，互联网、汽车、具身智能、金融、生物科技等行业客户持续扩容算力采购需求。",
+        "url": "https://www.tmtpost.com/8212798.html",
+        "source": "钛媒体",
+        "sourceId": "tmtpost",
+        "publishedAt": "Fri, 20 Nov 2026 18:31:54 +0800",
+        "prefer": [
+          "industryInvest",
+          "aiNews"
+        ],
+        "tags": [
+          "aiNews",
+          "top500",
+          "marketing",
+          "startup"
+        ]
+      },
+      {
+        "id": "leiphone-7-1795203570405",
+        "title": "Lazada双11：品牌商城贡献近八成成交，天猫一键轻出海增长超200%",
+        "summary": "东南亚年终购物旺季由双十一率先点燃。今年双十一，LazMall品牌商城贡献了区域总成交额的近八成，其成交额达到日常水平的7倍。Lazada“一键轻出海”业务成交额同比增长超200%，订单量达到平日近4倍。品牌消费持续升温，跨境生意节节攀升，中国商家正借势Lazada，抢先收获年终…",
+        "url": "https://www.leiphone.com/category/industrynews/eimD3gxofdJcSrVY.html",
+        "source": "雷锋网",
+        "sourceId": "leiphone",
+        "publishedAt": "Fri, 20 Nov 2026 16:36:00 +0800",
+        "prefer": [
+          "aiNews"
+        ],
+        "tags": [
+          "marketing",
+          "startup"
+        ]
+      },
+      {
+        "id": "leiphone-8-1795203570405",
+        "title": "CoCreate伦敦峰会揭开跨境B2B电商新机遇：阿里国际站欧洲订单三年增长70%",
+        "summary": "11月19日，阿里国际站CoCreate峰会在英国伦敦举行，超过5000名欧洲中小企业主风雨无阻地奔赴这场AI跨境采购盛会。如此热情的背后，是跨境B2B电商正在迎来新的增长机遇。 &nbsp; 阿里国际站欧美买家业务副总裁郭威廷在现场透露了几个关键数字：三年来，阿里国际站欧洲订单…",
+        "url": "https://www.leiphone.com/category/industrynews/eqi19Azefys58IT4.html",
+        "source": "雷锋网",
+        "sourceId": "leiphone",
+        "publishedAt": "Fri, 20 Nov 2026 16:35:00 +0800",
+        "prefer": [
+          "aiNews"
+        ],
+        "tags": [
+          "top500",
+          "startup"
+        ]
+      },
+      {
+        "id": "leiphone-12-1795203570405",
+        "title": "当AI影视遇上文化出海：优秀作品亮相第47届美国电影市场",
+        "summary": "当地时间11月10日至15日，第47届美国电影市场（AFM）在洛杉矶举行。AI影视平台携中国传统文化题材作品亮相展会并达成多项海外合作，为中华文化国际传播探索技术赋能的新实践。 本届展会以“全球影视经济新图景”为主题，聚焦全球影视产业融资、制作、发行领域的新机遇，吸引来自全球超8…",
+        "url": "https://www.leiphone.com/category/industrynews/sFbtCLZ06plyUxPF.html",
+        "source": "雷锋网",
+        "sourceId": "leiphone",
+        "publishedAt": "Fri, 20 Nov 2026 14:40:00 +0800",
+        "prefer": [
+          "aiNews"
+        ],
+        "tags": [
+          "industryInvest",
+          "marketing",
+          "startup"
+        ]
+      },
+      {
+        "id": "cyzone-0-1795203572909",
+        "title": "绿氢管道跨省输送，氢能产业迈入管网化阶段",
+        "summary": "11 月中旬，内蒙古乌兰察布绿氢及输氢管道项目正式启动。项目分两期建设，一期年制氢规模 10 万吨，配套一条 805 公里长输管线，串联内蒙古、河北、天津、北京，这也是国内首次把绿氢的源头供给与跨区域输送，完整落进长输管道的工程蓝图之中。 在此之前，国内多数绿氢项目遵循 “就地制…",
+        "url": "https://www.cyzone.cn/article/854564.html",
+        "source": "创业邦",
+        "sourceId": "cyzone",
+        "publishedAt": "Fri, 20 Nov 2026 05:55:29 GMT",
+        "prefer": [
+          "startup",
+          "industryInvest"
+        ],
+        "tags": []
+      },
+      {
+        "id": "cyzone-1-1795203572909",
+        "title": "轮胎出口量增价跌，制造环节拼起高端化",
+        "summary": "",
+        "url": "https://www.cyzone.cn/article/854563.html",
+        "source": "创业邦",
+        "sourceId": "cyzone",
+        "publishedAt": "Fri, 20 Nov 2026 05:53:48 GMT",
+        "prefer": [
+          "startup",
+          "industryInvest"
+        ],
+        "tags": []
+      },
+      {
+        "id": "leiphone-15-1795203570405",
+        "title": "独家丨荣耀、腾讯背景团队创业做 AI 交互吊坠，已获李泽湘早期投资",
+        "summary": "创始人肖裕炜曾在荣耀工作五年，经历横跨 GPU 底层技术与 AI 终端设备。 作者丨黄艳冰 编辑丨 姚单 雷峰网·鲸犀独家获悉， 荣耀前高级算法工程师肖裕炜已离职创业，于今年年中创立 AI 交互硬件公司 KnowVoice。 其目前正在李泽湘教授的下深圳科创学院孵化，已获得早期投…",
+        "url": "https://www.leiphone.com/category/weiwu/cmj50XKwCB4drkus.html",
+        "source": "雷锋网",
+        "sourceId": "leiphone",
+        "publishedAt": "Fri, 20 Nov 2026 11:22:00 +0800",
+        "prefer": [
+          "aiNews"
+        ],
+        "tags": [
+          "aiNews",
+          "top500",
+          "startup"
+        ]
+      },
+      {
+        "id": "cyzone-2-1795203572909",
+        "title": "腾讯等入股速芯微电子",
+        "summary": "天眼查App显示，近日，合肥市速芯微电子科技有限公司发生工商变更，新增广西腾讯创业投资有限公司、深圳君联君智创业投资基金合伙企业（有限合伙）等为股东，同时，注册资本由100万元人民币增至约215万元人民币。 该公司成立于2025年8月，法定代表人为余玉揆，经营范围包括集成电路设计…",
+        "url": "https://www.cyzone.cn/article/854456.html",
+        "source": "创业邦",
+        "sourceId": "cyzone",
+        "publishedAt": "Thu, 19 Nov 2026 08:30:19 GMT",
+        "prefer": [
+          "startup",
+          "industryInvest"
+        ],
+        "tags": [
+          "industryInvest",
+          "top500",
+          "startup"
+        ]
+      },
+      {
+        "id": "cyzone-3-1795203572909",
+        "title": "资生堂拟转让欧珀莱运营主体全部股权",
+        "summary": "资生堂11月18日宣布，拟将欧珀莱品牌运营主体资生堂丽源化妆品有限公司100%股权转让给由博裕资本主导的财团。交易还包括北京工厂及相关设备，预计于2026年第四季度至2027年第一季度完成交割。 天眼查App显示，资生堂丽源化妆品有限公司成立于1991年12月，注册资本9430万…",
+        "url": "https://www.cyzone.cn/article/854455.html",
+        "source": "创业邦",
+        "sourceId": "cyzone",
+        "publishedAt": "Thu, 19 Nov 2026 03:26:19 GMT",
+        "prefer": [
+          "startup",
+          "industryInvest"
+        ],
+        "tags": [
+          "industryInvest",
+          "marketing"
+        ]
+      },
+      {
+        "id": "geekpark-4-1795203571582",
+        "title": "跑分狂飙，实测翻车，刚发的 GPT-6.2 暴露了 OpenAI 的软肋",
+        "summary": "作者｜Techno 之王 编辑｜靖宇 「 基本不可用，不推荐 」。 OpenAI 新模型上线仅仅 8 分钟，硅谷知名创业者 Matt Shumer，就在社交平台上扔下一句毫不留情的评价。 紧接着，拥有大批开发者拥趸的 Theo Browne，发了一篇长文《我为什么讨厌 GPT-6…",
+        "url": "http://www.geekpark.net/news/374175",
+        "source": "极客公园",
+        "sourceId": "geekpark",
+        "publishedAt": "Wed, 18 Nov 2026 21:40:28 +0800",
+        "prefer": [
+          "aiNews"
+        ],
+        "tags": [
+          "aiNews",
+          "startup"
+        ]
+      },
+      {
+        "id": "cyzone-4-1795203572909",
+        "title": "奇瑞控股集团增资至63.9亿 增幅约10%",
+        "summary": "天眼查App显示，近日，奇瑞控股集团有限公司发生工商变更，新增工融金投二号（北京）新兴产业股权投资基金合伙企业（有限合伙）为股东，同时，注册资本由约58.2亿元人民币增至约63.9亿元人民币，增幅约10%。 该公司成立于2010年10月，法定代表人为尹同跃，经营范围包括汽车及汽车…",
+        "url": "https://www.cyzone.cn/article/854288.html",
+        "source": "创业邦",
+        "sourceId": "cyzone",
+        "publishedAt": "Wed, 18 Nov 2026 06:51:38 GMT",
+        "prefer": [
+          "startup",
+          "industryInvest"
+        ],
+        "tags": [
+          "industryInvest"
+        ]
+      },
+      {
+        "id": "cyzone-5-1795203572909",
+        "title": "倍诺达降价进医保",
+        "summary": "11月14日，2026年版国家医保药品目录公布，药明巨诺的倍诺达（瑞基奥仑赛注射液）成为首个且目前唯一进入国家基本医保的CAR-T药物：定价由129万元/支降至医保支付标准28.86万元，降幅77.6%，2027年1月1日起执行，覆盖大B细胞淋巴瘤、滤泡性淋巴瘤、套细胞淋巴瘤三项…",
+        "url": "https://www.cyzone.cn/article/854287.html",
+        "source": "创业邦",
+        "sourceId": "cyzone",
+        "publishedAt": "Wed, 18 Nov 2026 02:54:20 GMT",
+        "prefer": [
+          "startup",
+          "industryInvest"
+        ],
+        "tags": []
+      }
+    ]
+  },
+  "sources": {
+    "ok": [
+      "IT之家",
+      "量子位",
+      "爱范儿",
+      "少数派",
+      "雷锋网",
+      "钛媒体",
+      "新浪科技",
+      "新浪财经",
+      "极客公园",
+      "创业邦"
+    ],
+    "failed": [
+      "数英网（HTTP 403）"
+    ]
+  }
+}
